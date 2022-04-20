@@ -1,0 +1,74 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Composition of Haynes 625 in weight percent.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Ni">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Co">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Fe">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Cr">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Mo">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Nb + Ta">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Mn">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Si">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="Al">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="Ti">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="C">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Balance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="21">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="9">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="3.7">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="0.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="0.5">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="0.4">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="0.4">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="0.10">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="annealed plate of 26 mm thickness." type="entailed">
+   </statement>
+   <statement id="2" text="Balance 0.5 Mn is Ni." type="entailed">
+   </statement>
+   <statement id="3" text="Balance 0.6 Mn is Ni." type="refuted">
+   </statement>
+   <statement id="4" text="Nb + Ta Ni Balance is 3.5." type="refuted">
+   </statement>
+   <statement id="6" text="Ni Co Balance is 1." type="entailed">
+   </statement>
+   <statement id="8" text="Alloy 625 is a solid solution strengthened nickel alloy with the nominal composition given in Table 1 ." type="entailed">
+   </statement>
+   <statement id="9" text="Si is 0.5." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

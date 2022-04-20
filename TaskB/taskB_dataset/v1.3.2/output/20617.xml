@@ -1,0 +1,354 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Test cases for F experiments
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Test Run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Q
+     
+     (l/s)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="h
+     
+     (mm)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="U
+      
+       m
+      
+
+     (m/s)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="i
+     
+     (%)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="F1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="22.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="170">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.22">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.107">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="F2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="50.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="170">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.49">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.336">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="F3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="83.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="170">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.82">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.707">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Q,UM,I value varies for F1,F2 and F3." type="entailed">
+   </statement>
+   <statement id="4" text="F1 has the lowest value of I." type="entailed">
+   </statement>
+   <statement id="8" text="Three conditions, indicated as F1, F2 and F3 were tested." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 1">
+  <caption text="
+
+   Data archive structure
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Experiment set sub-folder">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Test case sub-folder">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Sub-folder">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Sub-folder">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Sub-folders">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="F_Data">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="F1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="F1_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="F1_Transect_1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="F1_Transect_2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="F1_Videos">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="F2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="F2_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="F2_Transect_1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="F2_Transect_2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="F2_Videos">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="F3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="F3_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="F3_Transect_1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="F3_Transect_2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="F3_Videos">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="R_Data">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="R1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="R1_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="R2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="R2_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="R3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="R3_ADV_Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="ADV_Raw; ADV_Post-processed">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="ADV_Raw; ADV_Post-processed is different for every Experiment set sub-folder." type="refuted">
+   </statement>
+   <statement id="2" text="ADV_Raw; ADV_Post-processed is same for every Experiment set sub-folder." type="entailed">
+   </statement>
+   <statement id="3" text="Data on vegetation characterization, flowrate and water depth are reported in this article." type="entailed">
+   </statement>
+   <statement id="6" text="F_Data has three Test case sub-folder(F1,F2,F3)." type="entailed">
+   </statement>
+   <statement id="8" text="R_Data has five Test case sub-folder(R1,R2,R3)." type="refuted">
+   </statement>
+   <statement id="10" text="There are two different Experiment set sub-folder." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Test runs and cylinder arrangement specification for R tests.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Test Run">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Q
+     
+     (l/s)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="h
+     
+     (mm)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="U
+      
+       m
+      
+
+     (m/s)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="L
+      
+       x
+      
+
+     (mm)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="L
+      
+       y
+      
+
+     (mm)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Transect longitudinal location (m)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="R1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="15.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="84">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="25">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="25">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="∼3.4 (section 44)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="R2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="31.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="135">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.59">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="25">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="50">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="∼3.6 (section 42)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="R3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="31.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="122">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.65">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="100">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="50">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="∼3.7 (section 41)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="The highest h (mm) value is 135 in R2." type="entailed">
+   </statement>
+   <statement id="7" text="The Transect longitudinal location is measured in meters." type="entailed">
+   </statement>
+   <statement id="8" text="There are 4 types of test run ranging from R1 to R4." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

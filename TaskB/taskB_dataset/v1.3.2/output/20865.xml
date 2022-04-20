@@ -1,0 +1,849 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Means, standard deviations, and inter-correlations between the study variables.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes.
+   
+    N
+   
+   = 77 participants and
+   
+    N
+   
+   = 2310 occasions. Correlations below the diagonal are correlations on the within (day) level and correlations above the diagonal are correlations on the between (person) level.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="SD">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="3">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="4">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="5">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="6">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1. Increasing resources">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="3.52">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.69">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.63
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.03">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="0.25
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="0.12">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="0.06">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2. Increasing challenges">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="3.05">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.77">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.49
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="−0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="0.28
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="0.10">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="0.19">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3. Decreasing demands">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="2.18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.80">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="−0.10
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="−0.11
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0.05">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="0.26
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="0.04">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4. Playful work design">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1.59">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.78">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.16
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.14
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="−0.12
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="–">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="0.09">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="0.30
+     
+
+       ⁎⁎">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5. Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2.42">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.91">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.24
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.16
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.00">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.18
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.00">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6. Job performance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="3.84">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.44">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.15
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.15
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="−0.13
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.17
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="0.12
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="–">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Job performance has the highest value for M of 3.84." type="entailed">
+   </statement>
+   <statement id="3" text="Job performance has the highest valueof 0.11 for SD." type="refuted">
+   </statement>
+   <statement id="4" text="Job performance has the lowest value for SD of 0.44." type="entailed">
+   </statement>
+   <statement id="5" text="Job performance has the lowest value of 3.77 for M." type="refuted">
+   </statement>
+   <statement id="6" text="Playful work design has the highest value for M of 0.12." type="refuted">
+   </statement>
+   <statement id="9" text="There are six different Means, standard deviations, and inter-correlations between the study variables." type="entailed">
+   </statement>
+   <statement id="10" text="Work pressure has the highest value for SD of 0.91." type="entailed">
+   </statement>
+   <statement id="11" text="Work pressure has the lowest value for SD of 5.71." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Multilevel estimates for models with other-ratings of job performance as dependent variable (day level).
+  
+">
+  </caption>
+  <legend text="
+
+   Note.
+   
+    N
+   
+   = 77 participants and
+   
+    N
+   
+   = 2310 occasions.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Null model">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="Main effects">
+   </cell>
+   <cell col-end="9" col-start="7" row-end="0" row-start="0" text="Interaction model">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="B">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="SE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="p
+     
+     &lt;">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="B">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="SE">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="p
+     
+     &lt;">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="B">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="SE">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="p
+     
+     &lt;">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Intercept">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="3.841">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.028">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.000">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="3.848">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.027">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="0.000">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="3.856">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="0.027">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="0.000">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Increasing resources">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.035">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.016">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0.014">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="0.033">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="0.016">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="0.020">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Increasing challenges">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.042">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.013">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="0.001">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="0.041">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="0.013">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="0.001">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Decreasing demands">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−0.065">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.014">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.000">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="−0.067">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.014">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="0.000">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Playful work design">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.068">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.013">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.000">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="0.075">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="0.013">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="0.000">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.037">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.012">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.001">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.040">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.012">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="0.000">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Increasing resources × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="−0.022">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="0.023">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="0.169">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Increasing challenges × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="−0.048">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="0.019">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="0.006">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Decreasing demands × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="0.030">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="0.020">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="0.067">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Playful work design × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="−0.045">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.019">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="0.009">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Variance and
+     
+      SE
+     
+     level 2 (person) (percentage of total variance)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.055 (28.9%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.050">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="0.015">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="0.050">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="0.009">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Variance and
+     
+      SE
+     
+     level 1 (day) (percentage of total variance)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.135 (71.0%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.004">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.114">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="0.004">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="0.112">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="0.003">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="13" row-start="13" text="">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="−2 Log likelihood">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="2104.153">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="1622.403">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="1593.247">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="In support of the predicted interaction effect, we find that the playful work design  work pressure interaction is negative and significant (B = 0.045, p &lt; .009) in the interaction model ( Table 2 )." type="entailed">
+   </statement>
+   <statement id="3" text="Interaction model p &lt; is having same values for all performances." type="refuted">
+   </statement>
+   <statement id="4" text="Intercept of B is 3.841." type="entailed">
+   </statement>
+   <statement id="6" text="Multilevel estimates for models with job performance as dependent variable (day level). is observed." type="entailed">
+   </statement>
+   <statement id="7" text="Null model of Work pressure is empty." type="entailed">
+   </statement>
+   <statement id="9" text="The job performance of Increasing challenges is same for all." type="refuted">
+   </statement>
+   <statement id="12" text="Variance and SE level 1 for Null model B is 0.135 (71.0%) ." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Sensitivity analysis including between-person mean scores for all predictors.
+  
+">
+  </caption>
+  <legend text="
+
+   Note.
+   
+    N
+   
+   = 77 participants and
+   
+    N
+   
+   = 2310 occasions.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Interaction model">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="B">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="SE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="p
+     
+     &lt;">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Intercept">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="3.856">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.025">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.000">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Between-person increasing resources">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−0.058">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.075">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.220">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Between-person increasing challenges">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.093">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.075">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.108">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Between-person decreasing demands">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.025">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.043">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.281">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Between-person playful work design">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.123">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.052">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.009">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Between-person work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−0.014">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.055">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.399">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Within-person increasing resources">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.091">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.077">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.119">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Within-person increasing challenges">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−0.052">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.076">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.473">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Within-person decreasing demands">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−0.092">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.045">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.021">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Within-person playful work design">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="−0.048">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.054">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.187">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Within-person work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.054">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.056">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.168">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Increasing resources × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="−0.023">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.023">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.159">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Increasing challenges × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="−0.048">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="0.019">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.006">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Decreasing demands × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.030">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.020">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.067">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Playful work design × Work pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="−0.047">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="0.019">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.007">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Variance and
+     
+      SE
+     
+     level 2 (person)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="0.045">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="0.008">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Variance and
+     
+      SE
+     
+     level 1 (day)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="0.112">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="0.003">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="−2 Log likelihood">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="1584.941">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="2 Log likelihood B is 1584.941." type="entailed">
+   </statement>
+   <statement id="1" text="As shown in Table 3 reported in Appendix A , the sensitivity analysis revealed almost identical parameter estimates and levels of significance for all interactions tested in our focal analysis (B = 0.023, p &lt; .159; B = 0.048, p &lt; .006;" type="entailed">
+   </statement>
+   <statement id="2" text="B = 0.030, p &lt; .067" type="entailed">
+   </statement>
+   <statement id="4" text="The Intercept of the Interaction model B is 0.045 ." type="refuted">
+   </statement>
+   <statement id="5" text="The Intercept of the Interaction model B is 3.856." type="entailed">
+   </statement>
+   <statement id="6" text="The Intercept of the Interaction model SE is 3.856." type="refuted">
+   </statement>
+   <statement id="7" text="The SE of Interaction model  for Variance and SE level 1 is 0.003." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

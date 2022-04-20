@@ -1,0 +1,77 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Microstructural parameters of phases present obtained from Rietveld refinement using MAUD software [
+   ].
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="β Ti-based">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="γ Ti-based">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="ZrO
+     
+      2
+     
+     Y
+     
+      2
+     
+     O
+     
+      3">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="&lt;D&gt;, nm">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="48">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="&lt;ε
+     
+      2
+     
+     &gt;
+     
+      1/2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.0151">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.0054">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.0269">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="wt.%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="47">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1.5">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the &lt; 2 &gt; 1/2 values consists of negative values." type="refuted">
+   </statement>
+   <statement id="5" text="The highest &lt;D&gt;, nm value is 48 of ZrO 2 Y 2 O 3." type="entailed">
+   </statement>
+   <statement id="7" text="There are 5 columns in the given table." type="refuted">
+   </statement>
+   <statement id="8" text="All the values in the given table are the same." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

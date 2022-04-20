@@ -1,0 +1,336 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   hiPSC based models of RP and associated characteristic phenotypes.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Disease">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Mutation">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Cell type">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Phenotype">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Reference">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="XLRP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="RPGR">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="3D retinal organoids hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Mutations perturb RPGR/gelsolin interaction, compromising gelsolin activation (gelsolin controls actin disassembly in connecting cilium, thereby facilitating rhodopsin transport to POS). Mutations affect cilia length and PR number.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(
+     
+      Megaw et al., 2017
+     
+     )
+     
+     (
+     
+      Deng et al., 2018
+     
+     )">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="XLRP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="RP2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Complete lack of RP2 protein. IFT20 localization, Golgi cohesion and Gb1 trafficking altered.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="(
+     
+      Schwarz et al., 2015
+     
+     )">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="XLRP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="RP2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3D retinal organoids">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Complete lack of RP2 protein. Reduced levels of Kif7 at cilia tips (involved in stabilizing cilia tips).">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="(
+     
+      Schwarz et al., 2017
+     
+     )">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="RP1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Rod photoreceptors">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Decreased number of patient-derived rods
+     
+      in vitro
+     
+     .">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="(
+     
+      Jin et al., 2011
+     
+     )">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="RP9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Rod photoreceptors">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Decreased number of patient-derived rods
+     
+      in vitro
+     
+     . Markers for oxidation or endoplasmic reticulum stress. Oxidation is involved in PR degeneration.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="(
+     
+      Jin et al., 2011
+     
+     )">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="PRPH2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Rod photoreceptors">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Decreased number of patient-derived rods
+     
+      in vitro
+     
+     .">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="(
+     
+      Jin et al., 2011
+     
+     )">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="RHO">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Rod photoreceptors hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Decreased number of patient-derived rods
+     
+      in vitro
+     
+     . Markers for oxidation or endoplasmic reticulum stress. Mislocalization of RHO in cytoplasm.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="(
+     
+      Jin et al., 2011
+     
+     )
+     
+     (
+     
+      Jin et al., 2012
+     
+     )
+     
+     (
+     
+      Yoshida et al., 2014
+     
+     )">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="MAK">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Retinal progenitor cells">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="MAK is expressed in the inner segments, cell bodies, and axons of PRs. Loss of retina-specific isoform in mutated cells.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="(
+     
+      Tucker et al., 2011
+     
+     )">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="USH2A">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="3D retinal organoids hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Upregulation of GRP78 and GRP94. Protein misfolding and ER stress. Organoids: Morphological defects, reduced laminin, defect in retinal progenitor cell development, layer formation
+     
+     RPE: abnormal morphology, lack of pigment foci, and reduced expression of RPE markers">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="(
+     
+      Tucker et al., 2013
+     
+     )
+     
+     (
+     
+      Guo et al., 2019
+     
+     )">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="TRNT1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="3D retinal organoids">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Autophagy defect. Accumulation of LC3-II. Elevated level of oxydative stress.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="(
+     
+      Sharma et al., 2017
+     
+     )">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="MFRP">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Disorganized actin, loss of RPE cellular morphology and apical microvilli.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="(
+     
+      Li et al., 2014
+     
+     )">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="MERTK">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="Phagocytosis defects.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="(
+     
+      Ramsden et al., 2017
+     
+     )">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="PRPF31">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="3D retinal organoids and hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="RPE: disrupted epithelium (polarity, TER) Phagocytosis and cilia defects
+     
+     PR: cilia defects, progressive degeneration and cellular stress
+     
+     RPE defects restored by AAV-PRPF31 gene augmentation">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="(
+     
+      Buskin et al., 2018
+     
+     )
+     
+     (
+     
+      Brydon et al., 2019
+     
+     )">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="PRPF8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="hiPSC-RPE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="Near normal phenotype, no difference regarding phagocytosis">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="(
+     
+      Foltz et al., 2018
+     
+     )">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="NRL">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="3D retinal organoids">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Retinal organoids with S-opsin dominant PR population">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="(
+     
+      Kallman et al., 2020
+     
+     )">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Late onset RP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="PDE6B">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="3D retinal organoids">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="At D230 modified expression of genes regulating cGMP hydrolysis leading to elevated cGMP levels in patient cells.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="(
+     
+      Gao et al., 2020
+     
+     )">
+   </cell>
+  </row>
+  <statements>
+   <statement id="6" text="There are 12 Disease RP in the table." type="">
+   </statement>
+   <statement id="7" text="There are three Disease XLRP in the table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

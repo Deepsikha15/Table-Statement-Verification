@@ -1,0 +1,46 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Chemical compositions of Fe based metallic glass powder used in this study.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Wt%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Fe">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Cr">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Mo">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="C">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="46.8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1.7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="16.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="30.6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="4.3">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Chemical compositions of Fe based metallic glass powder is observed in the table." type="entailed">
+   </statement>
+   <statement id="3" text="Element Mo is having 30.6 value which is second highest." type="entailed">
+   </statement>
+   <statement id="8" text="There are 5 elements in the table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

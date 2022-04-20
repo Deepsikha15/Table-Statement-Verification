@@ -1,0 +1,198 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Composition of caesium doped synthetic seawater. All salts were EMSURE salts (Merck Millipore) supplied by VWR.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Component">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Concentration [wt. %]">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Deionized water">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="94.52">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="CsCl">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2.63">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="NaCl">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.37">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="CaCl
+     
+      2
+     
+
+     2H
+     
+      2
+     
+     O">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.19">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="MgCl
+     
+      2
+     
+
+     6H
+     
+      2
+     
+     O">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.90">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="KCl">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.07">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Na
+     
+      2
+     
+     SO
+     
+      4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.33">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Component NaCl Concentration [wt. %] is 1.37." type="">
+   </statement>
+   <statement id="4" text="Concentration [wt. %] 0.07 Component is KCl." type="">
+   </statement>
+   <statement id="5" text="Concentration [wt. %] 0.07 Component is Na 2 SO 4 ." type="">
+   </statement>
+   <statement id="7" text="CsCl Component Concentration [wt. %] is 2.63." type="">
+   </statement>
+   <statement id="8" text="KCl Component Concentration [wt. %] is 0.19." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   LET parameters for relative permeability curves CO
+   
+    2
+   
+   /water without foam in
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="S
+        
+
+
+          w
+         
+
+          i">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="S
+        
+
+
+          g
+         
+
+          r
+         
+
+          w">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="L
+        
+
+         w">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="E
+        
+
+         w">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="T
+        
+
+         w">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="L
+        
+
+         g">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="E
+        
+
+         g">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="T
+        
+
+         g">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="0.07">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2.20">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="10.34">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.39">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1.73">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="36">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="1.45">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="( S w = 0.45 to 0.85 )" type="">
+   </statement>
+   <statement id="1" text="All the values given in the table are negative values." type="">
+   </statement>
+   <statement id="2" text="All the values given in the table are positive values." type="">
+   </statement>
+   <statement id="3" text="All the values given in the table is with decimal point except E g value." type="">
+   </statement>
+   <statement id="6" text="The highest value is 36 of E g." type="">
+   </statement>
+   <statement id="7" text="The lowest value is 0.00 of S g r w." type="">
+   </statement>
+   <statement id="8" text="The lowest value is 0.01 of E g." type="">
+   </statement>
+   <statement id="10" text="There are 10 columns in the given table." type="">
+   </statement>
+   <statement id="11" text="There are 8 columns in the given table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

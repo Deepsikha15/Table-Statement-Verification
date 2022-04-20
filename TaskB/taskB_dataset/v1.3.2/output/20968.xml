@@ -1,0 +1,340 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Assumptions about the payoff shares
+   
+    f
+    
+     l
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ),
+   
+    f
+    
+     b
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ) and
+   
+    f
+    
+     m
+    
+
+   (
+   
+    m
+    
+     ij
+    
+    , δ
+   
+   ).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Share of payoffs for:">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="lender.....">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="borrower...">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="middlemen">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="f
+      
+       l
+      
+
+     (1, .)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="f
+      
+       b
+      
+
+     (1, .)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="f
+      
+       m
+      
+
+     (1, .)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Number of middlemen
+     
+      m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="∂
+          
+
+
+            f
+           
+
+            l
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &gt;
+        
+
+         0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="∂
+          
+
+
+            f
+           
+
+            b
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &gt;
+        
+
+         0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="∂
+          
+
+
+            f
+           
+
+            m
+           
+
+
+
+
+           ∂
+          
+
+           m
+          
+
+
+
+         &lt;
+        
+
+         0">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="f
+      
+       l
+      
+
+     (., 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="f
+      
+       b
+      
+
+     (., 0)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="f
+      
+       m
+      
+
+     (., 0)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Level of competition
+     
+      δ">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="∂
+          
+
+
+            f
+           
+
+            l
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &gt;
+        
+
+         0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="∂
+          
+
+
+            f
+           
+
+            b
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &gt;
+        
+
+         0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="∂
+          
+
+
+            f
+           
+
+            m
+           
+
+
+
+
+           ∂
+          
+
+           δ
+          
+
+
+
+         &lt;
+        
+
+         0">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="f
+      
+       l
+      
+
+     (., 1)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="f
+      
+       b
+      
+
+     (., 1)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="f
+        
+
+         m
+        
+
+
+
+         (
+        
+
+         .
+        
+
+         ,
+        
+
+         1
+        
+
+         )
+        
+
+
+        =
+       
+
+        0">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="A further straightforward assumption is monotonicity with respect to the competitiveness and number of middlemen." type="entailed">
+   </statement>
+   <statement id="2" text="bortrer has the value of f b (11, .)" type="refuted">
+   </statement>
+   <statement id="4" text="Level of competition  under bortrer value is b (88.,1)" type="refuted">
+   </statement>
+   <statement id="5" text="middlemen has the value of f m (1, 9.)" type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

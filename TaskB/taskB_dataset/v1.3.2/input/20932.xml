@@ -1,0 +1,323 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+
+    Patient response and DBS settings.
+   
+   Overview of treatment response and stimulation settings of all included patients. All active contacts were cathodes. HAM-D: Hamilton depression rating scale.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Patient">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Change in HAM-D (%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Responder (Yes/No)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Active contacts (Left) Lowest-highest: 0–3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Voltage (Left) (V)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Active contacts (Right) Lowest-highest: 8–11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Voltage (Right) (V)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Stim. frequency (Hz)">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="Pulse duration (µs)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="01">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−87.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2, 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="5.0">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="3.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="120">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="02">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="+36.8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0, 1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="3.8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="9, 10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="3.8">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="190">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="90">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="03">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−62.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="4.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="4.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="90">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="04">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−77.8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="5.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="9, 10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="5.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="90">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="05">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="+54.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0, 1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="5.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="9, 10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="5.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="130">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="90">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="06">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−50.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="2, 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="4.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="4.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="90">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="07">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="+6.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="5.4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="9, 10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="5.4">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="90">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="08">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="−72.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="1, 2, 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="7.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="9, 10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="7.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="90">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="09">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−53.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="3.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="9, 10 ,11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="6.0">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="90">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−8.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="5.0">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="9, 10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="5.0">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="130">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="90">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="+8.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="2, 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="6.7">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="6.7">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="90">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="−27.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="2, 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="2.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="10, 11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="2.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="130">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="60">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="−83.3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Y">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="1, 2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="5.4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="9, 10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="5.4">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="180">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="90">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="14">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="−30.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="N">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="5.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="9">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="5.2">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="130">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="60">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="An overview of treatment response and stimulation settings is shown in Table 1 ." type="">
+   </statement>
+   <statement id="3" text="The highest Voltage (Right) (V) is 7.3." type="">
+   </statement>
+   <statement id="4" text="The lowest Pulse duration (s) is 60." type="">
+   </statement>
+   <statement id="5" text="The Total number of Patient is 14." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

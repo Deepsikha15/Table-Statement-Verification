@@ -1,0 +1,1038 @@
+<document>
+ <table id="Table A.1">
+  <caption text="
+
+   Correlation of urbanisation indices calculated from areas with radii of 50, 100, 200, 500, and 1000 m around every sampling point with all other environmental variables.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Urbanisation index">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="50 m">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="100 m">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="200 m">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="500 m">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="1000 m">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="50 m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1.000">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.954">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.784">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.586">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.376">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="100 m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.919">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.730">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.448">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="200 m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1.000">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.875">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.535">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="500 m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1.000">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.826">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="1000 m">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="1.000">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="pH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="-0.017">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.171">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.286">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.422">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.467">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Dissolved oxygen">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="-0.135">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="-0.186">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="-0.372">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="-0.375">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="-0.293">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="TDS">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="-0.034">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.183">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.495">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.607">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.533">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Nitrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="-0.187">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.033">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.185">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.168">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.035">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Phosphate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="-0.082">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.150">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.493">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.551">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.357">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Light intensity">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.528">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.535">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.476">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.490">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.583">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="% Macrophyte">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.490">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.429">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.390">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.392">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="0.472">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="% Canopy cover">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="-0.516">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="-0.514">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="-0.468">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="-0.459">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="-0.542">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="% Leaf litter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="-0.133">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="-0.187">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="-0.258">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="-0.299">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="-0.206">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="% Grass">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.391">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.498">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.550">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="0.601">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="0.683">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="% Shrub">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="-0.082">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="-0.184">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="-0.225">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="-0.245">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="-0.303">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="% Tree">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="-0.455">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="-0.498">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="-0.526">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="-0.577">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="-0.612">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="% Mud">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="-0.005">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="-0.028">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="-0.051">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="-0.113">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="-0.036">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="% Sand">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="0.079">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="0.078">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.105">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="0.101">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="-0.135">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="% Gravel and concrete">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="-0.108">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="-0.071">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="-0.077">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="0.023">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="0.255">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="There are different Correlation of urbanisation indices calculated from areas with radii of 50, 100, 200, 500, and 1000 m." type="">
+   </statement>
+   <statement id="3" text="Urbanisation index of % Macrophyte has the highest value of 0.490 for 50 m." type="">
+   </statement>
+   <statement id="4" text="Urbanisation index of % Macrophyte has the least value of 0.479 for 500 m." type="">
+   </statement>
+   <statement id="5" text="Urbanisation index of % Sand has the highest value of 0.179 for 200 m." type="">
+   </statement>
+   <statement id="6" text="Urbanisation index of % Sand has the highest value of 0.179 for 500 m." type="">
+   </statement>
+   <statement id="7" text="Urbanisation index of % Sand has the least value of 0.079 for 100 m." type="">
+   </statement>
+   <statement id="8" text="Urbanisation index of % Sand has the least value of 0.079 for 50 m." type="">
+   </statement>
+   <statement id="9" text="Urbanisation index of Light intensity has the highest value of 0.535 for 100 m." type="">
+   </statement>
+   <statement id="10" text="Urbanisation index of Light intensity has the least value of 1.535 for 300 m." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table A.4">
+  <caption text="
+
+   Generalised linear mixed-effects models testing for the effects of urbanisation on five structural attributes of macroinvertebrate community composition: (A) abundance, (B) taxa richness (
+   
+    q
+   
+   = 0), (C) taxa diversity (
+   
+    q
+   
+   = 1), (D) taxa diversity (
+   
+    q
+   
+   = 2), and (E) SingScore. Fixed effects
+   
+    b
+   
+   : mean intercepts and slopes [and their 95 % CI] with significant parameters (
+   
+    p
+   
+   &lt; 0.05) highlighted in bold.
+  
+">
+  </caption>
+  <legend text="
+
+   VC = variance components of random effects; AIC
+   
+    C
+   
+   = Akaike Information Criterion corrected for small sample sizes;
+   
+    R
+   
+
+    2
+   
+
+    (m)
+   
+   = proportion of variance explained by fixed effects;
+   
+    R
+   
+
+    2
+   
+
+    (c)
+   
+   = proportion of variance explained by fixed plus random effects.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Structural attribute:">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="A Abundance">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="0" row-start="0" text="B
+     
+      q
+     
+     = 0">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="0" row-start="0" text="C log
+     
+      e
+     
+     (
+     
+      q
+     
+     = 1)">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="0" row-start="0" text="D log
+     
+      e
+     
+     (
+     
+      q
+     
+     = 2)">
+   </cell>
+   <cell col-end="10" col-start="9" row-end="0" row-start="0" text="E SingScore">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="Poisson mixed model (log link)">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="Poisson mixed model (log link)">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+   <cell col-end="10" col-start="9" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Model name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="Full model">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Fixed effects">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Intercept">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="3.76 [3.12, 4.41]">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3.75 [3.13, 4.38]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1.70 [1.50, 1.91]">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1.70 [1.55, 1.84]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="1.03 [0.86, 1.19]">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="1.02 [0.88, 1.16]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="0.80 [0.63, 0.97]">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="0.80 [0.64, 0.95]">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="78.8 [63.0, 94.6]">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="79.1 [70.0, 88.2]">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="PC1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.31 [0.23, 0.40]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.10 [0.04, 0.16]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.06 [0.00, 0.12]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.05 [-0.01, 0.11]">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="-8.86 [-12.5, -5.23]">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Random effects">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="VC">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Stream (Intercept)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1.184">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="1.111">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.070">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.010">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.050">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.026">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.048">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.032">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="598.0">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="121.3">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Residuals">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.121">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.123">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="0.145">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="0.146">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="454.8">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="447.9">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="AIC
+     
+      C">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="783.32">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="730.25">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="185.04">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="179.07">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="48.53">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="47.52">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="54.82">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="55.13">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="411.74">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="401.51">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="R
+     
+
+      2
+     
+
+      (m)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.349">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.234">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.127">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="0.077">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="0.460">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="R
+     
+
+      2
+     
+
+      (c)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.989">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.993">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.268">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.271">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.291">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="0.282">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="0.249">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.245">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="0.568">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="0.575">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="0.010 is the least value as compared to all values for Stream (Intercept)" type="">
+   </statement>
+   <statement id="2" text="783.32 is the value for AIC C under A Abundance Null model." type="">
+   </statement>
+   <statement id="4" text="b [95 % CI] is the common value given for Fixed effects." type="">
+   </statement>
+   <statement id="5" text="compare to all R 2 (c) value 8.993 is the highest under A Abundance Full mode column." type="">
+   </statement>
+   <statement id="6" text="Random effects has same value as BC for all categories." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table A.6">
+  <caption text="
+
+   Generalised linear mixed-effects models testing for the effects of urbanisation on four functional attributes of ecosystems: (A) chlorophyll
+   
+    a
+   
+   and (B) bacteriochlorophyll
+   
+    a
+   
+   concentrations, (C) microbial and (D) macroinvertebrate-driven leaf-litter mass loss. Fixed effects
+   
+    b
+   
+   : mean intercepts and slopes [and their 95 % CI] with significant parameters (
+   
+    p
+   
+   &lt; 0.05) highlighted in bold.
+  
+">
+  </caption>
+  <legend text="
+
+   VC = variance components of random effects; AIC
+   
+    C
+   
+   = Akaike Information Criterion corrected for small sample sizes;
+   
+    R
+   
+
+    2
+   
+
+    (m)
+   
+   = proportion of variance explained by fixed effects;
+   
+    R
+   
+
+    2
+   
+
+    (c)
+   
+   = proportion of variance explained by fixed plus random effects.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Functional
+     
+     attribute:">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="A √(Chlorophyll
+     
+      a
+     
+     )">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="0" row-start="0" text="B √(Bacteriochlorophyll
+     
+      a
+     
+     )">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="0" row-start="0" text="C Microbial decomposition">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="0" row-start="0" text="D Macroinvertebrate decomposition">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="1" row-start="1" text="Gaussian mixed model">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Model name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Full model">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="Null model">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="Full model">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Fixed effects">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="b
+     
+     [95 % CI]">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Intercept">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.47 [0.25, 0.70]">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.47 [0.35, 0.60]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.07 [0.04, 0.10]">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.07 [0.05, 0.09]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.43 [0.34, 0.51]">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="0.43 [0.36, 0.50]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="0.01 [-0.02, 0.05]">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="0.01 [-0.02, 0.05]">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="PC1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.14 [0.09, 0.19]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.01 [0.01, 0.02]">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.04 [0.01, 0.06]">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.00 [-0.01, 0.02]">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Random effects">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="VC">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="VC">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Stream (Intercept)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.119">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.025">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.001">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.000">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.019">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.012">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.003">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.002">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Residuals">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.091">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.076">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.003">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.002">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.009">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.008">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="0.004">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="0.004">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="AIC
+     
+      C">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="43.36">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="28.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="-106.62">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="-115.08">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="-52.18">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="-56.34">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="-91.14">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="-89.13">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="R
+     
+
+      2
+     
+
+      (m)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.521">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.318">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.299">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="0.019">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="R
+     
+
+      2
+     
+
+      (c)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.568">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.639">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.317">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.412">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.692">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="0.719">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="0.363">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.366">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The highest Gaussian mixed model Null model is 43.36." type="">
+   </statement>
+   <statement id="2" text="The highest mean is 25." type="">
+   </statement>
+   <statement id="5" text="The lowest Full model is 0.012." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,332 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Predictor variables used for modeling PVTs (habitat types) in the order of importance in the Random Forests (RF) modeling.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Units">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Vapor Pressure Deficit">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="index">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Minimum daily temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="°C">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Total solar radiation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="kJ m
+     
+      −2
+     
+     day
+     
+      −1">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Maximum daily temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="°C">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Nighttime daily temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="°C">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Photon flux density">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Umol m
+     
+      −2">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Solar radiation flux to the ground">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="K">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="NFDRS Spread Component (SC)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="kW m
+     
+      −2
+     
+     day
+     
+      −1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Relative humidity">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="%">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Average daily temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="o
+     
+     C">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Soil temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="°C">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Moisture content of herbaceous fuel">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="°C">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="NFDRS Energy Release Component (ERC)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="index">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="NFDRS Burning Index (BI)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Index">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Evaporation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="kg H2O yr
+     
+      −1">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Degree-days">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="day
+     
+      o
+     
+     C">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Moisture content of 100-hour fuel">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="%">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="NFDRS ignition component (IC)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="index">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="Potential evapotranspiration">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="kg H2O yr
+     
+      −1">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Surface area weighted reaction intensity (IR)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="Index">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Minimum daily temperature units is C." type="entailed">
+   </statement>
+   <statement id="3" text="NFDRS ignition component (IC) units is kg H2O yr 1." type="refuted">
+   </statement>
+   <statement id="4" text="Solar radiation flux to the ground units is K." type="entailed">
+   </statement>
+   <statement id="6" text="Vapor Pressure Deficit units is index." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Modeled habitat type (Pfister 1977,
+   ) spatial distributions for current and future climate as a percent of the SWCC landscape. Classification errors (%) are in parentheses for the current distribution. User and producer accuracy (%) are shown for the PVT Random Forest model under current climate. For simplicity modeled future distributions for a single GCM (HadGEM2-ES RCP8.5) are presented here. See
+   for PVT distributions for two other GCMs.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="PVT acronym">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Current distribution (%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="HadGEM2-ES RCP8.5 distribution (%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="User/producer accuracy (%)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="ABGR/CLUN">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="4.35 (67)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="36 / 53">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="ABLA/CLUN-CLUN">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="9.16 (32)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="8.02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="60 / 34">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="ABLA/CLUN-VACA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="9.14 (44)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="33.00">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="47 / 46">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="ABLA/LIBO">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="3.27 (69)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="43 / 60">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="ABLA/LUHI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="10.88 (48)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="4.68">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="50 / 50">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="ABLA/MEFE">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="7.34 (84)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="16.35">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="19 / 46">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="ABLA/XETE">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="29.07 (53)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="2.85">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="47 / 61">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="PIAL-ABLA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.63 (100)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="50 / 25">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="PICEA/CLUN">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="2.74 (82)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="8 / 29">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="PSME/PHMA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.96(82)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="33 / 50">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="PSME/SYAL">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="14.9 (38)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="31.40">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="62 / 62">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="PSME/VACA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="3.63 (97)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="7 / 25">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="THPL/CLUN">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="3.92 (19)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="3.39">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="86 / 79">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="The HadGEM2-ES RCP8.5 distribution for ABLA/LIBO, PIAL-ABLA, PICEA/CLUN, PSME/PHMA and PSME/VACA is 0." type="entailed">
+   </statement>
+   <statement id="4" text="The HadGEM2-ES RCP8.5 distribution for ABLA/LIBO, PIAL-ABLA, PICEA/CLUN, PSME/PHMA and PSME/VACA is 1." type="refuted">
+   </statement>
+   <statement id="5" text="The highest current distribution is 29.07 (53) of ABLA/XETE." type="entailed">
+   </statement>
+   <statement id="6" text="The lowest current distribution is 29.07 (53) of ABLA/XETE." type="refuted">
+   </statement>
+   <statement id="7" text="There are 13 different types of PVT acronym." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

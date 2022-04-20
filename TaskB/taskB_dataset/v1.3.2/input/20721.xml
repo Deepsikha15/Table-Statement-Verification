@@ -1,0 +1,256 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Example for the sum score options for one text in the assessment with a dynamic approach.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note.
+   
+   Item scoring for first attempts (first attempt correct = 2, second attempt correct or incorrect = 0), item scoring for first and second attempts (first attempt correct = 2, second attempt correct = 1, second attempt incorrect = 0).
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Scoring and sum score option">
+   </cell>
+   <cell col-end="4" col-start="1" row-end="0" row-start="0" text="Performance on each question type for one text">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Orthographic knowledge">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Vocabulary">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Sentence-integration">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Global text comprehension">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Item scoring for first attempts">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Item 1 = 0
+     
+     Item 2 = 0
+     
+     Item 3 = 2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Item 1 = 0
+     
+     Item 2 = 0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Item 1 = 0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Item 1 = 1">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Item scoring for first and second attempts">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Item 1 = 1
+     
+     Item 2 = 0
+     
+     Item 3 = 2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Item 1 = 1
+     
+     Item 2 = 1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Item 1 = 1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="No feedback">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Sum score for first attempts">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Sum score for first and second attempts">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="No feedback">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Sum score for first and second attempts has highest number of Orthographic knowledge." type="">
+   </statement>
+   <statement id="2" text="Sum score for first attempts has highest number of sentence irrigation." type="">
+   </statement>
+   <statement id="3" text="Sum score for first attempts has zero Vocabulary and Sentence irrigation." type="">
+   </statement>
+   <statement id="4" text="Sum score for first attempts only two Orthographic knowledge." type="">
+   </statement>
+   <statement id="5" text="Sum score for first attempts three Orthographic knowledge." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Means and standard deviations for each question type in the assessment with a dynamic approach.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note. n
+   
+   = 275 (
+   
+    n
+   
+   = 274 for the percentage of correct second attempts for the vocabulary questions,
+   
+    n
+   
+   = 272 for the percentage of correct second attempts for the sentence-integration questions). The percentage of correct first attempts was estimated on one scale for the different assessment versions with item response theory. The percentage of correct second attempts was based on the raw data and the number of all incorrect first attempts. For the sum scores, we summed up the item scores for each question type for the first attempts (0 = incorrect, 2 = correct) or first and second attempts (0 = incorrect after feedback, 1 = correct after feedback, 2 = correct without feedback). The possible score ranges were for the orthographic knowledge questions 0–6, vocabulary questions 0–4, sentence-integration and global text comprehension questions 0–2. n.a. = not available.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="2" row-start="0" text="Question types">
+   </cell>
+   <cell col-end="4" col-start="1" row-end="0" row-start="0" text="Percentage of correct responses">
+   </cell>
+   <cell col-end="8" col-start="5" row-end="0" row-start="0" text="Sum scores for each text">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="First attempts">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="Second attempts after feedback">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="First attempts">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="1" row-start="1" text="First and second attempts">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="SD">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="M">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="SD">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="M">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="SD">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="M">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="SD">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Orthographic knowledge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="60.38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="17.10">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="68.87">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="12.95">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="3.77">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="1.96">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="4.51">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="1.44">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Vocabulary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="73.94">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="13.57">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="81.47">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="14.32">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="2.76">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="1.35">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="3.24">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="0.90">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Sentence-integration">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="61.13">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="19.03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="64.49">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="23.26">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="1.32">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.95">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="1.52">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.73">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Global text comprehension">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="57.79">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="19.52">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="1.25">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.97">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="n.a.">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="First attempts the mean ranges from 57.79 to 73.94." type="">
+   </statement>
+   <statement id="6" text="There are four Question types in the table." type="">
+   </statement>
+   <statement id="7" text="Vocabulary is having 73.94 highest Mean in first attempt." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

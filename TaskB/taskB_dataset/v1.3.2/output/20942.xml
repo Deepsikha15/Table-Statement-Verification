@@ -1,0 +1,190 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Challenges observed in OR system design that we weren't able to transform into actionable design guidelines.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Example violation">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Note">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Extraneous task/missing function">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="“There's a table missing from next to the operating table. For example, when we're cannulating the patient, we have no place to put all the equipment on.”">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="New">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Inadequate device performance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Manufacturing errors and other issues with measurable performance where the device did not improve the status quo.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="“It was kind of a disappointment to realize that the thermal power
+     
+     [of the heated mattress]
+     
+      is so small. I mean, you can feel that it is warm with your hand, but it won't influence the patient's thermo-economy at all.”">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="New">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text='The Description "Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features" is new in its Note value.' type="entailed">
+   </statement>
+   <statement id="4" text="The Description is &quot;It was kind of a disappointment to realize that the thermal power [of the heated mattress] is so small. I mean, you can feel that it is warm with your hand, but it won't influence the patient's thermo-economy at all&quot; when the name is Inadequate device performance." type="refuted">
+   </statement>
+   <statement id="5" text='The note is new when the description is "Manufacturing errors and other issues with measurable performance where the device did not improve the status quo"' type="entailed">
+   </statement>
+   <statement id="6" text="We also observed two usability-related categories that did not directly translate into design guidelines: Extraneous tasks and Inadequate device performance ( Table 3 )." type="entailed">
+   </statement>
+   <statement id="7" text="When the Description is Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features, the note is new." type="entailed">
+   </statement>
+   <statement id="8" text="When the example violation is &quot;It was kind of a disappointment to realize that the thermal power [of the heated mattress] is so small. I mean, you can feel that it is warm with your hand, but it won't influence the patient's thermo-economy at all&quot;. The name is Inadequate device performance." type="entailed">
+   </statement>
+   <statement id="9" text='When the Name is Extraneous task/missing function, the Description is "Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features".' type="entailed">
+   </statement>
+   <statement id="10" text='When the name is Inadequate device performance, the Description is "Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features".' type="refuted">
+   </statement>
+   <statement id="11" text="When the note is Expressing potential for development, through unnecessary-feeling tasks as well as missing devices and features, the note is New." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Technological systems covered in the dataset of this study. The ordering of the categories is alphabetical and does not indicate frequency or importance.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Spanning multiple systems">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Individual systems">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Anesthesia side">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Surgical side">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="General/Shared">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="1 Alarms
+     
+     2 Cords &amp; tubes
+     
+     3 Environment
+     
+     4 Noise in the OR 5 Non-OR usability">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="6 Anesthesia machine
+     
+     7 Anesthesia suction
+     
+     8 Arterial blood pressure measurement
+     
+     9 Infusion and syringe pumps
+     
+     10 IV cannulation
+     
+     11 Medication
+     
+     12 Patient monitoring
+     
+     13 Temperature measuring
+     
+     14 Ultrasound/IR vein locating
+     
+     15 Ventilation
+     
+     16 Video laryngoscope">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="17 Electrosurgical equipment
+     
+     18 Foot pedal control
+     
+     19 Patient skin preparation
+     
+     20 Surgical lights
+     
+     21 Surgical suction">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="22 Armrests
+     
+     23 Defibrillator
+     
+     24 IT systems
+     
+     25 Emergency buttons
+     
+     26 Hand disinfection
+     
+     27 Legrests
+     
+     28 Monitor screens
+     
+     29 Operating table
+     
+     30 OR computers
+     
+     31 OR doors
+     
+     32 OR lights
+     
+     33 Paper hand towel dispenser
+     
+     34 Patient positioning &amp; transfer
+     
+     35 Pen-and-paper reporting
+     
+     36 Side tables
+     
+     37 Smart keys
+     
+     38 Thermal blanket
+     
+     39 Thermal mattress
+     
+     40 Trash bins">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Alarms come under Spanning multiple systems." type="entailed">
+   </statement>
+   <statement id="1" text="Anesthesia machine comes under Individual systems." type="entailed">
+   </statement>
+   <statement id="2" text="Arterial blood pressure measurement is under Surgical side." type="refuted">
+   </statement>
+   <statement id="3" text="Cords &amp; tubes comes under Spanning multiple systems." type="entailed">
+   </statement>
+   <statement id="4" text="Foot pedal control comes under Anesthesia side." type="refuted">
+   </statement>
+   <statement id="5" text="In Individual systems they have Anesthesia side,Surgical side and General/Shared" type="entailed">
+   </statement>
+   <statement id="6" text="Patient positioning &amp; transfer comes under Spanning multiple systems." type="refuted">
+   </statement>
+   <statement id="7" text="Patient skin preparation comes under General/Shared." type="refuted">
+   </statement>
+   <statement id="8" text="There is only one technological system under Spanning multiple systems." type="refuted">
+   </statement>
+   <statement id="9" text="They have two technological systems i.e' Spanning multiple systems and Individual systems." type="entailed">
+   </statement>
+   <statement id="10" text="Through descriptive coding of the data, a total of 40 distinct systems were found to display some level of usability violations ( Table 4 ), with four additional systems displaying either workarounds or issues related to internal policies that were outside the scope of this study." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

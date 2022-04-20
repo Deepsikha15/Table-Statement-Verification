@@ -1,0 +1,66 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   The research team utilized a mixed-methods approach to data collection from September 2017 to September 2019. These methods allowed the research team to engage carinata stakeholders involved at various stages of the crop’s production and processing.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Timeline">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="2017">
+   </cell>
+   <cell col-end="3" col-start="2" row-end="0" row-start="0" text="2018">
+   </cell>
+   <cell col-end="5" col-start="4" row-end="0" row-start="0" text="2019">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Research Audience (Sampling size)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Key informants
+     
+     (n = 15)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Carinata event attendees
+     
+     (n = 34)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Previous carinata growers
+     
+     (n = 8)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Carinata event organizers
+     
+     (n = 7)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Producers (n = 4); extension faculty (n = 2); carinata agronomist (n = 1)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Data Collection Instrument">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Semi-structured interview">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Survey with ranking exercise">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Semi-structured interview and sorting exercise">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Semi-structured interview">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Focus group">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Data collection occurred over a two-year period, from September 2017 to September 2019 (University of Florida IRB #201701894)." type="entailed">
+   </statement>
+   <statement id="4" text="The Research Audience (Sampling size) is same for all the Timelines." type="refuted">
+   </statement>
+   <statement id="7" text="There are 3 Timelines in the given table." type="entailed">
+   </statement>
+   <statement id="8" text="There are 4 Timelines in the given table." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

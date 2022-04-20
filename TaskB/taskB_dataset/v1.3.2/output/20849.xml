@@ -1,0 +1,329 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Correlations among the main variables.
+  
+">
+  </caption>
+  <legend text="
+
+   Note: Reported correlations refer to traits considered for our ground truth dataset; admiration and rivalry are facets of the trait grandiose narcissism above;
+   
+    n
+   
+   =
+   
+    229
+   
+   .
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="1" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="M">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="SD">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="2">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="4">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="5">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="6">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="7">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="0" row-start="0" text="8">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Narcissism">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2.94">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="1.29">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(0.80)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Admiration">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="3.14">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1.52">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.89
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="(0.74)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Rivalry">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="2.74">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1.41">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.87
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.54
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="(0.74)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Openness">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="4.10">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.78">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="−0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="−0.15
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="(0.73)">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Conscientiousness">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="3.72">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.88">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−0.05">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="−0.14
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="0.12">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="(0.80)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Extraversion">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.69">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1.09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.20
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.30
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.04">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="0.24
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="0.25
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="(0.88)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Agreeableness">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="3.88">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.86">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="−0.15
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.00">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="−0.28
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.44
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.04">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="0.27
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="(0.82)">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Neuroticism">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="2.45">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="1.06">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.21
+     
+
+       ⁎⁎">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.08">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.30
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="−0.23
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="−0.52
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="−0.41
+     
+
+       ⁎⁎⁎">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="−0.17
+     
+
+       ⁎">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="(0.85)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="All the values given in the table consist of only positive values." type="refuted">
+   </statement>
+   <statement id="3" text="The highest M value is 4.10 of Openness." type="entailed">
+   </statement>
+   <statement id="4" text="The highest SD value is 0.78 of Neuroticism." type="refuted">
+   </statement>
+   <statement id="6" text="There are 8 types of variables in the given table." type="entailed">
+   </statement>
+   <statement id="7" text="Zero-order correlations of main variables are reflected in Table 1 ." type="entailed">
+   </statement>
+   <statement id="8" text="All the values consist of a decimal point." type="entailed">
+   </statement>
+   <statement id="9" text="All the values don't consist of a decimal point." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

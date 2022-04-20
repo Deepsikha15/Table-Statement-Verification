@@ -1,0 +1,596 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Parameter settings of the FRACTURE MRI sequence.
+  
+">
+  </caption>
+  <legend text="
+
+   TR: repetition time; TE: echo time.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Parameter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Setting">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Number of slices">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="250">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Slice gap (mm)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−0.35">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Slice orientation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Sagittal">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Field-of-view (mm
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="230
+     
+     ×
+     
+     230
+     
+     ×
+     
+     182">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Acquisition voxel size (mm
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.7
+     
+     ×
+     
+     0.7
+     
+     ×
+     
+     0.7">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Reconstruction voxel size (mm
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.45
+     
+     ×
+     
+     0.45
+     
+     ×
+     
+     0.35">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Sensitivity encoding">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Yes">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Stacks">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Fold-over direction">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Anterior-posterior">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Flip angle (°)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="15">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="TR (ms)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="21">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="TE (ms) (in-phase)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="4.61">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Echo-spacing (ms)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="4.6">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Shim">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Default">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Water-fat-shift (pixels)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.492">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Bandwidth (Hz)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="882.2">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Default is the setting for TR parameter." type="refuted">
+   </statement>
+   <statement id="2" text="Each parameter has its own setting uniquely defined." type="entailed">
+   </statement>
+   <statement id="3" text="The field-of-view of the FRACTURE MRI sequence was 230  230  182 mm with isotropic voxels (voxel size: 0.7  0.7  0.7 mm)." type="entailed">
+   </statement>
+   <statement id="5" text="The number of slices given is 250." type="entailed">
+   </statement>
+   <statement id="6" text="The number of slices given is 350." type="refuted">
+   </statement>
+   <statement id="7" text="The value for TR parameter is 21." type="entailed">
+   </statement>
+   <statement id="8" text="There are 16 types of parameters given in the table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Radiological assessment using a Likert-scale rating.
+  
+">
+  </caption>
+  <legend text="
+
+   Table shows the individual ratings of two radiologists (R 1/R 2) for all four subjects (S 1, S 2, S 3, and S 4) and the first quartile 1 (Q 1), median, and third quartile (Q 3) calculated from the ratings of both radiologist. Overall CT and FRACTURE MRI yielded greatest Liker-scale ratings. FRACTURE MRI was equivalent to CT for detecting inwardly beveled fractures, outwardly beveled fractures and radiating fracture lines. Compared to FRACTURE MRI, T2- and T1-weighted MRI yielded lowest Likert-scale ratings. T1-weighted MRI was not performed in subject 1 and 2. Subject 2 did not present inwardly or outwardly beveled fractures at the temples. None of the individuals presented with keyhole fractures.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="S 1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="S 2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="S 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="S 4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Median (Q 1–Q 3)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="CT (hard kernel, bone window)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Inwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="3 (2–3)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Outwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="2/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="3 (2–3)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Radiating fracture lines">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="3/3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="2/3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="3 (3–3)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Keyhole fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="–">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Intracranial bone fragments">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="3/3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="3/3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="2/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="3 (3–3)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Gunshot residues">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="2/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="1/1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="1/2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="1/2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="1.5 (1–2)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="FRACTURE MRI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Inwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="2/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="3 (2–3)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Outwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="2/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="3 (2–4)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Radiating fracture lines">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="2/3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="2/3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="3 (2.25–3)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Keyhole fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="–">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Intracranial bone fragments">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="1/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="1/1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="1/1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="1/2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="1 (1–1.75)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Gunshot residues">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="1/2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="1/1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="3/3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="3/3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="2.5 (1–3)">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="T2-weighted MRI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Inwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="1/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="2/2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="1/2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="1.5 (1–2)">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Outwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="1/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="1/2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="1/2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="1 (1–2)">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Radiating fracture lines">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="1/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="1/1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0/0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="2/1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="1 (0.25–1)">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="Keyhole fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="–">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Intracranial bone fragments">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="1/0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="0/0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="0/0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="0/1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="0 (0–0.75)">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Gunshot residues">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="0/1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="1/1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="1/0">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="21" row-start="21" text="1 (0–1)">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="T1-weighted MRI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Inwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="1/2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="1/2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="23" row-start="23" text="1.5 (1–2)">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="Outwardly beveled fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="1/1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="2/1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="24" row-start="24" text="1 (1–1.75)">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="Radiating fracture lines">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="1/2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="1/1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="25" row-start="25" text="1 (1–1.75)">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Keyhole fracture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="26" row-start="26" text="–">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Intracranial bone fragments">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="0/1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="0/0">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="27" row-start="27" text="0 (0–0.75)">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Gunshot residues">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="1/0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="0/1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="28" row-start="28" text="0.5 (0–1)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Inwardly beveled fracture of CT scale of S1 is 2/2." type="entailed">
+   </statement>
+   <statement id="3" text="Radiating fracture lines of CT scale of S3 is 3/3." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

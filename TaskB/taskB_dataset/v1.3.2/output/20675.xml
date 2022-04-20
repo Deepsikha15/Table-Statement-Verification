@@ -1,0 +1,277 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Characteristics of responders and non-responders.
+  
+">
+  </caption>
+  <legend text="
+
+   Patients were considered responders if at least two questionnaire measurements were completed.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Responder
+     
+     (
+     
+      N
+     
+     = 80)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Non-responder
+     
+     (
+     
+      N
+     
+     = 20)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="N
+     
+     (%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="N
+     
+     (%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="p
+     
+     value">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Age (median, IQR)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="76 (73–81)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="78 (76–83)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.052">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="No. of comorbidities">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.119
+     
+
+       a">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="0–1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="22 (28)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="2 (10)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="2–3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="31 (39)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="7 (35)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="≥4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="26 (33)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="11 (55)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Unknown">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="No. of medications">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.158">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="0–4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="38 (48)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="6 (30)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="≥5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="42 (53)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="14 (70)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Risk of malnutrition">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.140
+     
+
+       a">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Low">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="65 (84)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="14 (70)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Medium or high">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="12 (16)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="6 (30)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Unknown">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="MMSE score">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.005">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="≥24">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="76 (95)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="15 (75)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="&lt;24">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="4 (5)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="5 (25)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Timed Up and Go test">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.270
+     
+
+       a">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="≤14 s">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="46 (79)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="12 (67)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="&gt;14 s">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="12 (21)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="6 (33)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Unable to perform the test">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Unknown">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The total number of responder is thrice the total number of non-responder." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

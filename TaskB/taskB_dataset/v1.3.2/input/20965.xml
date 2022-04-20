@@ -1,0 +1,1727 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Annotated salmon genes with human orthologs used in the IPA functional analyses. Genes common for all four comparisons were all up-regulated in diploid cataractous lenses and down-regulated in triploid cataractous lenses. Genes in bold are differential regulated in mice cataract mutants (&gt;2.0 fold) according to the iSyTE database (
+   ). Underlined are genes that are differentially regulated by more than one mutant type.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Comparison">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Genes">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="2N + vs 2N- (diploid cataract)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="ada
+       
+
+
+
+      , agbl4,
+     
+
+
+
+        anxa2
+       
+
+
+
+      ,
+     
+
+
+       anxa5
+      
+
+
+      ,
+     
+
+
+       apoc1
+      
+
+
+      ,
+     
+
+
+
+        apoe
+       
+
+
+
+      , arl14ep, arr3,
+     
+
+
+
+        arrb2
+       
+
+
+
+      , atp1a3, atp1a4,
+     
+
+
+       aurka
+      
+
+
+      , btbd17, c18orf25, c4orf33, ca1, ca2,
+     
+
+
+       cars
+      
+
+
+      , ccl28,
+     
+
+
+       cdca8
+      
+
+
+      ,
+     
+
+
+
+        ckmt2
+       
+
+
+
+      , clu,
+     
+
+
+
+        col11a1
+       
+
+
+
+      ,
+     
+
+
+       cyb5r1
+      
+
+
+      , deptor,
+     
+
+
+       dnajc3
+      
+
+
+      ,
+     
+
+
+       egfl7
+      
+
+
+      ,
+     
+
+
+
+        f11r
+       
+
+
+
+      , gal,
+     
+
+
+
+        glul
+       
+
+
+
+      ,
+     
+
+
+
+        gnat1
+       
+
+
+
+      , gnat2,
+     
+
+
+
+        gnb1
+       
+
+
+
+      ,
+     
+
+
+       gnb3
+      
+
+
+      ,
+     
+
+
+       gnb5
+      
+
+
+      , gngt1,
+     
+
+
+       gngt2
+      
+
+
+      , hamp, harbi1, hba1, hbb, hbz, homer2,
+     
+
+
+       hspa8
+      
+
+
+      , ifitm5,
+     
+
+
+
+        igfbp2
+       
+
+
+
+      ,
+     
+
+
+       junb
+      
+
+
+      ,
+     
+
+
+
+        krt18
+       
+
+
+
+      ,
+     
+
+
+       ldhb
+      
+
+
+      ,
+     
+
+
+       lep
+      
+
+
+      , linc00998, lurap1,
+     
+
+
+       lztr1
+      
+
+
+      , mlkl,
+     
+
+
+       mllt11
+      
+
+
+      ,
+     
+
+
+
+        mmp2
+       
+
+
+
+      , ndrg1,
+     
+
+
+       ndrg4
+      
+
+
+      ,
+     
+
+
+       nmt1
+      
+
+
+      ,
+     
+
+
+       opn1lw
+      
+
+
+      , opn1mw2, opn1sw, parp15,
+     
+
+
+
+        pdc
+       
+
+
+
+      ,
+     
+
+
+       pde6g
+      
+
+
+      , plaur, ppdpf,
+     
+
+
+       ppp2ca
+      
+
+
+      , prdm9,
+     
+
+
+       prph2
+      
+
+
+      ,
+     
+
+
+       rab32
+      
+
+
+      , rasd2,
+     
+
+
+       rbp4
+      
+
+
+      , rcvrn,
+     
+
+
+       rho
+      
+
+
+      , rpe65,
+     
+
+
+       rtbdn
+      
+
+
+      ,
+     
+
+
+
+        s100a1
+       
+
+
+
+      , s100p,
+     
+
+
+       slc27a2
+      
+
+
+      ,
+     
+
+
+
+        smarcd1
+       
+
+
+
+      ,
+     
+
+
+
+        snca
+       
+
+
+
+      ,
+     
+
+
+
+        specc1
+       
+
+
+
+      ,
+     
+
+
+       stc1
+      
+
+
+      ,
+     
+
+
+       tmsb10
+      
+
+
+      ,
+     
+
+
+
+        tpd52l1
+       
+
+
+
+      ,
+     
+
+
+       trpm7
+      
+
+
+      ,
+     
+
+
+
+        wwp2
+       
+
+
+
+      , znf391, znf501">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="3N + vs 3N- (triploid cataract)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="anxa2
+       
+
+
+
+      ,
+     
+
+
+       anxa5
+      
+
+
+      , arl14ep,
+     
+
+
+
+        arrb2
+       
+
+
+
+      ,
+     
+
+
+       atp1a3
+      
+
+
+      , atp1a4,
+     
+
+
+       btbd17
+      
+
+
+      , ca1, ca2,
+     
+
+
+       cars
+      
+
+
+      , ccl28,
+     
+
+
+
+        ckb
+       
+
+
+
+      , bckm,
+     
+
+
+
+        ckmt2
+       
+
+
+
+      , clu,
+     
+
+
+
+        cndp2
+       
+
+
+
+      , cntnap5,
+     
+
+
+       dbnl
+      
+
+
+      , defb4b,
+     
+
+
+       erbb2ip
+      
+
+
+      ,
+     
+
+
+
+        f11r
+       
+
+
+
+      , fabp4,
+     
+
+
+
+        fabp7
+       
+
+
+
+      , gal,
+     
+
+
+       gfap
+      
+
+
+      ,
+     
+
+
+       glul
+      
+
+
+      ,
+     
+
+
+
+        gnat1
+       
+
+
+
+      , gnat2,
+     
+
+
+       gnb3
+      
+
+
+      , gngt1,
+     
+
+
+       gngt2
+      
+
+
+      , hamp, harbi1, ifitm5,
+     
+
+
+
+        igfbp2
+       
+
+
+
+      ,
+     
+
+
+       junb
+      
+
+
+      ,
+     
+
+
+
+        krt18
+       
+
+
+
+      ,
+     
+
+
+
+        krt8
+       
+
+
+
+      , lcn1,
+     
+
+
+       ldhb
+      
+
+
+      ,
+     
+
+
+       lep
+      
+
+
+      ,
+     
+
+
+       lgals3
+      
+
+
+      ,
+     
+
+
+       lmna
+      
+
+
+      , mlkl,
+     
+
+
+       mxra7
+      
+
+
+      , ndrg1,
+     
+
+
+       nfyb
+      
+
+
+      ,
+     
+
+
+       nmt1
+      
+
+
+      ,
+     
+
+
+       oaz2
+      
+
+
+      , opn1lw, opn1mw2,
+     
+
+
+       opn1sw
+      
+
+
+      ,
+     
+
+
+
+        pdc
+       
+
+
+
+      ,
+     
+
+
+       pde6g
+      
+
+
+      , plaur, prdm9,
+     
+
+
+       prph2
+      
+
+
+      , rcvrn,
+     
+
+
+       rho
+      
+
+
+      , rpe65,
+     
+
+
+       rtbdn
+      
+
+
+      ,
+     
+
+
+
+        s100a1
+       
+
+
+
+      , s100p,
+     
+
+
+       serf2
+      
+
+
+      ,
+     
+
+
+
+        slc27a2
+       
+
+
+
+      ,
+     
+
+
+
+        snca
+       
+
+
+
+      ,
+     
+
+
+       tmsb10
+      
+
+
+      ,
+     
+
+
+       trpm7
+      
+
+
+      , vps13d, znf391, znf501">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3N + vs 2N+">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="actg2
+      
+
+
+      ,
+     
+
+
+       aebp1
+      
+
+
+      , alpl,
+     
+
+
+
+        apoe
+       
+
+
+
+      , arr3,
+     
+
+
+
+        arrb2
+       
+
+
+
+      ,
+     
+
+
+
+        atp1a1
+       
+
+
+
+      ,
+     
+
+
+       atp1a3
+      
+
+
+      , atp1a4,
+     
+
+
+       btbd17
+      
+
+
+      , ca1, ca2, ctgf,
+     
+
+
+
+        ckb
+       
+
+
+
+      , ckm,
+     
+
+
+
+        ckmt2
+       
+
+
+
+      ,
+     
+
+
+
+        cndp2
+       
+
+
+
+      , cntnap5,
+     
+
+
+       coch
+      
+
+
+      ,
+     
+
+
+
+        col2a1
+       
+
+
+
+      ,
+     
+
+
+
+        col9a1
+       
+
+
+
+      ,
+     
+
+
+
+        col9a2
+       
+
+
+
+      , dnase1l3,
+     
+
+
+       eef1a1
+      
+
+
+      , fabp4,
+     
+
+
+
+        fabp7
+       
+
+
+
+      ,
+     
+
+
+
+        gja1
+       
+
+
+
+      ,
+     
+
+
+
+        glul
+       
+
+
+
+      ,
+     
+
+
+
+        gnat1
+       
+
+
+
+      , gnat2,
+     
+
+
+
+        gnb1
+       
+
+
+
+      ,
+     
+
+
+       gnb3
+      
+
+
+      ,
+     
+
+
+       gnb5
+      
+
+
+      , gngt1,
+     
+
+
+       gngt2
+      
+
+
+      , hamp, harbi1, igsf11, lcn1,
+     
+
+
+       ldhb
+      
+
+
+      ,
+     
+
+
+
+        lrrn1
+       
+
+
+
+      ,
+     
+
+
+
+        mgst3
+       
+
+
+
+      ,
+     
+
+
+       nbl1
+      
+
+
+      ,
+     
+
+
+
+        ndrg1
+       
+
+
+
+      , ndufa4, opn1lw, opn1mw2,
+     
+
+
+       opn1sw,
+       
+        pdc
+       
+
+
+
+      ,
+     
+
+
+       pde6g
+      
+
+
+      , pkm, plaur, ppdpf,
+     
+
+
+       prph2
+      
+
+
+      , ptma,
+     
+
+
+
+        pygm
+       
+
+
+
+      ,
+     
+
+
+       rbp4
+      
+
+
+      , rcvrn,
+     
+
+
+       rgmb
+      
+
+
+      ,
+     
+
+
+       rho
+      
+
+
+      , rpe65,
+     
+
+
+       rtbdn
+      
+
+
+      ,
+     
+
+
+       serpinh1
+      
+
+
+      ,
+     
+
+
+       sirt1
+      
+
+
+      ,
+     
+
+
+       slc39a11
+      
+
+
+      ,
+     
+
+
+
+        snca
+       
+
+
+
+      ,
+     
+
+
+
+        sparc
+       
+
+
+
+      ,
+     
+
+
+       spon1
+      
+
+
+      ,
+     
+
+
+       stmn1
+      
+
+
+      ,
+     
+
+
+       suclg1
+      
+
+
+      ,
+     
+
+
+       trpm7
+      
+
+
+      ,
+     
+
+
+       ube2j1">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="3N- vs 2N-">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="arrb2
+       
+
+
+
+      , atp1a3, atp1a4, btbd17, ca1, ca2,
+     
+
+
+
+        cdh1
+       
+
+
+
+      , ckm,
+     
+
+
+
+        ckmt2
+       
+
+
+
+      , crb1,
+     
+
+
+       crygs
+      
+
+
+      , cyp2c19,
+     
+
+
+       erbb2ip
+      
+
+
+      ,
+     
+
+
+       exosc2
+      
+
+
+      , glra1,
+     
+
+
+
+        glul
+       
+
+
+
+      ,
+     
+
+
+
+        gnat1
+       
+
+
+
+      , gnat2,
+     
+
+
+       gnb3
+      
+
+
+      , gngt1,
+     
+
+
+       gngt2
+      
+
+
+      , harbi1, hba1, hbb, hbz, igsf11, ldhb,
+     
+
+
+       mvp
+      
+
+
+      , ndrg1, opn1lw, opn1mw2,
+     
+
+
+       opn1sw
+      
+
+
+      ,
+     
+
+
+
+        pdc
+       
+
+
+
+      ,
+     
+
+
+       pde6g
+      
+
+
+      , plaur,
+     
+
+
+       polr3c
+      
+
+
+      ,
+     
+
+
+       prph2
+      
+
+
+      ,
+     
+
+
+       rbp4
+      
+
+
+      , rcvrn,
+     
+
+
+       rho
+      
+
+
+      , rpe65,
+     
+
+
+       rps12
+      
+
+
+      ,
+     
+
+
+       rtbdn
+      
+
+
+      ,
+     
+
+
+       slc1a2
+      
+
+
+      ,
+     
+
+
+       stc1
+      
+
+
+      ,
+     
+
+
+       suclg1
+      
+
+
+      ,
+     
+
+
+       trpm7">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Common in 2N+ and 3N+">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="anxa2, anxa5, arl14ep, arrb2, atp1a3, atp1a4, btbd17, ca1, ca2, cars, ccl28, ckmt2, clu, f11r, gal, glul, gnat1, gnat2, gnb3, gngt1, gngt2, hamp, harbi1, ifitm5,igfbp2, junb, krt18, ldhb, lep, mlkl, ndrg1, nmt1, opn1lw, opn1mw2, opn1sw, pdc, pde6g, plaur, prdm9, prph2, rcvrn, rho, rpe65, rtbdn, s100a1, s100p, slc27a2, snca, tmsb10, trpm7, znf391, znf501">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Common for all 4 comparisons">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="arrb2, atp1a3, atp1a4, btbd17, ca1, ca2, ckmt2, glul, gnat1, gnat2, gnb3, gngt1, gngt2, harbi1, ldhb, ndrg1, opn1lw, opn1mw2, opn1sw, pdc, pde6g, plaur, prph2, rcvrn, rho, rpe65, rtbdn, trpm7">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Comparison for 3N + vs 2N+ has Genes of anxa2, anxa5, arl14ep, arrb2, atp1a3, atp1a4, btbd17, ca1, ca2, cars, ccl28, ckmt2, clu, f11r, gal, glul, gnat1, gnat2, gnb3, gngt1, gngt2, hamp, harbi1, ifitm5,igfbp2, junb, krt18, ldhb, lep, mlkl, ndrg1, nmt1, opn1lw, opn1mw2, opn1sw, pdc, pde6g, plaur, prdm9, prph2, rcvrn, rho, rpe65, rtbdn, s100a1, s100p, slc27a2, snca, tmsb10, trpm7, znf391, znf501." type="">
+   </statement>
+   <statement id="5" text="No genes associated with Mendelian (inherited) cataracts or cataracts caused by mutations in transcription factors or metabolic enzymes in humans ( Shiels and Hejtmancik, 2019 ) were on the significant lists in this study." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Comparison of predicted upstream regulators in lenses of diploid and triploid Atlantic salmon. Hierarchical clustering based on z-scores as determined with IPA Compare Analysis.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Upstream regulator">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="2N + vs 2N-">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="3N + vs 3N-">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="CRX">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="2.73">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="−2.55">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="GTF2IRD1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2.10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="−1.85">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="SRC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.70">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="−1.73">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="RHO">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1.89">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−1.63">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="decitabine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2.77">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="2.20">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="IL6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="2.25">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="3.06">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="P38 MAPK">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="2.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="1.44">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="OSM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1.23">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="2.36">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="NFkB (complex)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1.34">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="1.95">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="APP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1.25">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="1.94">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="hexachlorobenzene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="2.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="1.98">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="cisplatin">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1.77">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="1.86">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="STAT3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="1.76">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="2.20">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="thioacetamide">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="1.96">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="2.21">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="lipopolysaccharide">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="2.12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="2.32">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="pioglitazone">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="−1.92">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="curcumin">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="−0.73">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="−1.71">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="U0126">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="−1.96">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="−1.29">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="LY294002">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="−1.67">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="−1.67">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="N-acetyl-L-cysteine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="−1.67">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="−0.44">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="MYC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="−1.40">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="0.30">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="CSF2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="−1.48">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="PD98059">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="−1.82">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="−0.01">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="sirolimus">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="−2.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="ESR2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="−1.94">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="0.15">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="cyclosporin A">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="1.07">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="1.39">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="nitrofurantoin">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="0.65">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="1.48">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="dihydrotestosterone">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="0.78">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="1.26">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="bucladesine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="1.27">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="1.19">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="beta-estradiol">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="1.41">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="1.15">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Sirolimus has a good value in 3N + vs 3N-." type="">
+   </statement>
+   <statement id="2" text="Sirolimus has no value in 3N + vs 3N-." type="">
+   </statement>
+   <statement id="3" text="The highest 2N + vs 2N- is 0.78." type="">
+   </statement>
+   <statement id="5" text="There are 30 different types of analysis in the given table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

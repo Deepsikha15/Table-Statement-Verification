@@ -1,0 +1,726 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Results of mediation analyses in Study 1 and Study 2 predicting academic performance and dropout intention via academic effort: total, direct, and indirect effects of motivational regulation strategies.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note. c
+   
+   = standardized regression coefficient of the total effect.
+   
+    c’
+   
+   = standardized regression coefficient of the direct effect
+   
+    . ab
+   
+   = standardized regression coefficient of the indirect effect. CI = lower and upper limit of the percentile bootstrap 95%−confidence interval for the indirect effect based on 10,000 samples.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Study 1">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="9" col-start="7" row-end="0" row-start="0" text="Study 2">
+   </cell>
+   <cell col-end="12" col-start="10" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="1" row-start="1" text="Academic performance (
+     
+      N
+     
+     = 146)">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="1" row-start="1" text="Dropout intention (
+     
+      N
+     
+     = 244–245)">
+   </cell>
+   <cell col-end="9" col-start="7" row-end="1" row-start="1" text="Academic performance (
+     
+      N
+     
+     = 181)">
+   </cell>
+   <cell col-end="12" col-start="10" row-end="1" row-start="1" text="Dropout intention (
+     
+      N
+     
+     = 187)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Motivational regulation strategies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Overall strategy score">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−0.35">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="−0.24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="−0.11 (−0.21/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="−0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="−0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="−0.13 (−0.21/−0.06)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="−0.19">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="−0.08">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="−0.11 (−0.21/−0.04)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="−0.19">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="−0.05">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="3" row-start="3" text="−0.14 (−0.25/−0.05)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Mastery self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−0.33">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−0.22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−0.12 (−0.22/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="−0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="−0.03">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="−0.12 (−0.19/−0.06)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="−0.17">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="−0.05">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="−0.11 (−0.21/−0.04)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="−0.22">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="−0.09">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="4" row-start="4" text="−0.13 (−0.24/−0.04)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Performance−approach self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−0.22">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−0.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="−0.17 (−0.29/−0.07)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−0.20">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="−0.09">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="−0.11 (−0.18/−0.03)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="−0.24">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="−0.13">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="−0.11 (−0.19/−0.03)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="−0.29">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="−0.17">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="5" row-start="5" text="−0.12 (−0.23/−0.03)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Performance−avoidance self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−0.18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−0.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−0.06 (−0.12/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="−0.00">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.04">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="−0.05 (−0.09/−0.01)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="−0.05">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="−0.02">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="−0.03 (−0.08/0.02)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="0.01">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="0.04">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="6" row-start="6" text="−0.03 (−0.10/0.02)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Enhancement of situational interest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−0.17">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="−0.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="−0.03 (−0.09/0.02)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="−0.03 (−0.07/0.01)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="−0.07">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="−0.02">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="−0.05 (−0.11/−0.00)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="−0.07">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="−0.01">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="7" row-start="7" text="−0.06 (−0.13/−0.00)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Enhancement of personal significance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="−0.21">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="−0.17">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="−0.04 (−0.10/0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="−0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.01">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="−0.04 (−0.08/−0.00)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="−0.21">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="−0.15">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="−0.06 (−0.12/−0.01)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="−0.20">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="−0.13">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="8" row-start="8" text="−0.07 (−0.16/−0.01)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Environmental control">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−0.12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="−0.03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="−0.09 (−0.16/−0.03)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="−0.10">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="−0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="−0.09 (−0.14/−0.04)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="−0.07">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="0.08">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="−0.15 (−0.24/−0.06)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="0.00">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="9" row-start="9" text="0.20">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="9" row-start="9" text="−0.20 (−0.31/−0.10)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Proximal goal setting">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−0.18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="−0.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="−0.13 (−0.21/−0.06)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="−0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="−0.06">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="−0.09 (−0.15/−0.04)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="−0.15">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="−0.07">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="−0.08 (−0.15/−0.03)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="−0.15">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="10" row-start="10" text="−0.05">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="10" row-start="10" text="−0.10 (−0.18/−0.03)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Self−consequating">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="−0.15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="−0.09">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="−0.06 (−0.12/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="−0.09">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="−0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="−0.07 (−0.11/−0.03)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="−0.06">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.04">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="−0.10 (−0.17/−0.04)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="−0.08">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="11" row-start="11" text="0.03">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="11" row-start="11" text="−0.11 (−0.19/−0.04)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="The highest Academic performance ( N = 146) c is 0.35." type="">
+   </statement>
+   <statement id="5" text="The highest Dropout intention ( N = 244245) c is 0.35." type="">
+   </statement>
+   <statement id="6" text="The lowest Academic performance ( N = 146) c is 115." type="">
+   </statement>
+   <statement id="7" text="The lowest c is -0.33." type="">
+   </statement>
+   <statement id="9" text="The lowest Dropout intention ( N = 244245) c is 0.01." type="">
+   </statement>
+   <statement id="10" text="There are 2 different types of study in the given table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Results of mediation analyses in Study 1 and Study 2 predicting academic performance and dropout intention via academic effort: total, direct, and indirect effects of motivational regulation strategies (after controlling for high school GPA).
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note. c
+   
+   = standardized regression coefficient of the total effect.
+   
+    c’
+   
+   = standardized regression coefficient of the direct effect
+   
+    . ab
+   
+   = standardized regression coefficient of the indirect effect. CI = lower and upper limit of the percentile bootstrap 95%−confidence interval for the indirect effect based on 10,000 samples.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Study 1">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="9" col-start="7" row-end="0" row-start="0" text="Study 2">
+   </cell>
+   <cell col-end="12" col-start="10" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="3" col-start="1" row-end="1" row-start="1" text="Academic performance (
+     
+      N
+     
+     = 145)">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="1" row-start="1" text="Dropout intention (
+     
+      N
+     
+     = 240–241)">
+   </cell>
+   <cell col-end="9" col-start="7" row-end="1" row-start="1" text="Academic performance (
+     
+      N
+     
+     = 180)">
+   </cell>
+   <cell col-end="12" col-start="10" row-end="1" row-start="1" text="Dropout intention (
+     
+      N
+     
+     = 186)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Motivational regulation strategies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="c">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="c’">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="2" row-start="2" text="ab
+     
+     (95% CI)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Overall strategy score">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−0.32">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="−0.23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="−0.09 (−0.19/0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="−0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="−0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="−0.13 (−0.21/−0.05)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="−0.13">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="−0.05">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="−0.08 (−0.16/−0.02)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="−0.16">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="−0.03">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="3" row-start="3" text="−0.13 (−0.23/−0.04)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Mastery self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="−0.31">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="−0.21">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−0.09 (−0.20/0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="−0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="−0.03">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="−0.12 (−0.19/−0.05)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="−0.15">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="−0.07">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="−0.08 (−0.16/−0.02)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="−0.21">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="−0.10">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="4" row-start="4" text="−0.11 (−0.22/−0.03)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Performance−approach self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−0.20">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="−0.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="−0.15 (−0.27/−0.05)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="−0.20">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="−0.10">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="−0.10 (−0.18/−0.03)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="−0.18">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="−0.11">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="−0.07 (−0.14/−0.01)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="−0.26">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="−0.15">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="5" row-start="5" text="−0.11 (−0.21/−0.02)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Performance−avoidance self−talk">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−0.16">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−0.11">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−0.05 (−0.10/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.01">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="−0.04 (−0.08/−0.01)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="−0.02">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="0.00">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="−0.02 (−0.06/0.02)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="0.03">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="0.06">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="6" row-start="6" text="−0.03 (−0.09/0.02)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Enhancement of situational interest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−0.16">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="−0.14">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="−0.03 (−0.08/0.02)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="−0.03 (−0.07/0.01)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.00">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.04">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="−0.04 (−0.09/−0.00)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="−0.04">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="0.01">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="7" row-start="7" text="−0.05 (−0.12/0.00)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Enhancement of personal significance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="−0.20">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="−0.16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="−0.03 (−0.09/0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="−0.03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.01">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="−0.03 (−0.08/0.00)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="−0.13">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="−0.09">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="−0.04 (−0.09/−0.00)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="−0.16">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="−0.10">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="8" row-start="8" text="−0.06 (−0.14/−0.01)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Environmental control">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−0.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="−0.03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="−0.08 (−0.14/−0.03)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="−0.10">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="−0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="−0.08 (−0.14/−0.04)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="−0.09">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="0.01">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="−0.10 (−0.18/−0.03)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="−0.00">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="9" row-start="9" text="0.18">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="9" row-start="9" text="−0.18 (−0.29/−0.09)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Proximal goal setting">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−0.15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="−0.04">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="−0.11 (−0.19/−0.05)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="−0.13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="−0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="−0.09 (−0.15/−0.04)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="−0.12">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="−0.06">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="−0.06 (−0.11/−0.01)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="−0.12">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="10" row-start="10" text="−0.03">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="10" row-start="10" text="−0.09 (−0.18/−0.02)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Self−consequating">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="−0.15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="−0.10">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="−0.05 (−0.11/−0.01)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="−0.09">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="−0.03">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="−0.06 (−0.12/−0.02)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="−0.06">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.01">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="−0.07 (−0.13/−0.02)">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="−0.08">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="11" row-start="11" text="0.02">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="11" row-start="11" text="−0.10 (−0.18/−0.03)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The highest ab (95% CI) is -0.32." type="">
+   </statement>
+   <statement id="6" text="The lowest c is -0.03." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

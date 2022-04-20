@@ -1,0 +1,320 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Autoclave cure cycle.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Autoclave cure cycle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Flat panel">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Mould-in manufacturing">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Pressure Ramp Rate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="50 kPa/min">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="50 kPa/min">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="600 kPa">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="600 kPa">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Temperature Ramp Rate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="3.5 °C/min">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3.5 °C/min">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="220 °C">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="250 °C">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Dwell time">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="40 min">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="50 min">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="The pressure is calculated in kPa." type="">
+   </statement>
+   <statement id="5" text="The temperature of Mould-in manufacturing is less than Flat panel." type="">
+   </statement>
+   <statement id="6" text="The temperature of Mould-in manufacturing is more than Flat panel." type="">
+   </statement>
+   <statement id="8" text="There are 7 types of scenarios given in the table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Percentage crack length and failure mode.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Loading Rate">
+   </cell>
+   <cell col-end="4" col-start="1" row-end="0" row-start="0" text="BAJ">
+   </cell>
+   <cell col-end="8" col-start="5" row-end="0" row-start="0" text="IAJ">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="Crack length %">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Failure mode">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Work to failure (J)">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="Crack length %">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="Failure mode">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="Work to failure (J)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Mean">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Std. Dev.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Mean">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Std. Dev.">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="QS">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="56%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="4%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Bondline">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="13.4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="72%">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="6%">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="Bondline">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="23.2">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="DY0.5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="71%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="4%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Bondline">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="18.8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="33%">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="6%">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="Metal adherend">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="38.3">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="DY3.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="57%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="9%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Bondline">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="11.8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="20%">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0%">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="Composite adherend">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="23.0">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="BAJ Failure mode 18.8 is DY0.5." type="">
+   </statement>
+   <statement id="3" text="IAJ Crack length % Mean is 72% Loading Rate QS." type="">
+   </statement>
+   <statement id="5" text="Table 4 presents the total (primary plus secondary) crack length just before catastrophic joint failure, expressed as a percentage of the overlap length, and the final failure mode for both joint configurations at each loading velocity." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 5">
+  <caption text="
+
+   Baseline single lap joints versus interlocking adhesive joints.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Performance metric">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Baseline (BAJ)">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="Interlocking (IAJ)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="QS">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="DY0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="DY3.0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="QS">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="DY0.5">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="DY3.0">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Peak force">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.01">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1.04">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1.09">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1.11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="1.12">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Deformation at failure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="1.27">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.86">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="1.63">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="2.45">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="1.59">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Lap shear strength">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="1.01">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1.04">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1.09">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="1.11">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="1.12">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Work-to-failure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="1.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="1.31">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.89">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="1.75">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="2.89">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="1.73">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Stable crack length (in mm)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="14.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="17.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="14.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="17.9">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="8.1">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="4.9">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Failure mode">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Bondline">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Bondline">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Bondline">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Bondline">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="Metal adherend">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="Composite adherend">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Interlocking (IAJ) QS is 1.09 Peak force for Performance metric." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

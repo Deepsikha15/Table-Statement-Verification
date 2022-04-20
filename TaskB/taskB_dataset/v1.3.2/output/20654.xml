@@ -1,0 +1,260 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Parameters used for TD-GC/MS analysis of 1,2-DCB and 1,2-DCB-d4.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Parameter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Value">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Thermal desorber">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Primary desorption (Tenax TD tube)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Valve temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="225°C">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Tube temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="225°C">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Transfer line temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="250°C">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Trap temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="-30 to 300°C, heating rate of 40°C/s">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Purge time">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1 min">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Desorption time">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="5 min">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Trap hold time">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="7 min">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Desorption gas">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Helium (99.999%)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Desorption flow">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="50 mL/min">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Inlet split flow">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="20 mL/min">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Outlet split flow">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="20 mL/min">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Column pressure">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="12 psi">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Trap packing material">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Tenax TA">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="GC/MS">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="GC Oven">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Temperature">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="50°C for 0.5 min, 25°C/min to 100°C,">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="180°C, hold for 1 min">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="GC column flow">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="1 mL/min">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Carrier gas and flowrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="Helium (99.999%), 1mL/min">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="MS (detector)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Electron Energy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="70">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="Trap Emission">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="100">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="Repeller">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="1.0">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Lens 1, 2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="5, 55">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Filament current">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="0.07">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Source temp">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="200°C">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="LM Res">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="8.0">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="HM Res">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="12.5">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="Ion Energy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="2.5 (ramp of 1.5)">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="Multiplier">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="1650 V">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="SIM (detection method)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="m/z of 1,2-DCB">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="111, 146">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="m/z of 1,2-DCB-d4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="78, 115, 152">
+   </cell>
+  </row>
+  <row row="36">
+   <cell col-end="0" col-start="0" row-end="36" row-start="36" text="Dwell time">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="36" row-start="36" text="0.05 seconds">
+   </cell>
+  </row>
+  <row row="37">
+   <cell col-end="0" col-start="0" row-end="37" row-start="37" text="Ionization mode">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="37" row-start="37" text="EI+">
+   </cell>
+  </row>
+  <row row="38">
+   <cell col-end="0" col-start="0" row-end="38" row-start="38" text="Inter-channel delay">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="38" row-start="38" text="0.05">
+   </cell>
+  </row>
+  <row row="39">
+   <cell col-end="0" col-start="0" row-end="39" row-start="39" text="Retention window">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="39" row-start="39" text="4.3 to 5 min">
+   </cell>
+  </row>
+  <row row="40">
+   <cell col-end="0" col-start="0" row-end="40" row-start="40" text="Solvent delay">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="40" row-start="40" text="4 min">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="The Electron Energy is having the value of 70." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

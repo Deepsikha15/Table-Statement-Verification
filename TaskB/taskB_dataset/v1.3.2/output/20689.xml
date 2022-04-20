@@ -1,0 +1,344 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Genes commonly associated with MDS are deregulated in the pRb-deficient mouse model
+  
+">
+  </caption>
+  <legend text="
+
+   FDR = false discovery rate; ns = not significant.
+  
+
+   Gene expression analysis revealed that genes that are known to be frequently deregulated in human MDS [
+   ,
+   ,
+   
+    30–32
+   
+   ,
+   ,
+   
+    56–61
+   
+   ] were also deregulated in the pRb-deficient mouse model. Gene expression is expressed as the log
+   
+    2
+   
+   fold change in KO/WT in erythroid populations IV and V of pRb-deficient mice. Gene biological function and proposed role in MDS pathophysiology are indicated.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Gene deregulated in mouse model">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="IV
+     
+     Log
+     
+      2
+     
+     KO/WT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="IV
+     
+     FDR">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="V
+     
+     Log
+     
+      2
+     
+     KO/WT">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="V
+     
+     FDR">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Function of gene">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Function in MDS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Role in human MDS">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Sf3b1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.53">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="9.00E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.84">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="2.65E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Spliceosomal machinery">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="Deregulated pre-mRNA splicing, RARS phenotype">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="Malcovati et al.">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Srsf2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1.19">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.17E-03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="3.20">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="4.78E-08">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Spliceosomal machinery">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Deregulated pre-mRNA splicing, frequently mutated in MDS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="Smeets et al.">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="U2af1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.06">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="8.00E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2.68">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="6.90E-05">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="Spliceosomal machinery">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="Deregulated pre-mRNA splicing, frequently mutated in MDS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="Shirai et al.">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Mdm2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1.58">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="5.22E-06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="2.09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1.05E-05">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="E3 ubiquitin–protein ligase">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="SNPs within p53—MDM2 leads to cancer susceptibility">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="McGraw et al.">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="p53">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.70">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="4.82E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.80">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="9.24E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="Tumor suppressor">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="SNPs within p53—MDM2 leads to cancer susceptibility">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="McGraw et al.">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Fancc">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1.11">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="7.96E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="DNA repair">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="Genomic stability, deregulated in RARS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="Nikpour et al.">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Map3k7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="2.05">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="2.41E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="MAP kinase pathway">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="Negative regulation of apoptosis, deregulated in RARS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="Nikpour et al.">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Jak2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.69">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="2.24E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.96">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="7.75E-04">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="Tyrosine signaling pathway">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="Activating mutations in MDS, promotes survival and expansion">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="Steensma et al.">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Kras">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1.38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="2.35E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="4.29">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="6.75E-07">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="Tyrosine signaling pathway">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="Activating mutations in MDS, promotes survival and expansion">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="Bejar et al.">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Cbl">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1.50">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="1.41E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.82">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="9.29E-02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="Tyrosine signaling pathway">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="Negative regulator of receptor tyrosine kinase">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="Bejar et al.">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Asxl1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="1.08">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="4.46E-03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="1.89">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="1.00E-05">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="Epigenetic regulator">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="Frequently mutated in MDS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="Chen et al.">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Ezh2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1.39">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="1.09E-03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="2.09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="6.30E-06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="Epigenetic regulator">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="Inactivating mutation in myeloid disorders">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="Ernst et al.">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Tmem14c">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="–1.55">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="3.57E-02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="ns">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="Heme metabolism">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="Altered splicing in RARS">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="Conte et al.">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Alas2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="–0.74">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="4.53E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="Heme biosynthesis">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="Deregulated in RARS progenitors">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="Malcovati et al.">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Abcb7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="–1.04">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="4.3002">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="–1.22">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="6.87E-03">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="Iron transport from mitochondria">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="Mediator of RARS phenotype">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="Nikpour et al.">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="In addition, PGC1, which is downregulated specifically where the developmental block occurs, is located within the commonly deleted region of chromosome 5 of the del(5q) subtype of MDS [50] ." type="entailed">
+   </statement>
+   <statement id="3" text="Mdm2 has a lowest value in IV Log 2." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,96 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Results of interviews with Mexican chocolate clam fishers. Fishers have an average of 36.6 years of experience living and fishing in Loreto, and 22 out of 35 fishers are originally from Loreto. Categories emerged from participants' citation of factors that influence fishing decisions and are related to institutions, norms, and rules.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Fishing decision influenced">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Factor(s) important to decision-making, related to institutions">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Illustrative quote(s)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="When to harvest clams">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Fishers decide when to harvest clams based on: dates of quota and seasonal vedas; and they avoid harvesting during the spawning period of clams">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="“I fish based on the dates of my quota”; “I don't fish when clams are spawning&quot;">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Where to harvest clams">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Fishers determine where to harvest clams based on: the spatial constraints of their permit; familiar or traditional harvest areas; and locations where they are least likely to encounter authorities">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="“The permit says which banks I can fish”; “I have always fished right here in front of the beach”; “I go where I won't have problems with authorities&quot;">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Decision to change fishing site">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Fishers change harvest sites when: clams are too scarce; or clams are too small">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text='“I respect the size limits and stop fishing when the clams become scarce”; “When the clams are too small, I leave them to grow while I move to another site"'>
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Decision to fish via hookah diving">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Fishers choose to hookah dive because: it's the only legal way to harvest clams; it is preferable because it provides more time to be selective and to throw back small clams">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text='“Hookah diving is the only way to collect clams under a permit”; “With hookah, I have more time to throw back smaller clams"'>
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Decision to fish via free diving">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Fishers choose to free dive because: it's the traditional method of harvest and/or part of Loretano identity; it is the environmentally-friendly method; it has a lower impact on clam populations">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="“It's the traditional way”; “Free diving for clams is part of being a Loretano”; “Free diving has a lower impact on clam populations&quot;">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Size of clams harvested">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Fishers harvest medium and large clams and throw back smaller clams">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text='“We only collect the larger clams; the small ones we throw back”; “The minimum size is 64 mm"'>
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Amount of clams harvested">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Fishers don't harvest more than the population can sustain">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text='“We never leave a clam bank without a population"'>
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Decision to obtain a permit">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Fishers obtain a permit in order to avoid sanctions and problems with authorities">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text='“I need a permit to be in line with the law”; “Working within the law, I am free"'>
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Fishers don't decide when to harvest clams based on dates of quota and seasonal vedas." type="">
+   </statement>
+   <statement id="3" text='Fishers obtain a permit in order to avoid sanctions and problems with authorities and quotes - I need a permit to be in line with the law; Working within the law, I am free".' type="">
+   </statement>
+   <statement id="4" text="Formal institutions identified in this study include requirement of boat, motor, and compressor ownership to obtain a permit; requirement of permit and quota to legally harvest clams; spatially specific harvest areas outlined in permit; legal minimum size (64 mm) for clams harvested [ 34 ]; requirement of permit to sell to restaurants; and prohibition of harvest during seasonal bans, or vedas." type="">
+   </statement>
+   <statement id="5" text="Informal institutions include enforcement of permit and quota; harvest of medium to large clams; respect for others' harvest areas; rotation of harvest areas when clams become scarce or too small; harvest by free divers in shallow, nearshore waters, and harvest by hookah divers in deeper waters; seasonal fishing effort in accordance with environmental variability; the belief that subsistence harvest is a right of community members; and the belief that free diving is the traditional and ecological harvest method." type="">
+   </statement>
+   <statement id="10" text='The illustrative quote for the amount of clams harvested is We never leave a clam bank without a population".' type="">
+   </statement>
+   <statement id="12" text="There are 8 different fishing decision influenced with its unique Illustrative quotes." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

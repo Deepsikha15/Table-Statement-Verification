@@ -1,0 +1,140 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Phenotypes of conditional glutamine synthetase knockout mice
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Organ/Cell">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Phenotypes">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Ref.">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Global
+     
+     (all cells from conception)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="The blastocyst fail to implant and die at ED3.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Brain/most CNS astrocytes
+     
+     (hGFAP-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="The mice die soon after birth. They fail to feed and have slightly increased cortical ammonia levels">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Cerebral cortex
+     
+     (glutamatergic neurons and glia; Emx1-IRES-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="The mice are viable, but have reduced life span, develop spontaneous seizures from 6 weeks of age, and have decreased locomotive activities with episodes of wild running">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Oligodendrocytes
+     
+     (MOGi-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="The mice are viable, but neuronal glutamatergic transmission is disrupted in a myelin-independent way. There are deficits in cocaine-induced locomotor sensitization">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Macrophages
+     
+     (CSF1R-Cre
+     
+      ERT
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="The mice are viable, but with an increased capacity to induce T-cell recruitment, a reduced T-cell suppressive potential and an impaired ability to foster endothelial cell branching or cancer cell motility">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Endothelial cells
+     
+     (VE-cadherin(PAC)-cre
+     
+      ERT2
+     
+     and Pdgfb-cre
+     
+      ERT2
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="The mice are viable, but have impaired retinal vessel sprouting during vascular development">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Liver
+     
+     (Alb-Cre and Alfp-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="The mice are viable, but have systemic hyperammonia, increased locomotion, impaired fear memory, a slightly reduced life span, reduced exploratory activity, and delayed habituation to a novel environment">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text=";
+     
+     ;">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Muscle
+     
+     (MCK-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="The mice are healthy, fertile, but 5-fold higher escaped ammonia when fasting">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Kidney
+     
+     (PEPCK-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="The mice are viable, but under basal conditions there is increased urinary ammonia excretion, impaired adaptive responses in ammonia excretion during metabolic acidosis or during dietary protein restriction">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text=";">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Pancreas
+     
+     (Pdx1-Cre)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Pancreatic ductal carcinoma development is supressed">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Pancreatic ductal carcinoma development is supressed is a phenotype of Pancreas (Pdx1-Cre)." type="entailed">
+   </statement>
+   <statement id="4" text="The Phenotype for Global is give as The blastocyst fail to implant and die at ED3.4." type="entailed">
+   </statement>
+   <statement id="5" text="The Phenotype for Global is give as The mice are viable, but have impaired retinal vessel sprouting during vascular development." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

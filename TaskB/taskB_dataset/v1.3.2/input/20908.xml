@@ -1,0 +1,62 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Technical parameters of the ABS filament used in the tests.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Physical properties">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Density
+     
+     [kg/m
+     
+      3
+     
+     ]">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Tensile strength
+     
+     [MPa]">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Young module
+     
+     [MPa]">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Poisson’s ratio">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Value">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1050">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="44">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2000">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.38">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="In the future, research is planned using other types of filament." type="">
+   </statement>
+   <statement id="2" text="Physical properties is Value." type="">
+   </statement>
+   <statement id="4" text="Test elements of the assembly insert were made with 3D printing technology using ABS filament, whose basic technical parameters are summarized in Table 1 ." type="">
+   </statement>
+   <statement id="5" text="Value Density [kg/m 3 ] is 1050." type="">
+   </statement>
+   <statement id="6" text="Value Poissons ratio is 0.38." type="">
+   </statement>
+   <statement id="7" text="Value Poissons ratio is 1050." type="">
+   </statement>
+   <statement id="9" text="Value Tensile strength [MPa] is 44." type="">
+   </statement>
+   <statement id="10" text="Value Young module [MPa] is .038." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

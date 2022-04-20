@@ -1,0 +1,70 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Chemical composition of the F82H-IEA (wt.%).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="C">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Cr">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="W">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="V">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Ta">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Mn">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="Al">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="O">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="N">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="Fe">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="F82H IEA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.090">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="7.66">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2.00">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.16">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.04">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="0.16">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="&lt;0.002">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="0.005">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="0.005">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="Bal.">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Each value has a unique in the given table." type="entailed">
+   </statement>
+   <statement id="6" text="The Fe has a no balance." type="entailed">
+   </statement>
+   <statement id="7" text="The highest value is 150 in the given table." type="refuted">
+   </statement>
+   <statement id="9" text="The lowest value is &lt;0.002." type="entailed">
+   </statement>
+   <statement id="11" text="The material used in this study was F82H-IEA." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

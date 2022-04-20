@@ -1,0 +1,760 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Details of immunohistochemical antibodies
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Antibody">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Clone">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Dilution">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Source">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Platform">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="CD3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="LN10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1:500">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Leica">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Ventana">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="CD4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="SP35">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Ventana-Roche">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Prediluted">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Ventana">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="CD8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="C8/144B">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="DAKO A/S">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1:100">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Ventana">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="CD20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="L26">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Ventana-Roche">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Prediluted">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="Ventana">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="CD25">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="4C9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Cell Marque">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="1:100">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="Bond/Leica">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="CD68">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="PG-M1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="DAKO A/S">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1:50">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="Ventana">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="CD163">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="163C01 / 10D6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="NeoMarkers">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="1:200">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Bond/Leica">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="PD-1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="J116">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="DAKO A/S">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="1:50">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="Ventana">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="PDL1 263">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="SP263">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Ventana-Roche">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Prediluted">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="Ventana">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="MPO">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="polycloncal">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="NeoMarkers">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="1:200">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="Ventana">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="MPO only has a polyclonal clone." type="">
+   </statement>
+   <statement id="4" text="There are ten types of antibodies." type="">
+   </statement>
+   <statement id="5" text="Except CD25 and CD163 other antibodies has Ventana platform." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Autopsy findings and immune related adverse events (irAE)
+  
+">
+  </caption>
+  <legend text="
+
+   n.a. not available
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="ID">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Residual Tumor">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Hypophysitis">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Adrenalitis">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="ACTH">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Cortisol">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Other irAEs">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="No">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Yes">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="15 ng/l">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="2 nmol/l">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="Thyroiditis, myocarditis, pneumonitis, hepatitis">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Liver and bone">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Yes">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="n.a.">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="n.a.">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="No">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="No">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Yes">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="15 ng/l">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="72 nmol/l">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="Colitis">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Extensive">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="n.a">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1200 ng/l">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="1300 nmol/l">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="Colitis">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Brain">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Yes">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="n.a.">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="n.a.">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="Thyroiditis, hepatitis">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Extensive">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Yes">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="n.a.">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="No">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Extensive is having high Cortisol that is 1300nmol/l." type="">
+   </statement>
+   <statement id="4" text="Residual Tumor is having completely yes in Hypophysitis column." type="">
+   </statement>
+   <statement id="7" text="There are some blocks with not available details." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Immunohistochemical analysis of inflammation, PD1 and PDL-1 expression
+  
+">
+  </caption>
+  <legend text="
+
+   Pit. gl., Pituitary gland; Adr., Adrenal gland; l.s, left side; r.s., right side; n.a., not available;
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Patient">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Organ">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="CD3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="CD4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="CD8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="CD25">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="CD20">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="CD68">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="CD163">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="PD1">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="PD-L1 P/I">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Pit. Gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1+">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="2+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="3+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="3+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="3+/1+">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Adr.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="1+/1+">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Thyroid">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="1+">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="2+">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="3+/2+">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Lung">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="-/3+">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Heart">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="3+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="3+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="-/1+">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Liver">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="1+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="-/1+">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Pit. gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="3+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="3+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="3+/1+">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Adr.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="3+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="2+/3+">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Liver">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="3+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="-/4+">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Pit. gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="2+">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="1+/-">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Adr. l.s.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="-/-">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Adr. r.s.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="12" row-start="12" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="12" row-start="12" text="-/1+">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="Colon">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="2+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="1+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="13" row-start="13" text="1+">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="13" row-start="13" text="-/3++">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Pit. gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="1+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="1+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="1+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="n.a.">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="n.a.">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="n.a.">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="14" row-start="14" text="n.a.">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="14" row-start="14" text="n.a.">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Pit. gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="2+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="2+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="3+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="15" row-start="15" text="3+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="15" row-start="15" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="15" row-start="15" text="1+/1+">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="Adr.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="2+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="16" row-start="16" text="-">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="16" row-start="16" text="4+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="16" row-start="16" text="4+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="16" row-start="16" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="16" row-start="16" text="-/-">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="Thyroid">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="3+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="3+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="3+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="17" row-start="17" text="4+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="17" row-start="17" text="2+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="17" row-start="17" text="2+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="17" row-start="17" text="3+">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="17" row-start="17" text="-/-">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="Pit. gl.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="2+">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="2+">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="2+">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="-">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="18" row-start="18" text="3+">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="18" row-start="18" text="3+">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="18" row-start="18" text="3+">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="18" row-start="18" text="-">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="18" row-start="18" text="3+/1+">
+   </cell>
+  </row>
+  <statements>
+   <statement id="5" text="Organ Pit. gl. only has 1+ positivity in 4%." type="">
+   </statement>
+   <statement id="6" text="Organ Pit. gl. only has 4+ positivity in 4%." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

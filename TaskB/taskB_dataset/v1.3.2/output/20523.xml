@@ -1,0 +1,82 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Composition of the φ and
+   
+    n
+   
+   phases of the unetched sample, determined by EDS.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="φ phase">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="at. %">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="st. dev. (%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="n
+     
+     phase">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="at. %">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="st. dev. (%)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="O">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="4.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="6.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="O">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="23.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="27.5">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Fe">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="86.9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Nd">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="61.9">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="8.4">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Nd">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="9.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3.2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Dy">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="14.9">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="10.7">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="Sample Dy does not have standard deviation." type="refuted">
+   </statement>
+   <statement id="8" text="Sample O and Nd is present only in n phases." type="refuted">
+   </statement>
+   <statement id="9" text="Sample O in n phase has highest percent of standard deviation." type="entailed">
+   </statement>
+   <statement id="11" text="Table 1 reports the composition per major elements of the phases  (Fe, Nd and O  the latter being a contamination) and n" type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

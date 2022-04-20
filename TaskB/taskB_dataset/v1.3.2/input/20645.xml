@@ -1,0 +1,503 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Mortality using an eGFR
+   
+    cystatin C
+   
+   /eGFR
+   
+    creatinine
+   
+   -ratio of &lt; 0.60 to diagnose SPS.
+  
+">
+  </caption>
+  <legend text="
+
+   mGFR: measured GFR (iohexol-clearance); eGFR: estimated GFR; CAPA (reference 25); LMrev (references 73 and 74); CKD-EPI
+   
+    cystatin C
+   
+   and CKD-EPI
+   
+    creatinine
+   
+   (reference 75).
+  
+
+   Some figures are estimated from Kaplan-Meier curves.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Equation pair used to calculate eGFR
+     
+      cystatin C
+     
+     /eGFR
+     
+      creatinine
+     
+     -ratio">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Study period (years)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Mortality (%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Reference (no. in list)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="eGFR &gt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="26">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Dardashti et al. (64)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="eGFR &lt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="47">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Dardashti et al. (64)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="eGFR &gt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Dardashti et al. (64)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="eGFR &lt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="40">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Dardashti et al. (64)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="eGFR: all values">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="42">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Purde et al. (65)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="mGFR &gt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="56">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Sällman-Almén et al. (68)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="mGFR &lt; 60 ml/min/1.72 m
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="74">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Sällman-Almén et al. (68)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="eGFR: all values">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="27">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="Herou et al. (70)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="eGFR: all values">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Herou et al. (70)">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="mGFR: all values">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="62">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="Åkesson et al. (71)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="26% is the least mortality in the table." type="">
+   </statement>
+   <statement id="2" text="5 equation has same study period." type="">
+   </statement>
+   <statement id="4" text="Mortality of equation mGFR: all values is 16." type="">
+   </statement>
+   <statement id="5" text="Mortality of equation mGFR: all values is 62." type="">
+   </statement>
+   <statement id="7" text="There are 10 Equation pair used to calculate eGFR cystatin C /eGFR creatinine -ratio." type="">
+   </statement>
+   <statement id="8" text="There are 16 Equation pair used to calculate eGFR cystatin C /eGFR creatinine -ratio." type="">
+   </statement>
+   <statement id="9" text="16% is the smallest mortality in the table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Prevalence of SPS using different eGFR
+   
+    cystatin C
+   
+   /eGFR
+   
+    creatinine
+   
+   -ratios to diagnose it.
+  
+">
+  </caption>
+  <legend text="
+
+   CAPA (reference 25); LMrev (references 73 and 74); CKD-EPI
+   
+    cystatin C
+   
+   and CKD-EPI
+   
+    creatinine
+   
+   (reference 75); FAS
+   
+    cystatin C
+   
+   and FAS
+   
+    creatinine
+   
+   (reference 76).
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Equation pair used to calculate
+     
+     eGFR
+     
+      cystatin C
+     
+     /eGFR
+     
+      creatinine
+     
+     -ratio">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="Prevalence (%)
+     
+     eGFR
+     
+      cystatin C
+     
+     /eGFR
+     
+      creatinine
+     
+     -ratio">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Reference (no. in list)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.60">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.70">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="8.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Grubb et al. [48]">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="2.1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="6.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Dardashti et al. [64]">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="5.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Dardashti et al. [64]">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Purde et al. [65]">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Purde et al. [65]">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="2.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="6.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Herou et al. [70]">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="7.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="21">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Herou et al. [70]">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="CAPA/LMrev">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Åkesson et al. [71]">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="CKD-EPI
+     
+      cystatin C
+     
+     /CKD-EPI
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="19">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="36">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Åkesson et al. [71]">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="FAS
+     
+      cystatin C
+     
+     /FAS
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Åkesson et al. [71]">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="FAS
+     
+      cystatin C
+     
+     /FAS
+     
+      creatinine">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="4.8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="13.9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="den Bakker et al. [77] (children)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="The highest Prevalence percentage is 10 for both CAPA/LMrev and FAS cystatin C /FAS creatinine." type="">
+   </statement>
+   <statement id="1" text="The highest Prevalence percentage is 23 for both CAPA/LMrev and FAS cystatin C /FAS creatinine." type="">
+   </statement>
+   <statement id="2" text="The reference for FAS cystatin C /FAS creatinine is different when compared to other equation pairs." type="">
+   </statement>
+   <statement id="3" text="There are 12 types of equation pair used to calculate eGFR cystatin C /eGFR creatinine -ratio." type="">
+   </statement>
+   <statement id="4" text="There are 6 types of equation pair used to calculate eGFR cystatin C /eGFR creatinine -ratio." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,130 @@
+<document>
+ <table id="Table 4">
+  <caption text="
+
+   Overview of methods used to analyze harvested tissue samples
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Method">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Drug extracted">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Drug release indicated by">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Applicable for drugs that are not absorbed">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Tissue">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Luminal content">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Delivery system">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="i">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="X">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Presence of drug">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="iia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="X">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="X">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="X">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Incomplete recovery">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="iib">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="X">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="X">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="Presence of drug">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="X">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="iiia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="X">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="X">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="Incomplete recovery">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="iiib">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="X">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="Presence of drug">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="X">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="iv">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="X">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Incomplete recovery">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="X">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="In the other approaches (iib and iiib), it is important that the drug is not extracted from the drug delivery system and that the luminal content is included in the assay either with or without the tissue." type="">
+   </statement>
+   <statement id="3" text="In three of the different approaches, the location of release of drugs that are not absorbed into the systemic circulation can be identified (iib, iiib, and iv) ( Table 4 )." type="">
+   </statement>
+   <statement id="4" text="Luminal content is not present in method i and iv." type="">
+   </statement>
+   <statement id="6" text="One option is to retrieve the drug delivery system itself (iv) and to measure the drug content in the system, in which incomplete recovery indicates drug release." type="">
+   </statement>
+   <statement id="8" text="There are ten methods given in the table." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

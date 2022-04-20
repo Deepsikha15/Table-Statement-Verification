@@ -1,0 +1,203 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Sociodemographic characteristics.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="All">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Women">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Men">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Sex">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="6">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Age (Md years)(range)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="84(70-93)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="84(70-93)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="85(74-91)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Living in a city">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="6">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Living in a rural area">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="4">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Living in an apartment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="6">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="2">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Living in a terrace house">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="4">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Living alone">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="14">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="5">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Reason for needing care
+     
+     - Planned hip surgery
+     
+     - Hip fracture
+     
+     - Arm fracture
+     
+     - Severe infection">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="3
+     
+     9
+     
+     1
+     
+     2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="2
+     
+     5
+     
+     1
+     
+     1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="1
+     
+     4
+     
+
+     1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Length of hospitalization (Md days) (range)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="9(4-20)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Living alone Men is 5." type="entailed">
+   </statement>
+   <statement id="1" text="Living alone Men is 6." type="refuted">
+   </statement>
+   <statement id="2" text="Living alone Women is 5." type="refuted">
+   </statement>
+   <statement id="4" text="Living in a city is 6 for Women." type="entailed">
+   </statement>
+   <statement id="5" text="Living in an apartment 6 for Women." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Theme, categories and sub-categories revealed from the analysis.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Theme">
+   </cell>
+   <cell col-end="4" col-start="1" row-end="0" row-start="0" text='"Longing to be independent again”'>
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Categories">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Dependent on other persons and aids">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Obstacles in daily life">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Adapt to the situation">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Psychological and Physical values">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Sub-categories">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Formal support
+     
+     Informal support">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Physical
+     
+     Environmental">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Strategy
+     
+     Acceptens">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Being outdoors
+     
+     Social interactions">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text='Dependent on other persons and aids Sub-categories has "Longing to be independent again' type="refuted">
+   </statement>
+   <statement id="3" text="Physical Environmental is Sub-categories." type="entailed">
+   </statement>
+   <statement id="4" text='The latent analysis revealed a theme: " Longing to be independent again  based on four categories: Dependent on other people and aids, Obstacles, impediments and limitations in daily life, Adapt to the situation and Psychological and physical values ( Table 3 ).' type="entailed">
+   </statement>
+   <statement id="5" text="There are Categories and Sub-categories" type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

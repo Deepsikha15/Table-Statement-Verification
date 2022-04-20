@@ -1,0 +1,262 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Columns data type.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="No">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Column">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Count">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Data type">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="responses_header">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="object">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="responses_rating_grade">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="11,222">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="float64">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="responses_status">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="7559">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="object">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="responses_message">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="object">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="responses_datetime">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="datetime64[ns]">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="reviewer">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="object">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="comments">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="int64">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="views">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="int64">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="id">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="int64">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="have_email">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="int64">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="responses_message_length">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="int64">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="gunning_fog_index">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="float64">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="binary_score">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="16,659">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="object">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Column responses_rating_grade has the count of 10,121." type="refuted">
+   </statement>
+   <statement id="2" text="Column responses_rating_grade has the count of 11,222." type="entailed">
+   </statement>
+   <statement id="3" text="Column responses_status has the lowest count of 7559." type="entailed">
+   </statement>
+   <statement id="5" text="Eleven Column has lowest and different Count of 16,679." type="refuted">
+   </statement>
+   <statement id="6" text="There are five different type of Columns data type." type="refuted">
+   </statement>
+   <statement id="7" text="There are thirteen different type of Columns data type." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Comparison of the lengths of positive and negative reviews.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="binary_score">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="responses_message_length">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="negative">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1474.2">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="positive">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1041.6">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the value are in negative values." type="refuted">
+   </statement>
+   <statement id="1" text="All the value are in positive values." type="entailed">
+   </statement>
+   <statement id="2" text="Binary score is classified into 3 types." type="refuted">
+   </statement>
+   <statement id="3" text="Binary score is classified into positive and negative." type="entailed">
+   </statement>
+   <statement id="4" text="Both the values are with decimal point." type="entailed">
+   </statement>
+   <statement id="5" text="Both the values are without decimal point." type="refuted">
+   </statement>
+   <statement id="7" text="Table 2 shows the correspondence of the average length of reviews concerning the binary classification." type="entailed">
+   </statement>
+   <statement id="8" text="There are 2 columns in the given table." type="entailed">
+   </statement>
+   <statement id="9" text="There are 4 columns in the given table." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   The number of views depending on the rating.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="responses_rating_grade">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="views">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1192.8">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1278.9">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1391.4">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1169.8">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="990">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Rating grade 3.0 having more views." type="entailed">
+   </statement>
+   <statement id="3" text="Rating grade 5.0 has less number of views." type="entailed">
+   </statement>
+   <statement id="4" text="There are six rating grades given in the table." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

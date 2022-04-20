@@ -1,0 +1,2637 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Impacts of rainfall anomalies on the odds of being stunted and severely stunted, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: *
+   
+    p
+   
+   &lt; 0.05, **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Average rainfall anomalies are measured from the in-utero period up until the time of the interview. Age splines and fixed effects for month of birth, month of interview, year of interview and district are included but not displayed. Robust standard errors are reported in parenthesis. Standard errors are clustered at the district level. Sampling weights are applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Stunted (OR)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Stunted (OR)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="severely stunted (OR)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="severely stunted (OR)">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Average rainfall anomalies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1.16***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="(0.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="1.17***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(0.03)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1.20***">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="(0.03)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="1.21***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="(0.03)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Individual characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Sex (ref. = female)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="male">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1.07***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="(0.01)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="1.13***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="(0.02)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Twin (ref. = no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="yes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1.51***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="(0.11)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="1.58***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="(0.14)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Birth order">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="1.08***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="(0.01)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="1.08***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="(0.01)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Maternal characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Age at giving birth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.98***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="(0.002)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="0.98***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="(0.002)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Education (ref. = no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.90***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="0.84***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="(0.02)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="secondary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.76***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="(0.01)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="0.70***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="(0.02)">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="higher">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.58***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="0.57***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="(0.03)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Household characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Wealth (ref. = poorest)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="poorer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.84***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="16" row-start="16" text="0.77***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="16" row-start="16" text="(0.02)">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="middle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="0.70***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="17" row-start="17" text="0.60***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="17" row-start="17" text="(0.02)">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="richer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.55***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="18" row-start="18" text="0.48***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="18" row-start="18" text="(0.02)">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="richest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.42***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="19" row-start="19" text="0.38***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="19" row-start="19" text="(0.02)">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Number of under 5 children">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="1.05***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="(0.01)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="20" row-start="20" text="1.04***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="20" row-start="20" text="(0.01)">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Household head (ref. = male)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="21" row-start="21" text="">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="female">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="1.02">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="22" row-start="22" text="0.98">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="22" row-start="22" text="(0.02)">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Caste (ref. = other)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="23" row-start="23" text="">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="scheduled caste and tribe">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="1.28***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="(0.03)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="24" row-start="24" text="1.26***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="24" row-start="24" text="(0.04)">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="other backward class">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="1.14***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="25" row-start="25" text="1.12***">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="25" row-start="25" text="(0.03)">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Residence (ref. = urban)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="26" row-start="26" text="">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="rural">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="0.94**">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="(0.02)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="27" row-start="27" text="0.92**">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="27" row-start="27" text="(0.03)">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Observations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="28" row-start="28" text="">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="Pseudo R
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="0.06">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="0.08">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="29" row-start="29" text="0.05">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="29" row-start="29" text="0.08">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="29" row-start="29" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Standard errors are clustered at the district level." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 1">
+  <caption text="
+
+   Summary statistics for main variables of interest.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Unit">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Mean (Proportion)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Std. Dev.">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Outcome variables">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="HAZ">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="z-score">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="−1.43">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1.78">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Stunted">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.38">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.49">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Severely stunted">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.17">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.37">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Climate variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Average rainfall anomalies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="z-score">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="−0.02">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.61">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Individual characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Sex">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Female">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.48">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.50">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="male">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.52">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.50">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Twin">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="No">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.99">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.12">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="yes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.01">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.12">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Birth order">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="number">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="2.27">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="1.47">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Maternal characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Age at giving birth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="years">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="25.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="4.94">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Education">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="no">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="0.31">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.46">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="0.15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.35">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="secondary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="0.45">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="0.50">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="higher">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="0.09">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="0.29">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Household characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Wealth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="poorest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="0.26">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="0.44">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="poorer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="0.23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="0.42">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="middle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="0.20">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="0.40">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="richer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="0.17">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="0.37">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="richest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="0.14">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="0.34">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="Number of under 5 children">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="number">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="1.76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="0.93">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="Household head">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="male">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="0.88">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="0.33">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="femal
+     
+     e">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="0.12">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="0.33">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="Caste">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="other">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="0.19">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="0.39">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="SC &amp; ST">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="35" row-start="35" text="0.40">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="35" row-start="35" text="0.49">
+   </cell>
+  </row>
+  <row row="36">
+   <cell col-end="0" col-start="0" row-end="36" row-start="36" text="OBD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="36" row-start="36" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="36" row-start="36" text="0.41">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="36" row-start="36" text="0.49">
+   </cell>
+  </row>
+  <row row="37">
+   <cell col-end="0" col-start="0" row-end="37" row-start="37" text="Residence">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="37" row-start="37" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="37" row-start="37" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="37" row-start="37" text="">
+   </cell>
+  </row>
+  <row row="38">
+   <cell col-end="0" col-start="0" row-end="38" row-start="38" text="urban">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="38" row-start="38" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="38" row-start="38" text="0.24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="38" row-start="38" text="0.43">
+   </cell>
+  </row>
+  <row row="39">
+   <cell col-end="0" col-start="0" row-end="39" row-start="39" text="rural">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="39" row-start="39" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="39" row-start="39" text="0.76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="39" row-start="39" text="0.43">
+   </cell>
+  </row>
+  <row row="40">
+   <cell col-end="0" col-start="0" row-end="40" row-start="40" text="WASH variables">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="40" row-start="40" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="40" row-start="40" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="40" row-start="40" text="">
+   </cell>
+  </row>
+  <row row="41">
+   <cell col-end="0" col-start="0" row-end="41" row-start="41" text="Water">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="41" row-start="41" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="41" row-start="41" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="41" row-start="41" text="">
+   </cell>
+  </row>
+  <row row="42">
+   <cell col-end="0" col-start="0" row-end="42" row-start="42" text="not on premise">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="42" row-start="42" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="42" row-start="42" text="0.38">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="42" row-start="42" text="0.49">
+   </cell>
+  </row>
+  <row row="43">
+   <cell col-end="0" col-start="0" row-end="43" row-start="43" text="on premise">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="43" row-start="43" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="43" row-start="43" text="0.62">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="43" row-start="43" text="0.49">
+   </cell>
+  </row>
+  <row row="44">
+   <cell col-end="0" col-start="0" row-end="44" row-start="44" text="Sanitation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="44" row-start="44" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="44" row-start="44" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="44" row-start="44" text="">
+   </cell>
+  </row>
+  <row row="45">
+   <cell col-end="0" col-start="0" row-end="45" row-start="45" text="unimproved">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="45" row-start="45" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="45" row-start="45" text="0.59">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="45" row-start="45" text="0.49">
+   </cell>
+  </row>
+  <row row="46">
+   <cell col-end="0" col-start="0" row-end="46" row-start="46" text="improved">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="46" row-start="46" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="46" row-start="46" text="0.41">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="46" row-start="46" text="0.49">
+   </cell>
+  </row>
+  <row row="47">
+   <cell col-end="0" col-start="0" row-end="47" row-start="47" text="Hygiene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="47" row-start="47" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="47" row-start="47" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="47" row-start="47" text="">
+   </cell>
+  </row>
+  <row row="48">
+   <cell col-end="0" col-start="0" row-end="48" row-start="48" text="low">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="48" row-start="48" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="48" row-start="48" text="0.67">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="48" row-start="48" text="0.47">
+   </cell>
+  </row>
+  <row row="49">
+   <cell col-end="0" col-start="0" row-end="49" row-start="49" text="high">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="49" row-start="49" text="0/1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="49" row-start="49" text="0.33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="49" row-start="49" text="0.47">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Age of given birth has highest mean (population) value." type="entailed">
+   </statement>
+   <statement id="2" text="Female and male variables has same standard deviation." type="entailed">
+   </statement>
+   <statement id="4" text="WASH variables and water does not have static deviation." type="entailed">
+   </statement>
+   <statement id="5" text="Among the education numbers, higher education has the highest mean (population)." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Impacts of rainfall anomalies on HAZ score, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: *
+   
+    p
+   
+   &lt; 0.05, **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Average rainfall anomalies are measured from the in-utero period up until the time of the interview. Age splines and fixed effects for month of birth, month of interview, year of interview and district are included but not displayed. Robust standard errors are reported in parenthesis. Standard errors are clustered at the district level. Sampling weights are applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="HAZ (OLS coef.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="HAZ (OLS coef.)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Average rainfall anomalies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−0.10***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="(0.02)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="−0.11***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="(0.02)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Individual characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Sex (ref. = female)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="male">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="−0.07***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="(0.01)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Twin (ref. = no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="yes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−0.39***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="(0.06)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Birth order">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="−0.06***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="(0.01)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Maternal characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Age at giving birth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.02***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="(0.002)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Education (ref. = no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.07***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="(0.02)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="secondary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.19***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="(0.02)">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="higher">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.37***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="(0.02)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Household characteristics">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Wealth (ref. = poorest)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="poorer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.14***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="(0.02)">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="middle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="0.28***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="(0.02)">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="richer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.43***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="(0.02)">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="richest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.66***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="(0.03)">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Number of under 5 children">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="−0.04***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="(0.01)">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Household head (ref. = male)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="female">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="−0.01">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="(0.02)">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Caste (ref. = other)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="scheduled caste and tribe">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="−0.19***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="(0.02)">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="other backward class">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="−0.09***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="(0.02)">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Residence (ref. = urban)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="rural">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="0.05*">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="(0.02)">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Observations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="220,823">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="R
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="0.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="0.14">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Average rainfall anomalies ranges from 0.10*** to 0.11***." type="entailed">
+   </statement>
+   <statement id="5" text="Sampling weights are applied." type="refuted">
+   </statement>
+   <statement id="7" text="There are no values from some categories." type="refuted">
+   </statement>
+   <statement id="8" text="We also find that children born to educated women tend to have higher HAZ scores and are less likely to be stunted and severely stunted compared to those whose mothers have no formal education." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Impacts of rainfall anomalies on the odds of being stunted by period of birth, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Age splines and fixed effects for month of birth, month of interview, year of interview and district are included but not displayed. Robust standard errors are reported in parentheses. Standard errors are clustered at the district level. Sampling weights are applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Period of birth">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Pre-monsoon season (ORs)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Monsoon season (ORs)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Post-monsoon season (ORs)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Rainfall anomaly in infancy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1.04**">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.05***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1.03">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="(0.02)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="(0.02)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="(0.02)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Observations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="81,731">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="75,226">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="56,760">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Pseudo R
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.06">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.06">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="Pseudo R2 value is same in both Pre-monsoon season and Post-monsoon season." type="entailed">
+   </statement>
+   <statement id="7" text="The results presented in Table 4 show that excessive rainfall increases the risk of stunting for children during the monsoon season or the months before, while children born later in the year are not affected." type="entailed">
+   </statement>
+   <statement id="9" text="There are 4 seasons in period of birth." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 5">
+  <caption text="
+
+   KHB model – Decomposing the effect of mother’s education on stunting.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: *
+   
+    p
+   
+   &lt; 0.05, **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Obs.: 29,763. Pseudo R
+   
+    2
+   
+   : 0.09. Detailed results for each group pf mediator variables are available in
+   . Cell entries for total, direct and indirect effects are odds ratios with robust standard errors in parenthesis. Age splines and fixed effects for month of birth, month of interview, year of interview and district are included but not displayed. Standard errors are clustered at the district level. 87% of observations were dropped compared from the baseline model due to missing data for HIV knowledge and female empowerment.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Education">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Education">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Education">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="(primary vs. no)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="(secondary vs. no)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="(higher vs. no)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Reduced model">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.81*** (0.05)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.60*** (0.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.30*** (0.02)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Full model">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.86** (0.05)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.68*** (0.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.37*** (0.03)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Effect change in %">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="25.56%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="24.22%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="17.48%">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Components">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Health-specific knowledge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="18.73%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="18.76%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="13.86‬%">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Health-care utilisation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="6.23‬%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="5.04‬%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="2.98‬%">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Female empowerment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.60%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.43%">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.65%">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Effect change in % Components has a highest percentage (primary vs. no)." type="entailed">
+   </statement>
+   <statement id="2" text="Full model has a lowest value in (primary vs. no)." type="refuted">
+   </statement>
+   <statement id="4" text="Since mothers education is a categorical variable, Table 5 shows a coefficient for each level of education with no education being the reference category." type="entailed">
+   </statement>
+   <statement id="5" text="The reduced model shows the total effect of mothers education on child stunting before the inclusion of potential mediators." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table A1">
+  <caption text="
+
+   Mean HAZ score and prevalence of stunting and severe stunting by sociodemographic characteristics and WASH, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Note: Sampling weights applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Mean HAZ">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="% stunted">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="% severely stunted">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Sex of child">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="female">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="−1.41">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="38.28">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="16.02">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="male">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="−1.47">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="39.16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="17.25">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Caste">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="other">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="−1.18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="31.26">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="12.00">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="SC &amp; ST">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="−1.60">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="43.13">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="19.46">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="OBC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="−1.44">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="38.89">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="16.71">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Residence">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="urban">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−1.18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="31.54">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="12.38">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="rural">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="−1.54">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="41.46">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="18.29">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Education">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="no">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="−1.86">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="50.57">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="25.10">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="−1.63">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="43.29">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="18.05">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="secondary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="−1.26">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="33.16">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="12.46">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="higher">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="−0.75">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="21.10">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="7.67">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Wealth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="poorest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="−1.89">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="51.47">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="25.96">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="poorer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="−1.63">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="43.67">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="18.81">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="middle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="−1.39">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="36.94">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="14.04">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="richer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="−1.15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="29.72">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="10.71">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="richest">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="−0.82">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="22.44">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="7.94">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Education and wealth group">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="low education and poor">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="−1.88">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="51.33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="25.42">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="high education and poor">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="−1.52">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="40.35">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="16.68">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="low education and rich">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="−1.53">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="40.15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="16.15">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="high education and rich">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="−1.03">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="27.43">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="9.68">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Water">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="not on premise">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="−1.57">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="41.79">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="18.36">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="on premise">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="−1.37">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="37.01">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="15.70">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="Sanitation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="unimproved">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="−1.66">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="44.74">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="20.40">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="improved">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="−1.12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="29.78">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="22.09">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="Hygiene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="low">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="−1.57">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="42.66">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="19.23">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="high">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="−1.19">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="35" row-start="35" text="30.82">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="35" row-start="35" text="11.49">
+   </cell>
+  </row>
+  <statements>
+   <statement id="4" text="The female is having highest % severely stunted than Male." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table B1">
+  <caption text="
+
+   Impacts of rainfall anomalies on HAZ score, stunting and severe stunting – testing for non-linearity in the effects, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: *
+   
+    p
+   
+   &lt; 0.05, **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Age splines and fixed effects for month of birth, month of interview, year of interview and district included but not displayed. Sampling weights applied. Average rainfall anomalies measured from the in-utero period up until the time of the interview. Robust standard errors reported in parentheses. Standard errors clustered at the district level. Sampling weights applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="HAZ (OLS coef.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Stunted (OR)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Severely stunted (OR)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Average rainfall anomalies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−0.09***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1.14***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="1.18***">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="(0.02)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="(0.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="(0.04)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Average rainfall anomalies
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.98">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.97">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="(0.01)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="(0.015)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="(0.02)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Observations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="220,823">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="220,823">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="220,823">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="(Pseudo) R
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.05">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Average rainfall anomalies 2 has lowest HAZ score." type="entailed">
+   </statement>
+   <statement id="3" text="Average rainfall anomalies,Average rainfall anomalies 2 and Observations has unique values except (Pseudo) R 2." type="refuted">
+   </statement>
+   <statement id="5" text="In a second robustness check, we account for potential migration, which would lead to mismatching of the rainfall data with childrens location." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table B2">
+  <caption text="
+
+   Impacts of rainfall anomalies on HAZ score, stunting and severe stunting – controlling for migration, children aged 0–5.
+  
+">
+  </caption>
+  <legend text="
+
+   Notes: *
+   
+    p
+   
+   &lt; 0.05, **
+   
+    p
+   
+   &lt; 0.01, ***
+   
+    p
+   
+   &lt; 0.001. Sample excludes non-permanent residents and children whose mothers have relocated since the child was in-utero. Age splines and fixed effects for month of birth, month of interview, year of interview and district included but not displayed. Average rainfall anomalies measured from the in-utero period up until the time of the interview. Robust standard errors reported in parentheses. Standard errors clustered at the district level. Sampling weights applied.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="HAZ (OLS coef.)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Stunted (OR)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Severely stunted (OR)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Average rainfall anomalies">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="−0.10***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1.16***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.17***">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="(0.02)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="(0.03)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="(0.03)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Observations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="157,610">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="157,610">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="157,610">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Pseudo R
+     
+      2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.05">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the Average rainfall anomalies values are observed unique" type="refuted">
+   </statement>
+   <statement id="1" text="Impacts of rainfall anomalies are having three regions." type="entailed">
+   </statement>
+   <statement id="2" text="Pseudo R 2 ranges from 0.05 -0.11." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table C1">
+  <caption text="
+
+   Description and summary statistics of mediator variables.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Range">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Health-specific knowledge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="HIV knowledge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Respondent has heard of HIV (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0–1">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Mosquito net use">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Household has mosquito bed net for sleeping (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0–1">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Hygiene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Proper disposal of child’s stool (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0–1">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Health-care utilisation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Antenatal care visits">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Made at least 1 antenatal care visit during latest pregnancy (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0–1">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Delivery">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Gave birth in a health facility under the supervision of a trained professional (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0–1">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Child vaccination">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Child has received full vaccination (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0–1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Female empowermen
+     
+     t">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Respondent participates in decision making concerning health-care, large household purchases and visits to friends and relatives and does not justify wife beating in any situation (yes = 1; no = 0)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0–1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="HIV knowledge is Respondent has heard of HIV ." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table C2">
+  <caption text="
+
+   Descriptive statistics for main variables of interest – full and reduced sample.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="Full sample (n = 220,823)">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="0" row-start="0" text="Reduced sample (n = 29,763)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Mean (Proportion)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Std. Dev.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Mean (Proportion)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Std. Dev.">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Stunted">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.49">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.35">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.48">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Education">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="no">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.31">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.46">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.27">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.45">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="primary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.35">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.14">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.34">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="secondary">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.45">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.48">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.50">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="higher">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.09">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.29">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.11">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.32">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="HIV knowledge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.73">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.44">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Mosquito net use">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.42">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.49">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.42">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.49">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Hygiene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.33">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.47">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.37">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.48">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Antenatal care visits">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.81">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.39">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.83">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.37">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Delivery">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.51">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.59">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.49">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Child vaccination">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.16">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.37">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Female empowerment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.37">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="0.48">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Education doesn't have any value in full and reduced sample." type="entailed">
+   </statement>
+   <statement id="1" text="HIV knowledge std.dev value in full sample is 0.73." type="refuted">
+   </statement>
+   <statement id="2" text="Mean value of education in full sample is 0.55." type="refuted">
+   </statement>
+   <statement id="3" text="Reduced sample of all parameters have unique value in Std.Dev." type="refuted">
+   </statement>
+   <statement id="4" text="The highest mean value in full sample is 0.12." type="refuted">
+   </statement>
+   <statement id="5" text="There are 8 kinds of sample." type="refuted">
+   </statement>
+   <statement id="6" text="There are two kinds of sample full and reduced sample." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

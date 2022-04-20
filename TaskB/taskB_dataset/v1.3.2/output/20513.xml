@@ -1,0 +1,1066 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Summary of identified topics.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Theme">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Topic Label">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Top Three Words">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Representative Article">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="4.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Yield Gap">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Agricultur Product Develop">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="3.60">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Crop Diseases">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Plant Gene Resist">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Crop Monitoring Data">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Model Use Data">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="2.90">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Crop Variety Research">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Crop Yield Product">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="2.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Crop Genetics">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Genet Crop Breed">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="1.90">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Soil Fertiity">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Soil Fertil Organ">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="1.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Fertilizer">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Oil Use Phosphorus">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="0.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Insect Pests">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Pest Insect Loss">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="0.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Rice">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Rice Paddi Rice-product">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="0.30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Wheat China">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Wheat China Winter">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="0.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="Tuber Production">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Cassava Potato Sweet">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="Ag Intensification">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="Arabl Land Arabl-land">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="Agronomy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Crop Production Technology">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="Ecolog Factor Region">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="3.50">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="Climate Adaptation">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="Climat Chang Climat-chang">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="2.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Abiotic Crop Stress">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Plant Stress Yield">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="1.90">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="Natural Systems">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="Ecosystem Conserv Forest">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="1.80">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="Biofuel Research">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="Emiss Energi Biofuel">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="1.60">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="Precipitation Trends">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="Season Drought Rainfal">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="0.60">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="Climate Hazards">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="Risk Vulner Resili">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="Bio Energy">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="Bioenergi Energi Gas">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="3.60">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="Economic Policy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="Food Prices">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="Price Countri Polici">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="1.30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="Economic Policy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="Food Trade">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="Trade Agricultur Product">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="1.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="Economic Policy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="Food Value Chain">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="Market Seed Farmer">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="0.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="Economic Policy">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="Food Waste">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="Wast Chain Suppli">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="7.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="Food Sovereignty">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="Polici Social Polit">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="2.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="Agricultural Land Use">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="Land Area Cultiv">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="1.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="Food Security Measurement">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="Use Measur Indic">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="1.30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="Food Access">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="Urban Citi Garden">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="0.80">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="Africa">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="Africa African South">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="0.70">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="Global Food Security">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="Food Aid">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="Aid Bank Servic">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="30" row-start="30" text="">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="2.90">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="Health">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="Health Determinants And Equity">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="Health Social Care">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="31" row-start="31" text="">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="1.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="Health">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="Food Contaminants">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="Concentr Sampl Contamin">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="32" row-start="32" text="">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="1.30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="Health">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="HIV">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="Hiv Adher Intervent">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="33" row-start="33" text="">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="0.90">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="Health">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="Community Health">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="Communiti Health Social">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="34" row-start="34" text="">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="Health">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="35" row-start="35" text="Health And Poverty">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="35" row-start="35" text="Food Develop Communiti">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="35" row-start="35" text="">
+   </cell>
+  </row>
+  <row row="36">
+   <cell col-end="0" col-start="0" row-end="36" row-start="36" text="4.30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="36" row-start="36" text="Livelihoods">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="36" row-start="36" text="Household Modeling">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="36" row-start="36" text="Household Incom Rural">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="36" row-start="36" text="">
+   </cell>
+  </row>
+  <row row="37">
+   <cell col-end="0" col-start="0" row-end="37" row-start="37" text="2.80">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="37" row-start="37" text="Livelihoods">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="37" row-start="37" text="Income Diversification Farmer">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="37" row-start="37" text="Farmer Farm Use">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="37" row-start="37" text="">
+   </cell>
+  </row>
+  <row row="38">
+   <cell col-end="0" col-start="0" row-end="38" row-start="38" text="2.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="38" row-start="38" text="Livelihoods">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="38" row-start="38" text="Traditional Knowledge">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="38" row-start="38" text="Communiti Interview Studi">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="38" row-start="38" text="">
+   </cell>
+  </row>
+  <row row="39">
+   <cell col-end="0" col-start="0" row-end="39" row-start="39" text="1.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="39" row-start="39" text="Livelihoods">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="39" row-start="39" text="Food Stamps US">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="39" row-start="39" text="Program Particip Assist">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="39" row-start="39" text="">
+   </cell>
+  </row>
+  <row row="40">
+   <cell col-end="0" col-start="0" row-end="40" row-start="40" text="0.60">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="40" row-start="40" text="Livelihoods">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="40" row-start="40" text="Gender">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="40" row-start="40" text="Women Gender Men">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="40" row-start="40" text="">
+   </cell>
+  </row>
+  <row row="41">
+   <cell col-end="0" col-start="0" row-end="41" row-start="41" text="2.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="41" row-start="41" text="Livestock">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="41" row-start="41" text="Animal-Human Disease">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="41" row-start="41" text="Health Diseas Human">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="41" row-start="41" text="">
+   </cell>
+  </row>
+  <row row="42">
+   <cell col-end="0" col-start="0" row-end="42" row-start="42" text="1.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="42" row-start="42" text="Livestock">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="42" row-start="42" text="Livestock">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="42" row-start="42" text="Product Livestock Anim">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="42" row-start="42" text="">
+   </cell>
+  </row>
+  <row row="43">
+   <cell col-end="0" col-start="0" row-end="43" row-start="43" text="0.50">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="43" row-start="43" text="Livestock">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="43" row-start="43" text="Poultry">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="43" row-start="43" text="Product Poultri Vaccin">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="43" row-start="43" text=")">
+   </cell>
+  </row>
+  <row row="44">
+   <cell col-end="0" col-start="0" row-end="44" row-start="44" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="44" row-start="44" text="Livestock">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="44" row-start="44" text="Livestock Disease">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="44" row-start="44" text="Coast West Popul">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="44" row-start="44" text="">
+   </cell>
+  </row>
+  <row row="45">
+   <cell col-end="0" col-start="0" row-end="45" row-start="45" text="5.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="45" row-start="45" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="45" row-start="45" text="Under And Overweight">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="45" row-start="45" text="Associ Household Among">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="45" row-start="45" text="">
+   </cell>
+  </row>
+  <row row="46">
+   <cell col-end="0" col-start="0" row-end="46" row-start="46" text="2.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="46" row-start="46" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="46" row-start="46" text="Children And Infants">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="46" row-start="46" text="Children Child Nutrit">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="46" row-start="46" text="">
+   </cell>
+  </row>
+  <row row="47">
+   <cell col-end="0" col-start="0" row-end="47" row-start="47" text="2.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="47" row-start="47" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="47" row-start="47" text="Food Nutrition">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="47" row-start="47" text="Veget Fruit Consumpt">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="47" row-start="47" text="">
+   </cell>
+  </row>
+  <row row="48">
+   <cell col-end="0" col-start="0" row-end="48" row-start="48" text="1.40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="48" row-start="48" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="48" row-start="48" text="Child Malnutrition">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="48" row-start="48" text="Nutrit Nation Develop">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="48" row-start="48" text="">
+   </cell>
+  </row>
+  <row row="49">
+   <cell col-end="0" col-start="0" row-end="49" row-start="49" text="1.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="49" row-start="49" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="49" row-start="49" text="Dietary Diversity">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="49" row-start="49" text="Dietari Intak Diet">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="49" row-start="49" text="">
+   </cell>
+  </row>
+  <row row="50">
+   <cell col-end="0" col-start="0" row-end="50" row-start="50" text="0.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="50" row-start="50" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="50" row-start="50" text="School Meals">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="50" row-start="50" text="School Meal Cost">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="50" row-start="50" text="">
+   </cell>
+  </row>
+  <row row="51">
+   <cell col-end="0" col-start="0" row-end="51" row-start="51" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="51" row-start="51" text="Nutrition">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="51" row-start="51" text="Micronutrients">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="51" row-start="51" text="Micronutri Knowledg Plant">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="51" row-start="51" text="">
+   </cell>
+  </row>
+  <row row="52">
+   <cell col-end="0" col-start="0" row-end="52" row-start="52" text="2.20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="52" row-start="52" text="Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="52" row-start="52" text="Irrigation">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="52" row-start="52" text="Water Irrig Resourc">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="52" row-start="52" text="">
+   </cell>
+  </row>
+  <row row="53">
+   <cell col-end="0" col-start="0" row-end="53" row-start="53" text="2.00">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="53" row-start="53" text="Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="53" row-start="53" text="Fisherfolk And Aquaculture">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="53" row-start="53" text="Fish Fisheri Aquacultur">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="53" row-start="53" text="">
+   </cell>
+  </row>
+  <row row="54">
+   <cell col-end="0" col-start="0" row-end="54" row-start="54" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="54" row-start="54" text="Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="54" row-start="54" text="Food And Water">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="54" row-start="54" text="Asia South South-asia">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="54" row-start="54" text="">
+   </cell>
+  </row>
+  <row row="55">
+   <cell col-end="0" col-start="0" row-end="55" row-start="55" text="0.10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="55" row-start="55" text="Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="55" row-start="55" text="Dams And Displacement">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="55" row-start="55" text="Dam Displac Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="55" row-start="55" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="0.60% Top Three Words are Risk Vulner Resili." type="entailed">
+   </statement>
+   <statement id="1" text="3.60% Theme of Agronomy has Topic Label Crop Diseases." type="entailed">
+   </statement>
+   <statement id="2" text="Risk Vulner Resili Theme of Agronomy has Topic Label Crop Diseases." type="refuted">
+   </statement>
+   <statement id="9" text="Topic Label Bio Energy Top Three Words are Bioenergi Energi Gas." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 1">
+  <caption text="
+
+   Top 10 journals for publications related to food security.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Journal">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Number of Articles">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Food Policy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="309">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Food Security">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="303">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="PLoS ONE">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="199">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Public Health Nutrition">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="183">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Journal of Hunger and Environmental Nutrition">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="154">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Sustainability">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="145">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="World Development">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="141">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Transactions of the Chinese Society of Agricultural Engineering">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="128">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Global Food Security">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="127">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Journal of Nutrition">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="113">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Agricultural Systems">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="109">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Food and Nutrition Bulletin">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="103">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Agriculture and Human Values">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="98">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Field Crops Research">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="95">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Field Crops Research has less Number of Articles of 95." type="entailed">
+   </statement>
+   <statement id="5" text="Food Policy has high Number of Articles of 309." type="entailed">
+   </statement>
+   <statement id="11" text="There are ten top journals for publications related to food security." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Tabulation of abstracts by theme and world region.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Theme">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Africa">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Asia">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="HICs">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="LAC">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Total">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Agronomy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="865
+     
+      (8%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="865
+     
+      (8%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="543
+     
+      (5%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="193
+     
+      (1.8%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="2466
+     
+      (22.7%)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Climate &amp; Sustainability">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="460
+     
+      (4.2%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="470
+     
+      (4.3%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="309
+     
+      (2.8%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="105
+     
+      (1%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1344
+     
+      (12.4%)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Economic Policy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="283
+     
+      (2.6%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="236
+     
+      (2.2%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="174
+     
+      (1.6%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="61
+     
+      (0.6%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="754
+     
+      (6.9%)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Global Food Security">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="600
+     
+      (5.5%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="537
+     
+      (4.9%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="425
+     
+      (3.9%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="136
+     
+      (1.3%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="1698
+     
+      (15.6%)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Health">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="267
+     
+      (2.5%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="229
+     
+      (2.1%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="229
+     
+      (2.1%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="72
+     
+      (0.7%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="797
+     
+      (7.3%)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Livelihoods">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="492
+     
+      (4.5%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="374
+     
+      (3.4%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="394
+     
+      (3.6%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="110
+     
+      (1%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="1370
+     
+      (12.6%)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Livestock">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="156
+     
+      (1.4%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="148
+     
+      (1.4%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="102
+     
+      (0.9%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="33
+     
+      (0.3%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="439
+     
+      (4%)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Nutrition">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="476
+     
+      (4.4%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="391
+     
+      (3.6%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="466
+     
+      (4.3%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="137
+     
+      (1.3%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="1470
+     
+      (13.5%)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Water">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="171
+     
+      (1.6%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="181
+     
+      (1.7%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="115
+     
+      (1.1%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="50
+     
+      (0.5%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="517
+     
+      (4.8%)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Total">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="3770
+     
+      (34.7%)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="3431
+     
+      (31.6%)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="2757
+     
+      (25.4%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="897
+     
+      (8.3%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="10855
+     
+      (100%)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Health has equal percentage in HICs and Africa region." type="refuted">
+   </statement>
+   <statement id="1" text="Health has equal percentage in HICs and Asia region." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

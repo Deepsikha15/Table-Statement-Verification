@@ -1,0 +1,1051 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Whey powder types, processing methods, and protein content of the powders analysed.
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Powder Type">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Code">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Whey type">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Process">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Protein (%)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="NSI (%)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Heat Treatment">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="C1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Acid">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="68">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="C2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="83">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="C3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="93">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="C4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="87">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="C5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="93">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="C6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="Unknown">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="C7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="Unknown">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="C8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="Unknown">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="C9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="Unknown">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="C10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Acid">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="C11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="C12">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="Unknown">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Concentrate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="C13">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Acid">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="UF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="I1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="UF+MF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="Unknown">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="I2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="Unknown">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="I3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="UF+MF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="NA.">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="16" row-start="16" text="Unknown">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="I4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="17" row-start="17" text="Unknown">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="I5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="18" row-start="18" text="Unknown">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="I6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="Unknown">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="19" row-start="19" text="Unknown">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Isolate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="I7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="90">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="NA">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="20" row-start="20" text="Unknown">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="D1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="21" row-start="21" text="72">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="21" row-start="21" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="D2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="Unknown">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="22" row-start="22" text="65">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="22" row-start="22" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="D3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="IEX/NF/SF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="23" row-start="23" text="82">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="23" row-start="23" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="D4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="IEX/ED/NF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="24" row-start="24" text="58">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="24" row-start="24" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="D5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="IEX/NF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="25" row-start="25" text="66">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="25" row-start="25" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="D6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="ED/IEX">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="26" row-start="26" text="70">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="26" row-start="26" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="D7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="ED/IEX">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="27" row-start="27" text="81">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="27" row-start="27" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="D8">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="ED/IEX/SF">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="28" row-start="28" text="74">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="28" row-start="28" text="Pasteurised">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="Demineralised">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="D9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="Cheese">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="IEX">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="29" row-start="29" text="80">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="29" row-start="29" text="Pasteurised">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Of each powder, a normalised amount of 1 mg of whey protein was analysed." type="entailed">
+   </statement>
+   <statement id="2" text="Protein (%) ranges from 13 to 90." type="entailed">
+   </statement>
+   <statement id="5" text="The processing methods are same for all." type="refuted">
+   </statement>
+   <statement id="7" text="There are 7 Isolate Powder Type in the table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Correlations between ELISA determined protein concentrations and glycan peak clusters.
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Peak cluster">
+   </cell>
+   <cell col-end="4" col-start="1" row-end="0" row-start="0" text="Pearsson correlations">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="LF">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="IgG">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="IgA">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="IgM">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2
+     
+      IgG">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.31">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.19">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3
+     
+      LF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.61">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.30">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.32">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4
+     
+      LF, GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.36">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.20">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.18">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="6
+     
+      LF, GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.59">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.23">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.31">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="7
+     
+      IgG, LF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.25">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="ns">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="10
+     
+      GCM, LF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.24">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.30">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.21">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="11
+     
+      GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="ns">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="12
+     
+      IgG, GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.35">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.61">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.28">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.35">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="13
+     
+      LF, GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.30">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="ns">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="16
+     
+      GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="ns">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="17
+     
+      GCM, LF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.38">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.22">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="ns">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="18
+     
+      LF, GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.26">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="ns">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="21
+     
+      LF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="0.65">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.23">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="ns">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="24
+     
+      GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="ns">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="27
+     
+      GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="ns">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="29
+     
+      GCM">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="ns">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="ns">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="ns">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="ns">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Correlations were deemed significant when a P value of &lt;0.1 was obtained." type="refuted">
+   </statement>
+   <statement id="2" text="LF stands for Lactoferrin." type="entailed">
+   </statement>
+   <statement id="7" text="The strongest correlation ( r = 0.81, P &lt;0.0001) was found for peak cluster 21" type="entailed">
+   </statement>
+   <statement id="8" text="There are 19 Peak cluster in the table." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Concentrations of lactoferrin, IgG and GlyCAM-1 determined in a selection of 12 pooled milk samples by whey profile analysis and ELISA.
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="2" row-start="0" text="Method sample">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="Interference">
+   </cell>
+   <cell col-end="7" col-start="3" row-end="0" row-start="0" text="Concentration">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="IgG">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="GlyCAM-1">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="Lactoferrin">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="IgG">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="GlyCAM-1">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="profile">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="profile">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="profile">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="ELISA">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="profile">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="ELISA">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="profile">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.08">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.24">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.43">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="0.36">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="1.41">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.08">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.21">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.18">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.43">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="0.50">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="1.42">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.28">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.21">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.39">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.38">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="1.09">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.21">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.16">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.48">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.45">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="1.13">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.19">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.14">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.36">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.44">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="1.22">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.15">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.11">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.37">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.37">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="1.10">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.25">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.17">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.26">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="0.40">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="1.23">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.25">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.17">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.39">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.39">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="1.23">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.19">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.11">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.43">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="0.40">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="1.09">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.20">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.16">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="0.40">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="0.41">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="1.01">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.14">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.10">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="0.38">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="0.38">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="1.30">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.16">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="0.10">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="0.35">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="0.33">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="1.17">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Average">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.02">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.21">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="0.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="0.39">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="0.40">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="1.20">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Concentration of Lactoferrin profile in sample 4 is 0.21." type="entailed">
+   </statement>
+   <statement id="1" text="Concentration of Lactoferrin profile in sample 9 is 5.25." type="refuted">
+   </statement>
+   <statement id="3" text="Interference of IgG profile of sample 11 is 1.41." type="refuted">
+   </statement>
+   <statement id="5" text="The highest GlyCAM - 1 is 1.42." type="entailed">
+   </statement>
+   <statement id="7" text="They have 12 method sample." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

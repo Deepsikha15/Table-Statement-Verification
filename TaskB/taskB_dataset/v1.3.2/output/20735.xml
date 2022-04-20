@@ -1,0 +1,822 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Order in which the activities are performed for each sequence.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Session ID">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="S1 (right hand)">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="0" row-start="0" text="S3 (right hand)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="S2 (left hand)">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="S4 (left hand)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Initial Positions">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Sit">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Sit">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="A">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Activity Sequence">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Activity">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Location">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Activity">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Location">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Drink Glass">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Stand Up">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="A">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Pour Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Clean Table">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="A">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Stand Up">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Sit Down">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="A">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="A→B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="A">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Open Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Stand Up">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="A">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Clean Table">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="A">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="B→A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="A→C">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Sit Down">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="C">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Pour Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="Open Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="C">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="Drink Glass">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="Close Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="C">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Stand Up">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="C">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="A→C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="C→B">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="Open Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="B">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="14">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="Brush Teeth">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="Open Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="B">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="15">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="C→B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="B">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="16">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="Clean Table">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="B→C">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="17">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="Sit Down">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="Open Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="C">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="18">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="Drink Glass">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="C">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="19">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="Pour Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="Brush Teeth">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="C">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="Stand Up">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="C">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="21">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="B→C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="Close Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="C">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="22">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="Close Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="C">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="23">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="Brush Teeth">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="C→B">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="24">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="C→B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="B">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="25">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="Clean Table">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="Close Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="B">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="26">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="Close Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="Clean Table">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="B">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="28">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="B→A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="30" row-start="30" text="A">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="29">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="Sit Down">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="Sit Down">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="31" row-start="31" text="A">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="30">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="Stand Up">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="32" row-start="32" text="A">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="31">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="Pour Water">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="Clean Table">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="33" row-start="33" text="A">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="32">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="Clean Table">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="34" row-start="34" text="A">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="33">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="Drink Glass">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="35" row-start="35" text="A">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="35" row-start="35" text="Stand Up">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="35" row-start="35" text="A">
+   </cell>
+  </row>
+  <row row="36">
+   <cell col-end="0" col-start="0" row-end="36" row-start="36" text="34">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="36" row-start="36" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="36" row-start="36" text="A→B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="36" row-start="36" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="36" row-start="36" text="A→C">
+   </cell>
+  </row>
+  <row row="37">
+   <cell col-end="0" col-start="0" row-end="37" row-start="37" text="35">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="37" row-start="37" text="Sit Down">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="37" row-start="37" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="37" row-start="37" text="Open Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="37" row-start="37" text="C">
+   </cell>
+  </row>
+  <row row="38">
+   <cell col-end="0" col-start="0" row-end="38" row-start="38" text="36">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="38" row-start="38" text="Clean Table">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="38" row-start="38" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="38" row-start="38" text="Pour Water">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="38" row-start="38" text="C">
+   </cell>
+  </row>
+  <row row="39">
+   <cell col-end="0" col-start="0" row-end="39" row-start="39" text="37">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="39" row-start="39" text="Stand Up">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="39" row-start="39" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="39" row-start="39" text="Brush Teeth">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="39" row-start="39" text="C">
+   </cell>
+  </row>
+  <row row="40">
+   <cell col-end="0" col-start="0" row-end="40" row-start="40" text="38">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="40" row-start="40" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="40" row-start="40" text="B→C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="40" row-start="40" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="40" row-start="40" text="C">
+   </cell>
+  </row>
+  <row row="41">
+   <cell col-end="0" col-start="0" row-end="41" row-start="41" text="39">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="41" row-start="41" text="Brush Teeth">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="41" row-start="41" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="41" row-start="41" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="41" row-start="41" text="C→B">
+   </cell>
+  </row>
+  <row row="42">
+   <cell col-end="0" col-start="0" row-end="42" row-start="42" text="40">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="42" row-start="42" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="42" row-start="42" text="C→B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="42" row-start="42" text="Clean Table">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="42" row-start="42" text="B">
+   </cell>
+  </row>
+  <row row="43">
+   <cell col-end="0" col-start="0" row-end="43" row-start="43" text="41">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="43" row-start="43" text="Close Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="43" row-start="43" text="B">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="43" row-start="43" text="Open Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="43" row-start="43" text="B">
+   </cell>
+  </row>
+  <row row="44">
+   <cell col-end="0" col-start="0" row-end="44" row-start="44" text="42">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="44" row-start="44" text="Walk">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="44" row-start="44" text="B -&gt; C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="44" row-start="44" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="44" row-start="44" text="B→A">
+   </cell>
+  </row>
+  <row row="45">
+   <cell col-end="0" col-start="0" row-end="45" row-start="45" text="43">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="45" row-start="45" text="Brush Teeth">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="45" row-start="45" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="45" row-start="45" text="Drink Glass">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="45" row-start="45" text="A">
+   </cell>
+  </row>
+  <row row="46">
+   <cell col-end="0" col-start="0" row-end="46" row-start="46" text="44">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="46" row-start="46" text="Open Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="46" row-start="46" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="46" row-start="46" text="Sit Down">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="46" row-start="46" text="A">
+   </cell>
+  </row>
+  <row row="47">
+   <cell col-end="0" col-start="0" row-end="47" row-start="47" text="45">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="47" row-start="47" text="Brush Teeth">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="47" row-start="47" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="47" row-start="47" text="Stand Up">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="47" row-start="47" text="A">
+   </cell>
+  </row>
+  <row row="48">
+   <cell col-end="0" col-start="0" row-end="48" row-start="48" text="46">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="48" row-start="48" text="Close Door">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="48" row-start="48" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="48" row-start="48" text="Walk">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="48" row-start="48" text="A→C">
+   </cell>
+  </row>
+  <row row="49">
+   <cell col-end="0" col-start="0" row-end="49" row-start="49" text="47">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="49" row-start="49" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="49" row-start="49" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="49" row-start="49" text="Close Door">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="49" row-start="49" text="C">
+   </cell>
+  </row>
+  <row row="50">
+   <cell col-end="0" col-start="0" row-end="50" row-start="50" text="Final position">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="50" row-start="50" text="Standing">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="50" row-start="50" text="C">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="50" row-start="50" text="Standing">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="50" row-start="50" text="C">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Activity Sequence of 4 is Walk in location AB ." type="entailed">
+   </statement>
+   <statement id="3" text="For this reason, the order of execution of the activities presented in the labelling files can slightly diverge with respect to the sequences presented in Table 3 ." type="entailed">
+   </statement>
+   <statement id="5" text="The correct execution order of each sequence is guaranteed by the experimenter, who communicates the next activity to perform to the volunteer." type="entailed">
+   </statement>
+   <statement id="6" text="The Initial positions will be Sit." type="entailed">
+   </statement>
+   <statement id="7" text="They have 47 Activity Sequence." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Participants Information.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Person ID">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Sex">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Age">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Dominant Hand">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Height (cm)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Weight (kg)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="Nationality">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="P01">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="22">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="172">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="62">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="Japan">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="P02">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="25">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="187">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="77">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="Japan">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="P03">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="25">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="169">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="70">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="Japan">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="P04">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="F">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="156">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="55">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="Japan">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="P05">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="F">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="161">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="50">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="Japan">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="P06">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="F">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="163">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="45">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="Japan">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="P07">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="24">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="166">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="55">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="Japan">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="P08">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="23">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="173">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="68">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="Japan">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="P09">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="27">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="173">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="65">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="Japan">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="P10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="M">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="28">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Right">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="178">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="70">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="Italy">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the volunteers are right-handed and aged between 22 and 28." type="entailed">
+   </statement>
+   <statement id="2" text="Dominant Hand is different for every person." type="refuted">
+   </statement>
+   <statement id="4" text="Nationality is different for every Person of Italy excluding P6." type="refuted">
+   </statement>
+   <statement id="5" text="The age difference id between 22 to 28." type="entailed">
+   </statement>
+   <statement id="7" text="The dataset has been collected by 10 healthy volunteers whose relevant information is summarized in Table 4 ." type="entailed">
+   </statement>
+   <statement id="9" text="The highest Weight (kg) of 97 for P08." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

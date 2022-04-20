@@ -1,0 +1,696 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Most frequently reported Health Outcomes. MH = Mental Health; PH = Physical Health. Cardiovascular diseases included Heart attack, Coronary disease in general or angina. Respiratory diseases included lung problems and respiratory disorders in general except asthma. Diabetes included any type of diabetes disorder.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="Category">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="0" text="Health Problem">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="0" text="N of publications">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="0" text="Pooled Prevalence (95 % CI)">
+   </cell>
+   <cell col-end="6" col-start="4" row-end="0" row-start="0" text="Heterogeneity">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Q">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="P">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="I
+     
+      2">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Depression">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="24
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="19.2 % (13.2, 26.9)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="2268.54">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="98.98">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Alcohol Abuse">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="19
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="36.5 % (27.3,46.8)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="671.80">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="97.32">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Dementia">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="17
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="6.9 % (3.3, 14)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="961.77">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="98.33">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Schizophrenia">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="15
+     
+      (
+     
+     ;
+     ,
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="5.3 % (2.9,9.6)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="1127.58">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="98.75">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Substance Abuse">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="14
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="26.4 % (18.4, 36.5)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="416.95">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="96.88">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Psychotic Disorders">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="12
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="7.2 % (3, 15.9)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="873.22">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="98.74">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Anxiety">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="11
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="10.2 % (2.7, 14.6)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="157.47">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="93.65">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="MH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Personality Disorders">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="10
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="17.8 % (11.3, 26.7)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="241.58">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="96.27">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Hypertension">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="28
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="42 % (37, 48)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="3153.35">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="99">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Cardiovascular Diseases">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="26
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="18.5 % (15, 25)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="979.48">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="97.44">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Diabetes">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="26
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="16 % (14,17.8)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="371.99">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="93.27">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="Arthritis, Rheumatism or Osteoporosis (ARO)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="16
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="35 % (24, 48)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="2015.72">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="99.25">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="Cancer">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="14
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="7% (5, 8)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="43.15">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="69.87">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="Hepatitis C">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="12
+     
+      (
+     
+     ;
+     ,
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="22 % (11, 39)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="451,697">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="99.75">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="Stroke">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="12
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="8% (6, 11)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="67.72">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="16" row-start="16" text="83.75">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="HIV">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="12
+     
+      (
+     
+     ;
+     ,
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="3% (2, 5)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="293.30">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="17" row-start="17" text="96.25">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="Respiratory Diseases">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="11
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="11 % (8, 15)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="337.06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="18" row-start="18" text="97.03">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="PH">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="Asthma">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="11
+     
+      (
+     
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ;
+     ,
+     
+      )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="9% (6, 14)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="537.78">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="&lt; .001">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="19" row-start="19" text="98.14">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="(see Table 1 for all the Q and I 2 values)." type="entailed">
+   </statement>
+   <statement id="1" text="Dementia of Heterogeneity is having 416.95 Q value." type="refuted">
+   </statement>
+   <statement id="2" text="Heterogeneity of P is having &lt;.001 values." type="entailed">
+   </statement>
+   <statement id="5" text="Most frequently reported Health Outcomes. MH = Mental Health; PH = Physical Health." type="entailed">
+   </statement>
+   <statement id="6" text="Pooled Prevalence (95 % CI) is observed to have repeated percentage for all." type="refuted">
+   </statement>
+   <statement id="8" text="There are N of publications for all the Health Problems." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

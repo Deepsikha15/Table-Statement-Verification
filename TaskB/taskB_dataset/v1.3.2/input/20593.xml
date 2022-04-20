@@ -1,0 +1,918 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Summary of worst-case guarantees for the considered multiwinner rules. The definitions of the rules listed in the table are provided in Section
+   . The guarantees are functions of the committee size
+   
+    k
+   
+   . A higher value means a better guarantee, with 1 denoting optimal performance. In most cases we could only find (accurate) estimates instead of the exact values of the guarantees: the “lower” and “upper” values in the table denote that the respective guarantee is between these two bounds. The guarantees for the
+   
+    p
+   
+   -Geometric rule are visualized in
+   (page 10). The column “Pareto” indicates whether the rule satisfies the Pareto efficiency axiom as discussed in Section
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="1" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="utilitarian guarantee">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="0" row-start="0" text="representation guarantee">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="0" text="Pareto">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="lower">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="upper">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="lower">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="upper">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="AV">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="CC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="MAV">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="seq-CC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="1
+      
+
+       −
+      
+
+
+
+         1
+        
+
+
+
+         e">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="1
+      
+
+       −
+      
+
+
+
+         (
+        
+
+         1
+        
+
+         −
+        
+
+
+
+           1
+          
+
+
+
+           k
+          
+
+
+
+         )
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="PAV">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="1
+        
+
+
+
+         2
+        
+
+         +
+        
+
+
+
+           k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2
+        
+
+
+
+         ⌊
+        
+
+
+
+           k
+          
+
+
+
+         ⌋
+        
+
+
+
+       −
+      
+
+
+
+         1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         4
+        
+
+         k
+        
+
+         −
+        
+
+         2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="SLAV">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="1
+        
+
+
+
+         2
+        
+
+         +
+        
+
+
+
+           2
+          
+
+           k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="3
+        
+
+
+
+         2
+        
+
+         ⌊
+        
+
+
+
+           k
+          
+
+
+
+         ⌋">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="3
+        
+
+
+
+         5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="2
+        
+
+
+
+         3
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         9
+        
+
+         k
+        
+
+         −
+        
+
+         6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="p
+     
+     -Geometric">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="W
+        
+
+         (
+        
+
+         k
+        
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         p
+        
+
+         )
+        
+
+         )
+        
+
+
+
+         k
+        
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         p
+        
+
+         )
+        
+
+         +
+        
+
+         W
+        
+
+         (
+        
+
+         k
+        
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         p
+        
+
+         )
+        
+
+         )">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="1
+        
+
+
+
+         k
+        
+
+
+
+       +
+      
+
+
+
+         2
+        
+
+         W
+        
+
+         (
+        
+
+         k
+        
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         p
+        
+
+         )
+        
+
+         )
+        
+
+
+
+         k
+        
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         p
+        
+
+         )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="p
+        
+
+         −
+        
+
+         1
+        
+
+
+
+         p">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="p
+        
+
+
+
+         p
+        
+
+         +
+        
+
+
+
+           k
+          
+
+
+
+           k
+          
+
+           +
+          
+
+           2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="seq-PAV">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1
+        
+
+
+
+         2
+        
+
+
+
+           k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="2
+        
+
+
+
+         ⌊
+        
+
+
+
+           k
+          
+
+
+
+         ⌋
+        
+
+
+
+       −
+      
+
+
+
+         1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="1
+        
+
+
+
+         log
+        
+
+         ⁡
+        
+
+         (
+        
+
+         k
+        
+
+         )
+        
+
+         +
+        
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         4
+        
+
+         k
+        
+
+         −
+        
+
+         2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Monroe">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="1
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         k
+        
+
+         −
+        
+
+         1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Greedy Monroe">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="1
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         k
+        
+
+         −
+        
+
+         1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="seq-Phragmén">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1
+        
+
+
+
+         5
+        
+
+
+
+           k
+          
+
+
+
+         +
+        
+
+         1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="2
+        
+
+
+
+         ⌊
+        
+
+
+
+           k
+          
+
+
+
+         ⌋
+        
+
+
+
+       −
+      
+
+
+
+         1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="1
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         4
+        
+
+         k
+        
+
+         −
+        
+
+         2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="leximin-Phragmén">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="1
+        
+
+
+
+         k">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="1
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="1
+        
+
+
+
+         2
+        
+
+
+
+       +
+      
+
+
+
+         1
+        
+
+
+
+         4
+        
+
+         k
+        
+
+         −
+        
+
+         2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="In CC the upper representation guarantee is 0." type="">
+   </statement>
+   <statement id="3" text="In Greedy Monroe the lower Utlilitarian guarantee is 12+2k." type="">
+   </statement>
+   <statement id="4" text="In Seq - PAV the upper representation guarantee is 12+14k-2." type="">
+   </statement>
+   <statement id="5" text="In SLAV the lower Utlilitarian guarantee is 12+2k." type="">
+   </statement>
+   <statement id="6" text="In the table, there are 12 different rules." type="">
+   </statement>
+   <statement id="10" text="There are 2 kinds of representation guarantees,  i.e, lower and upper." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

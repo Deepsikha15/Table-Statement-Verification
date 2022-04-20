@@ -1,0 +1,90 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Bone mineral density change before and after treatment.
+  
+">
+  </caption>
+  <legend text="
+
+   BMD: bone mineral density.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Postpartum
+     
+     2th month">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Postpartum
+     
+     6th month">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="BMD change with conservative treatment
+     
+     (%)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Postpartum
+     
+     18th month">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="BMD change after 12 months teriparatide
+     
+     (%)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Lumbar 1–4 BMD (g/cm
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.687">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.690">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="+0.4%">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.815">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="+18.1%">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Femoral total BMD (g/cm
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.815">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.757">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="−7.1%">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.826">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="+9.1%">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Back pain significantly resolved in the second month of treatment (VAS = 2/10)." type="">
+   </statement>
+   <statement id="1" text="Femoral total BMD contains -7.1% for BMD change with conservative treatment." type="">
+   </statement>
+   <statement id="3" text="Lumbar 1Ai4 BMD has 0.687 and 0.690 for Postpartum 2th month and Postpartum 6th month." type="">
+   </statement>
+   <statement id="4" text="Lumbar total BMD was 0.815 g/cm 2 (18.1% increase compared to baseline) and femur total BMD was 0.826 g/cm 2 (9.1% increase compared to baseline)" type="">
+   </statement>
+   <statement id="5" text="BMD change after 12 months teriparatide is more for Lumbar 1Ai4 BMD compare to Femoral total BMD ." type="">
+   </statement>
+   <statement id="9" text="BMD change after 12 months teriparatide is more for Femoral total BMD when compared to Lumbar 1Ai4 BMD ." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

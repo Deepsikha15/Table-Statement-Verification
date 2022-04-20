@@ -1,0 +1,229 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   List of primers used in this study.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Target
+     
+     Gene">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Sequences (5′ – 3′)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Product
+     
+     size
+     
+     (bp)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Annealing
+     
+     temperature
+     
+     °C">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="References">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="16S rRNA
+     
+
+     for
+     
+      Campylobacter
+     
+     spp.">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="F - ATCTAATGGCTTAACCATTAAAC
+     
+     R - GGACGGTAACTAGTTTAGTATT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="857">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="58">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Wieczorek and Osek (2005)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="mapA
+     
+
+     for
+     
+      C. jejuni">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="F - CTATTTTATTTTTGAGTGCTTGTG
+     
+     R - GCTTTATTTGCCATTTGTTTTATTA">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="589">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="58">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Wieczorek and Osek (2005)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="ceuE
+     
+
+     for
+     
+      C. coli">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="F - AATTGAAAATTGCTCCAACTATG
+     
+     R - TGATTTTATTATTTGTAGCAGCG">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="462">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="58">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Wieczorek and Osek (2005)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="flaA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="F - AATAAAAATGCTGATAAAACAGGTG
+     
+     R - TACCGAACCAATGTCTGCTCTGATT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="855">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="53">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="cadF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="F - TTGAAGGTAATTTAGATATG
+     
+     R - CTAATACCTAAAGTTGAAAC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="400">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="Konkel et al. (1999)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="virB11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="F - TCTTGTGAGTTGCCTTACCCCTTTT
+     
+     R - CCTGCGTGTCCTGTGTTATTTACCC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="494">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="53">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="iam">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="F - GCGCAAAATATTATCACCC
+     
+     R - TTCACGACTACTATGCGG">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="518">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="52">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Carvalho et al. (2001)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="racR">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="F - GATGATCCTGACTTTG
+     
+     R - TCTCCTATTTTTACCC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="584">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="pldA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="F - AAGCTTATGCGTTTTT
+     
+     R - TATAAGGCTTTCTCCA">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="913">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="cdtA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="F - CCTTGTGATGCAAGCAATC
+     
+     R - ACACTCCATTTGCTTTCTG">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="370">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="49">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="cdtB">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="F - CAGAAAGCAAATGGAGTGTT
+     
+     R - AGCTAAAAGCGGTGGAGTAT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="620">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="51">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="cdtC">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="F - CGATGAGTTAAAACAAAAAGATA
+     
+     R - TTGGCATTATAGAAAATACAGTT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="182">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="47">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="Datta et al. (2003)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="The table contain 12 Target Gene." type="entailed">
+   </statement>
+   <statement id="5" text="There is no References for all the Target Gene." type="entailed">
+   </statement>
+   <statement id="7" text="They have Unique Sequences for all the Target Gene." type="entailed">
+   </statement>
+   <statement id="8" text="Annealing temperature C varies from 25 to 88." type="refuted">
+   </statement>
+   <statement id="9" text="Annealing temperature C varies from 45 to 58." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,226 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Number of images corresponding to the 7 classes in the HAM10000 training set.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Classes">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="C
+     
+
+
+       NV">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="C
+     
+
+
+       MEL">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="C
+     
+
+
+       BCC">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="C
+     
+
+
+       AKIE">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="C
+     
+
+
+       BKL">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="C
+     
+
+
+       DF">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="C
+     
+
+
+       VASC">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Sample size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="6705">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1113">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="514">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="327">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1099">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="115">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="142">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="1 depicts the distribution of the images among the classes." type="">
+   </statement>
+   <statement id="1" text="6705 images with nevus lesions, 1113 with malignant skin tumors, 514 with basal cell carcinoma, 327 with actinic keratosis, 1099 with any benign keratosis, 115 dermatofibroma and 142 ones with vascular lesions." type="">
+   </statement>
+   <statement id="2" text="Class C AKIE sample size is 142." type="">
+   </statement>
+   <statement id="3" text="Class C BCC sample size is 514." type="">
+   </statement>
+   <statement id="4" text="Class C DF sample size is 1135." type="">
+   </statement>
+   <statement id="5" text="Class C MEL sample size is 1113." type="">
+   </statement>
+   <statement id="7" text="They have Four classes." type="">
+   </statement>
+   <statement id="8" text="They have same Sample sizes ." type="">
+   </statement>
+   <statement id="9" text="They have seven classes." type="">
+   </statement>
+   <statement id="10" text="They have seven different Sample sizes ." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Binary classification results with merging the negative (benign) and positive (malignant) lesion classes.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="ACC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="SE">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="SP">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="PPV">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="AUC">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="C
+     
+
+
+       NEG">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.949">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.968">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.929">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.935">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.948">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="C
+     
+
+
+       POS">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.949">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.929">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.968">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.965">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.948">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="For the sake of completeness, the confusion matrix for the simple binary classification setup is also given in Fig." type="">
+   </statement>
+   <statement id="5" text="PPV 0.968 is C NEG." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 6">
+  <caption text="
+
+   Experimental classification results on the official ISIC 2018 test set.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Name of architecture">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="BMA">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="GoogLeNet Inception-v3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.602">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="GoogLeNet-V3 with STL (CASE I)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.639">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="GoogLeNet-V3 with STL (CASE II)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.677">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="DenseNet-201 as trained by the Winner of Challenge">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.868">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="DenseNet-201 trained only on ISIC 2018 dataset">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.712">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="DenseNet-201 trained only on ISIC 2018 dataset with STL (CASE II)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.734">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="ResNet-101">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.675">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="After training DenseNet-201 on the ISIC 2018 Challenge dataset, we have evaluated its performance both with and without applying the binary classifier support using the ISIC Live 2018.3:" type="">
+   </statement>
+   <statement id="2" text="BMA is the experimental classification result of the different architectures name." type="">
+   </statement>
+   <statement id="5" text="The highest BMA value is 0.602 for GoogLeNet Inception-v3." type="">
+   </statement>
+   <statement id="6" text="The lowest BMA value is 0.602 for GoogLeNet Inception-v3." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

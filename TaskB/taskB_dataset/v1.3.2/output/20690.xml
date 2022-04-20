@@ -1,0 +1,1316 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Demographic and clinical characteristics of the ADHD affected, subthreshold, and unaffected groups based on participants’ diagnosis at the time of MRI acquisition.
+  
+">
+  </caption>
+  <legend text="
+
+   Demographic between-group differences were tested using F-tests for continuous variables and χ2-tests for categorical variables. Totals are for all participants who were included in the final sample, after all quality control.
+  
+
+   CPRS: Conners Parent Rating Scale
+  
+
+   HI: hyperactivity-impulsivity
+  
+
+   IA: inattention
+  
+
+   K-SADS-PL: Kiddie – Schedule for Affective Disorder and Schizophrenia Present and Lifetime Version
+  
+
+   Medications: Ritalin (methylphenidate), Concerta (methylphenidate), Strattera (atomoxetine), and any other ADHD medication.
+  
+
+   * The majority of patients were taking prescription medication for ADHD, mostly methylphenidate or atomoxetine. Duration of medication use was recorded as the cumulative number of days of use, while the history of medication use was recorded as whether or not the participant had ever taken ADHD medication. Further details on medication use in our sample is available in previous work (
+   ,
+   ).
+  
+
+   † History of comorbid disorders was screened for via the K-SADS-PL semi-structured interview (
+   ,
+   ). For children &lt;12 years old, the child’s parents or researchers assisted in the completion of the self-report questionnaires. Participants with elevated scores on one or more of the K-SADS screening questions were further asked to complete a full supplement for each disorder. The final diagnosis was based on DSM-IV criteria of each disorder.
+  
+
+   ‡ Substance use at any point before assessment was recorded through self-report (
+   
+    63–65
+   
+   ).
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="Affected">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="5" col-start="4" row-end="0" row-start="0" text="Subthreshold">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="0" row-start="0" text="Unaffected">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="1" row-start="1" text="N = 258">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="5" col-start="4" row-end="1" row-start="1" text="N = 74">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="1" row-start="1" text="N = 322">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Mean">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="(SD)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Mean">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="(SD)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="Mean">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="(SD)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="Test Statistic">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="(
+     
+      P
+     
+     )">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Age (years)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="17.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="(3.6)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="18.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="(3.6)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="17.2">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="(3.7)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="F(1,658) = 0.76">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="(0.38)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="IQ estimate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="95.1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="(16.0)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="102.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="(13.5)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="104.3">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="(14.9)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="F(2,653) = 23.9">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="(&lt; 10
+     
+      -10
+     
+     )">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Handedness (right)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="85%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="N = 219">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="82%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="N = 61">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="86%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="N = 276">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="χ
+     
+     2(4) = 1.1">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="(0.89)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Sex (female)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="30%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="N = 76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="42%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="N = 31">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="53%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="N = 170">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="χ
+     
+     2(2) = 34.6">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="(&lt; 10
+     
+      -8
+     
+     )">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Scan site (Nijmegen)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="57%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="N = 148">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="59%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="N = 44">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="52%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="N = 167">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="χ
+     
+     2(2) = 5.1">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="(0.08)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Head motion">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.76">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="(1.1)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.75">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="(1.3)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="0.59">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="(0.4)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="F(2,655) = 3.1">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="(0.05)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Diagnosed ever (yes)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="100%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="N = 258">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="32%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="N = 24">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="6.2%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="N = 20">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="CPRS HI + IA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="22.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="(12.1)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="11.1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="(9.6)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="4.3">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="(4.9)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="CPRS HI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="9.6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="(6.5)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="3.7">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="(4.5)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="1.3">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="(2.1)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="CPRS IA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="14.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="(7.1)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="7.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="(5.6)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="2.9">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="(3.5)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="13" row-start="13" text="">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="K-SADS-PL HI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="5.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="(2.5)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="2.8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="(2.0)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="2.1">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="(2.0)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="14" row-start="14" text="">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="K-SADS-PL IA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="7.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="(1.4)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="4.7">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="(0.8)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="6.0">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="15" row-start="15" text="(2.1)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="15" row-start="15" text="">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Impaired (yes)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="98%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="N = 252">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="47%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="N = 35">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="16" row-start="16" text="3.7%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="16" row-start="16" text="N = 12">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="16" row-start="16" text="">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="17" row-start="17" text="">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Duration medication* use (days)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="1413">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="(332)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="645">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="(1111)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="18" row-start="18" text="46">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="18" row-start="18" text="(332)">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="18" row-start="18" text="">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="History of medication use (yes)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="78%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="N = 202">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="36%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="N = 27">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="19" row-start="19" text="3.1%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="19" row-start="19" text="N = 10">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="19" row-start="19" text="">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="20" row-start="20" text="">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Comorbidity
+     
+     †">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="21" row-start="21" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="21" row-start="21" text="">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Conduct disorder">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="4.7%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="N = 12">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="1.4%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="22" row-start="22" text="N = 1">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="22" row-start="22" text="0%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="22" row-start="22" text="N = 0">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="22" row-start="22" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="22" row-start="22" text="χ
+     
+     2(2) = 1.3">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="22" row-start="22" text="(0.53)">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Major depression">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="0.8%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="N = 2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="0%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="23" row-start="23" text="N = 0">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="23" row-start="23" text="0.3%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="23" row-start="23" text="N = 1">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="23" row-start="23" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="23" row-start="23" text="χ
+     
+     2(2) = 1.3">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="23" row-start="23" text="(0.52)">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="Oppositional defiant disorder">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="30%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="N = 76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="8.1%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="24" row-start="24" text="N = 6">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="24" row-start="24" text="1.6%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="24" row-start="24" text="N = 5">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="24" row-start="24" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="24" row-start="24" text="χ
+     
+     2(2) = 93.5">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="24" row-start="24" text="(&lt; 10
+     
+      -15
+     
+     )">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="25" row-start="25" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="25" row-start="25" text="">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Substance use ever
+     
+     ‡">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="26" row-start="26" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="26" row-start="26" text="">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Alcohol">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="20%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="N = 52">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="27" row-start="27" text="18%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="27" row-start="27" text="N = 13">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="27" row-start="27" text="16%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="27" row-start="27" text="N = 51">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="27" row-start="27" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="27" row-start="27" text="χ
+     
+     2(2) = 1.7">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="27" row-start="27" text="(0.42)">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Tobacco">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="48%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="N = 125">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="28" row-start="28" text="36%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="28" row-start="28" text="N = 27">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="28" row-start="28" text="32%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="28" row-start="28" text="N = 102">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="28" row-start="28" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="28" row-start="28" text="χ
+     
+     2(2) = 16.8">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="28" row-start="28" text="(0.0002)">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="Cannabis or hash">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="28%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="N = 72">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="29" row-start="29" text="24%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="29" row-start="29" text="N = 18">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="29" row-start="29" text="18%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="29" row-start="29" text="N = 57">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="29" row-start="29" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="29" row-start="29" text="χ
+     
+     2(2) = 8.9">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="29" row-start="29" text="(0.01)">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="Other">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="10%">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="N = 26">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="30" row-start="30" text="9.5%">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="30" row-start="30" text="N = 7">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="30" row-start="30" text="4.7%">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="30" row-start="30" text="N = 15">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="30" row-start="30" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="30" row-start="30" text="χ
+     
+     2(2) = 6.9">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="30" row-start="30" text="(0.03)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="20% SD is Alcohol Affected." type="entailed">
+   </statement>
+   <statement id="4" text="Unaffected Mean Tobacco is 32%." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   All global model analyses.
+  
+">
+  </caption>
+  <legend text="
+
+   Associated t-values, degrees of freedom, standardized beta coefficients, uncorrected P-values, and interaction with tract P-values for each overall FA analysis. Global models for CPRS symptom dimension scores and all tract interaction effects, displayed in bold, were significant.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="t">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="df">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Std ß">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="P">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Tract interaction
+     
+      P">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="State">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="-0.924">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="489">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="-0.011">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.356">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.000537">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Trait">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="-0.513">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="584">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="-0.006">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.608">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.000003">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Impairment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="-1.337">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="571">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="-0.016">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.182">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.000020">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="CPRS HI + IA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="-2.280">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="567">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="-0.027">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.023">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.000140">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="CPRS HI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="-2.160">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="556">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="-0.026">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.031">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.000017">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="CPRS IA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="-2.174">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="564">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="-0.026">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.030">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.006162">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the t- values are in negative." type="entailed">
+   </statement>
+   <statement id="1" text="All the t- values are in Positive." type="refuted">
+   </statement>
+   <statement id="2" text="Standardized beta coefficients value is same for CPRS HI and CPRS IA as -0.026." type="entailed">
+   </statement>
+   <statement id="5" text="The highest degree of freedom is 584 of Trait." type="entailed">
+   </statement>
+   <statement id="7" text="There are 6 categories as State, Trait, Impairment, CPRS HI + IA, CPRS HI and CPRS IA." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Post hoc analyses.
+  
+">
+  </caption>
+  <legend text="
+
+   Standardized ß coefficients, associated
+   
+    t
+   
+   and uncorrected
+   
+    P
+   
+   values for the regression of medication use, comorbidities, and drug use until the date of MRI scan against global and rCAB FA. We found a negative effect of total duration of medication use as a continuous variable on FA, but not history of medication use as a binary factor. No other factors had a significant effect on either global or rCAB FA.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="4" col-start="2" row-end="0" row-start="0" text="Global FA">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="8" col-start="6" row-end="0" row-start="0" text="Tract-specific rCAB FA">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Std ß">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="t">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="P">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="Std ß">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="t">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="P">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Medication use">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Binary (yes or no)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="-0.003">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="-0.206">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.837">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="-0.033">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="-0.845">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="0.399">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Continuous (days)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="-0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="-0.803">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.422">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="-0.078">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="-2.039">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="0.042">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Comorbidities">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Conduct disorder">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="-0.037">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="-0.714">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.480">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="-0.004">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="-0.116">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.908">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="(yes or no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Major depression">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.095">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="1.975">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.051">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="-0.018">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="-0.512">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="0.609">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Oppositional defiant disorder">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="-0.016">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="-1.352">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.177">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="-0.059">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="-1.626">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.105">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Substance use">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Alcohol">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="-0.003">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="-0.211">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.833">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="-0.005">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="-0.142">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="0.887">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="(yes or no)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Tobacco">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.009">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.660">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.510">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.010">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="0.231">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="0.818">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Cannabis or hash">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.002">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.118">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.906">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="0.052">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="1.252">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="0.211">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Other drugs">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="-0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="-0.719">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.473">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="-0.012">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="-0.313">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="0.754">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="IQ estimate">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="-0.010">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="-0.837">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.403">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="0.012">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="0.315">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="0.753">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="Global FA t -0.033 is Medication use." type="refuted">
+   </statement>
+   <statement id="3" text="Medication use Binary (yes or no) Global FA Std  is -0.003." type="entailed">
+   </statement>
+   <statement id="6" text="Tract-specific rCAB FA -0.004 is Comorbidities." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

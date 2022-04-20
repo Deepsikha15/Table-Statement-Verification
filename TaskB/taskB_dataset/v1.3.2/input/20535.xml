@@ -1,0 +1,470 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Size Comparison of ZnO and TiO
+   
+    2
+   
+   nanoparticles synthesized using the plants.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Plant species">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Plant part used">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Synthesized NPs">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Size (nm)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="References">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Azadirachta indica, Emblica Officinalis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="51, 16">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Pyrus pyrifolia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Ixora coccinea">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="145.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Passiflora caerulea">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="200">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Bauhinia tomentosa">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="22–94">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Pandanus odorifer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="90">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Allium sativum">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Skin">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="7.77">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Psidium guajava">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="32.58">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Cynodon dactylon">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="13–34">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Glycosmis cochinchinensis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="45">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Cassia fistula">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="200">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Plant part used are same for 10 Plant species that is leaf." type="">
+   </statement>
+   <statement id="2" text="The lowest Size (nm) for Plant species Allium sativum is of 7.77." type="">
+   </statement>
+   <statement id="4" text="There are 11 different categories of Plant species." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Comparative larvicidal efficacy of synthesized ZnO and TiO
+   
+    2
+   
+   nanoparticles against different mosquito species.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Plant species">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Common name">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Plant part used">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Test NPs tested">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Mosquito species">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="References">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Momordica charantia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Bitter guard">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Leaf">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="ZnO">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="An. stephensi Cx. quinquefasciatus">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Gandhi et al., 2016">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Syzgium cumini">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Black plum">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Seed">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="ZnO">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Ae. aegypti">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="Roopan et al., 2018">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Scadoxus multiflorus">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Blood lily">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Leaf">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="ZnO">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Ae. aegypti">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="Abdullah Al-Dhabi and Valan Arasu, 2018">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Morinda citrifolia">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Noni">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Root">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="An. stephensi Ae. aegypti, Cx. quinquefasciatus">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="Suman et al., 2015">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Mangifera indica">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Mango">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Leaf">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="An. stephensi Cx. quinquefasciatus">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="Rajakumar et al., 2015">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Vitex negundo">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Chinese chaste tree">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Leaf">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="An. stephensi Cx. quinquefasciatus">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="Gandhi et al., 2016">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text=" 2 = 0.161, 2.678 and 4.495; r 2 = 0.663, 0.742 and 0.924), respectively." type="">
+   </statement>
+   <statement id="1" text="For Syzgium cumini and Morinda citrifolia different Plant part used i.e, Seed and Root." type="">
+   </statement>
+   <statement id="2" text="Mangifera indica , Momordica charantia, and Vitex negundo has same Mosquito species." type="">
+   </statement>
+   <statement id="3" text="Mangifera indica and Scadoxus multiflorus, has same Mosquito species." type="">
+   </statement>
+   <statement id="6" text="quinquefasciatus and lice, (LC 50 = 7.52, 7.23 and 24.32 mg/L;" type="">
+   </statement>
+   <statement id="10" text="ZnO Test NPs tested are used for Morinda citrifolia, Mangifera indica and Vitex negundo Plant species." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 5">
+  <caption text="
+
+   Comparative antibacterial activity of synthesized nanoparticles ZnO and TiO
+   
+    2
+   
+   nanoparticles against different microorganisms.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Plant species">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Plant part used">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="NPs tested">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Species">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="References">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Catharanthus roseus">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="B. thuringiensis, E. coli, S. aureus, P. aeruginosa">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Bhumi and Savithramma, 2014">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Brassica oleraceae">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="E. coli, V. cholera, C. Botulinum, S. aureus, B. subtilis">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="Raj et al., 2015">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Trifolium pratense">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Flower">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="S. aureus, P. aeruginosa, E. coli">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="Dobrucka and Dugaszewska, 2016">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Bauhinia tomentosa">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="B. thuringiensis, E. coli, S. aureus, P. aeruginosa">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="Sharmila et al., 2018">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Pandanus odorifer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="B. subtilis, E. coli">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="Hussain et al., 2019">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Aloe vera">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="ZnO">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="E. coli">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="Izwanie Rasli et al., 2020">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Psidium guajava">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="E. coli, S. aureus">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="Santhoshkumar et al., 2014">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Cynodon dactylon">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="E. coli">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="Hariharan et al., 2017">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Glycosmis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="S. saprophyticus, B. subtilis, E. coli, cochinchinensis P. aeruginosa">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="Rosi and Kalyanasundaram, 2018">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Cassia fistula">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Leaf">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="TiO
+     
+      2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="E. coli, S. aureus">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="Swathi et al., 2019">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="E. coli is not present in all the species." type="">
+   </statement>
+   <statement id="2" text="E. coli is present in all the species." type="">
+   </statement>
+   <statement id="3" text="NPs tested are differentiated into ZnO and TiO 2." type="">
+   </statement>
+   <statement id="6" text="The species for Pandanus odorifer is B. subtilis, E. coli." type="">
+   </statement>
+   <statement id="7" text="The species for Pandanus odorifer is S. aureus, P. aeruginosa, E. coli." type="">
+   </statement>
+   <statement id="8" text="There are 10 types of plant species." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

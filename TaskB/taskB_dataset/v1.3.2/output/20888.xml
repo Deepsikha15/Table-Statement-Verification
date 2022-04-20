@@ -1,0 +1,76 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Results of FT at 8 days.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Sample">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="[OH]
+     
+     mmol l
+     
+      −1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="[CaO]
+     
+     mmol l
+     
+      −1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="TMC [CaO]
+     
+     mmol l
+     
+      −1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="[CaO] reduction
+     
+     (%)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Control">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="56.83">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="8.25">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="8.37">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.70">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="CCA">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="39.72">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="4.63">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="14.16">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="50.72">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="[CaO] reduction (%) 50.72 Sample is CCA." type="entailed">
+   </statement>
+   <statement id="1" text="14.16 TMC [CaO] mmol l 1 Sample is CCA." type="entailed">
+   </statement>
+   <statement id="2" text="4.63 [CaO] mmol l 1 Sample is Control." type="refuted">
+   </statement>
+   <statement id="3" text="8.37 TMC [CaO] mmol l 1 Sample is CCA." type="refuted">
+   </statement>
+   <statement id="4" text="Sample Control [CaO] mmol l 1 is 7.37." type="refuted">
+   </statement>
+   <statement id="8" text="TMC [CaO] mmol l 1 0.70 Sample is Control." type="refuted">
+   </statement>
+   <statement id="9" text="TMC [CaO] mmol l 1 8.37 Sample is Control." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

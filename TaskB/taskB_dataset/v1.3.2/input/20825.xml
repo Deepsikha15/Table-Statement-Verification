@@ -1,0 +1,68 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   disk diffusion method using CLSI guidelines (PIP/TAZ-Piperacillin Tazobactam, CEF-Ceftazidime, MER-Meropenem, GEN-Gentamicin, CIP-Ciprofloxacin) (R-resistant; S- susceptible; I- Intermediate), Zone diameter interpretive criteria in mm according to CLSI guidelines (PIP/TAZ- ≥21 (S), 15–20 (I), ≤14 (R) ; CEF- ≥18 (S), 15–17 (I), ≤14 (R) ; MER- ≥19 (S), 16–18 (I), ≤15 (R) ; GEN- ≥15 (S), 13–14 (I), ≤12 (R) ; CIP- ≥21 (S), 16–20 (I), ≤15 (R)).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Isolates">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="PIP/TAZ">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="CEF">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="MER">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="GEN">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="CIP">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="VIT PC CL-7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="12 mm (R)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="17 mm (I)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="12 mm (R)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="≤12 mm (R)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="8 mm (R)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="VIT PC CL-9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="14 mm (R)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="&lt;13 mm (R)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="≤12 mm (R)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="≤12 mm (R)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="18 mm (I)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All the diameter value is unique for both the Isolates except CEF." type="">
+   </statement>
+   <statement id="1" text="CIP will have Low diameter for VIT PC CL-7 Isolates." type="">
+   </statement>
+   <statement id="2" text="MER will have Low diameter for VIT PC CL-7 Isolates." type="">
+   </statement>
+   <statement id="3" text="PIP/TAZ will be same for both the Isolates." type="">
+   </statement>
+   <statement id="4" text="PIP/TAZ will be unique diameter for both Isolates." type="">
+   </statement>
+   <statement id="6" text="There are 2 Isolates such as VIT PC CL-7 and VIT PC CL-9." type="">
+   </statement>
+   <statement id="7" text="There are 3 Isolates." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

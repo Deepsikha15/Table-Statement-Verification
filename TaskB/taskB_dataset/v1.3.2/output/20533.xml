@@ -1,0 +1,222 @@
+<document>
+ <table id="Table 5">
+  <caption text="
+
+   Physical parameters of reef ball, layered cake and rock pile plots.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Physical parameter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Reef ball plot">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Rock pile plot">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Layered cake plot">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Gross volume, including shelter (m
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1.14">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.98">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.78">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Net volume, excluding shelter (m
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.63">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.47">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.55">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Shelter volume (m
+     
+      3
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.51">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.51">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.23">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Total surface area (m
+     
+      2
+     
+     )">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="12.23">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="7.39">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="8.14">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Images (n)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="131">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="77">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="143">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Gross volume, including shelter (m 3) is having a highest value." type="refuted">
+   </statement>
+   <statement id="1" text="Images (n) is having a lowest value in Rock pile plot." type="refuted">
+   </statement>
+   <statement id="5" text="Net volume, excluding shelter (m 3 ) has the lowest value in Rock pile plot." type="entailed">
+   </statement>
+   <statement id="6" text="Shelter volume (m 3 ) is having a highest value in Layered cake plot ." type="refuted">
+   </statement>
+   <statement id="8" text="There are five different Physical parameters." type="entailed">
+   </statement>
+   <statement id="10" text="Total surface area (m 2 ) has the highest value in Reef ball plot." type="entailed">
+   </statement>
+   <statement id="11" text="Total surface area (m 2 ) is having a lowest value in Reef ball plot ." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 6">
+  <caption text="
+
+   Estimated costs, excluding boat and monitoring costs, in USD for a single and 10 reef ball, layered cake and rock pile plots.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Reef ball plot">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Rock pile plot">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Layered cake plot">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Costs">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="3 units">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="27 rocks">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="3 units">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Mold
+     
+
+       a">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="$ 1.350.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="$1.350.00">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Lift bag for deployment
+     
+
+       a">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="$ 700.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="$ 700.00">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Material">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="$ 77.78">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="$ 22.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="$ 100.00">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Construction">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="$ 360.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="$ 420.00">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Deployment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="$ 360.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="$ 240.00">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="$ 360.00">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Total per plot">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="$ 2.847.78">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="$ 262.50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="$ 2.930.00">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="30 units">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="270 rocks">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="30 units">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Total per 10 plots">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="$ 9.927.78">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="$ 2.625.00">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="$ 10.850.00">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="The highest Material consumed is for $ 100.00 under Layered cake plot." type="entailed">
+   </statement>
+   <statement id="7" text="The value of Lift bag for deployment is same $ 700.00 for both Reef ball plot and Layered cake plot." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,78 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Polymerase Chain Reaction (PCR) Speeds.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="PCR Speed">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Year of Introduction">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Time for 30 Cycles">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Time for 1 Cycle">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Legacy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1988">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2.25 hours">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="4.5 min">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Rapid Cycle">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1991">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="10-30 min">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="20-60 s">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Fast">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="2000s">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="30-60 min">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="1-2 min">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Ultra-Fast">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="2010s">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="2-10 min">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="4-20 s">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Extreme">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2015">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="15-60 s">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.5-2 s">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Here the Time for 30 Cycles is unique for all." type="entailed">
+   </statement>
+   <statement id="2" text="PCR Speed of Legacy takes 2.25 hours time for 30 cycles." type="entailed">
+   </statement>
+   <statement id="3" text="The Time for 30 Cycles is same for all PCR Speed ." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

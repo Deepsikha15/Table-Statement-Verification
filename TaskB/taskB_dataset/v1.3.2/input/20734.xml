@@ -1,0 +1,913 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Descriptive statistics and correlations.
+  
+">
+  </caption>
+  <legend text="
+
+   Correlations greater than |0.06|are significant at p &lt; 0.05, while those greater than |0.08| are significant at p &lt; 0.01.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Mean">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="S.D.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="3">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="4">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="5">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="6">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="7">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="8">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="0" row-start="0" text="9">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="0" row-start="0" text="10">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="0" row-start="0" text="11">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="0" row-start="0" text="12">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1. Added geographic distance">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="601.1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="2048.1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="1" row-start="1" text="">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2. Spatial dispersion of network">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="2366.2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="2901.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.15">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3. Country network size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="4.61">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="7.86">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.22">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.16">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4. Firm size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="15613">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="28314">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.07">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.26">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.18">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="4" row-start="4" text="">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5. Firm profitability">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="2.89">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="4.05">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.10">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.09">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.13">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.01">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6. Firm’s product diversification">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="2.64">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.03">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.04">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.16">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.13">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="0.21">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="−0.06">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="6" row-start="6" text="">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7. Firm is a large franchisor">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.04">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.19">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.16">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.27">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.23">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="0.11">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="0.00">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.10">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8. Home country demand volatility">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1746.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="785.6">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.05">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.05">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.14">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="0.11">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="0.10">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="−0.03">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="0.13">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="8" row-start="8" text="">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9. Home country policy uncertainty">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="−0.44">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.09">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="−0.06">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.10">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.02">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="−0.02">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="−0.14">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="0.26">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="0.01">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="−0.11">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="9" row-start="9" text="">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10. Home country supportive investment policy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="43.80">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="29.76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.10">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.13">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.43">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="0.12">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="0.11">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="0.10">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="0.12">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="0.37">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="10" row-start="10" text="−0.16">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="10" row-start="10" text="">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11. Home country economic development">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="36459">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="8921">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.00">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="−0.06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="−0.07">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="0.12">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="−0.04">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="−0.26">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="−0.01">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="0.41">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="11" row-start="11" text="0.06">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="11" row-start="11" text="0.10">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="11" row-start="11" text="">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="12. Home country institutional development">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1.42">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.42">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.01">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="−0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="0.06">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="0.11">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="−0.01">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="−0.10">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="12" row-start="12" text="−0.02">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="12" row-start="12" text="0.43">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="12" row-start="12" text="0.13">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="12" row-start="12" text="0.32">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="12" row-start="12" text="0.59">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="12" row-start="12" text="">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="13. Home country retail sales growth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.05">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.07">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.02">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.02">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="0.12">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="0.01">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="0.09">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="0.15">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="13" row-start="13" text="0.03">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="13" row-start="13" text="0.11">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="13" row-start="13" text="−0.11">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="13" row-start="13" text="0.23">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="13" row-start="13" text="−0.24">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="13" row-start="13" text="−0.08">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Added geographic distance of Mean is 601.1." type="">
+   </statement>
+   <statement id="1" text="Firms product diversification value of S.D is 2.03." type="">
+   </statement>
+   <statement id="3" text="The values are observed to be unique in the table." type="">
+   </statement>
+   <statement id="4" text="There are 13 variables in the table." type="">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Random-effects Tobit regression analyses of added geographic distance.
+  
+">
+  </caption>
+  <legend text="
+
+   Intercept included but not presented in this table; Standard errors in parentheses; Number of observations: 1036 (851 left-censored, 185 uncensored).
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Variables">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Model 1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Model 2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Model 3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Model 4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Model 5">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Spatial dispersion of country network">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.55 (0.18)
+     
+      **">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.51 (0.23)
+     
+      *">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.40 (0.20)
+     
+      *">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Country network size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.87 (0.18)
+     
+      ***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.83 (0.19)
+     
+      ***">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1.63 (0.32)
+     
+      ***">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Spatial dispersion x Network size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="−0.71 (0.20)
+     
+      ***">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Firm size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.38 (0.17)
+     
+      *">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.19 (0.15)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.21 (0.15)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.14 (0.14)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.15 (0.13)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Firm profitability">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.48 (0.20)
+     
+      *">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.45 (0.20)
+     
+      *">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.43 (0.20)
+     
+      *">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.41 (0.19)
+     
+      *">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.39 (0.19)
+     
+      *">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Firm’s degree of product diversification">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="1.05 (0.28)
+     
+      ***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.79 (0.26)
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.80 (0.26)
+     
+      **">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.76 (0.25)
+     
+      **">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.65 (0.24)
+     
+      **">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Firm is a large franchisor">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.37 (0.15)
+     
+      *">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.27 (0.14)
+     
+
+       †">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.34 (0.13)
+     
+      **">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.26 (0.13)
+     
+      *">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.38 (0.13)
+     
+      **">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Firm is a department store retailer
+     
+
+       a">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="1.10 (0.27)
+     
+      ***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.99 (0.25)
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.97 (0.25)
+     
+      ***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.93 (0.24)
+     
+      ***">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.88 (0.24)
+     
+      ***">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Firm is a high street retailer
+     
+
+       a">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="1.44 (0.30)
+     
+      ***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="1.44 (0.29)
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="1.27 (0.29)
+     
+      ***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="1.29 (0.27)
+     
+      ***">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="1.14 (0.27)
+     
+      ***">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Firm is a specialty retailer
+     
+
+       a">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="1.18 (0.27)
+     
+      ***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.97 (0.26)
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.89 (0.25)
+     
+      ***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.85 (0.24)
+     
+      **">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.78 (0.24)
+     
+      **">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Firm is a U.S. retailer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.32 (0.42)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.31 (0.41)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.41 (0.41)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.39 (0.39)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.29 (0.38)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Firm is a Japanese retailer">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="−0.20 (0.40)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="−0.38 (0.40)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="−0.15 (0.40)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="−0.28 (0.39)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="−0.42 (0.38)">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Home country demand volatility">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.28 (0.21)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.05 (0.21)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.02 (0.21)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.04 (0.21)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="0.03 (0.21)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="Home country policy uncertainty">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="−0.09 (0.28)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="−0.16 (0.28)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="−0.34 (0.29)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="−0.25 (0.28)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="−0.22 (0.27)">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="Home country supportive investment policy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.90 (0.35)
+     
+      **">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.72 (0.32)
+     
+      *">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.37 (0.33)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="0.40 (0.31)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="0.08 (0.32)">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="Home country economic development">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="−0.00 (0.51)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="−0.35 (0.49)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="−0.33 (0.50)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="−0.31 (0.48)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="16" row-start="16" text="−0.06 (0.47)">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Home country institutional development">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="−0.21 (0.44)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="0.11 (0.44)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="0.19 (0.45)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="0.13 (0.43)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="17" row-start="17" text="−0.06 (0.42)">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="Home country retail sales growth">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="0.09 (0.19)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="0.03 (0.21)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.00 (0.21)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="0.02 (0.21)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="18" row-start="18" text="−0.02 (0.21)">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="Log likelihood">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="−701.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="−657.4">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="−655.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="−646.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="19" row-start="19" text="−640.3">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Likelihood ratio test – focal model vs. prior">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="87.2
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="91.9
+     
+
+       ***,b">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="17.1
+     
+      ***">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="20" row-start="20" text="12.4
+     
+      **">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Wald χ²">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="67.2
+     
+      ***">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="80.2
+     
+      ***">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="85.7
+     
+      ***">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="98.5
+     
+      ***">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="21" row-start="21" text="106.2
+     
+      ***">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Model 3 does not have variables Spatial dispersion of country network and Spatial dispersion x Network size." type="">
+   </statement>
+   <statement id="5" text="Only model 1 does not have variable Likelihood ratio test  focal model vs. prior." type="">
+   </statement>
+   <statement id="7" text="test scores do not suggest that the models are affected by multicollinearity, as the highest VIF is 3.9, well below the commonly accepted threshold of 10 that is used to assess multicollinearity ( Hair, Black, Babin, Anderson, &amp; Tatham, 2006 )." type="">
+   </statement>
+  </statements>
+ </table>
+</document>

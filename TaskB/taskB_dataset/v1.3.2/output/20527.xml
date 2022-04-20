@@ -1,0 +1,511 @@
+<document>
+ <table id="Table 2">
+  <caption text="
+
+   Content of O, S and Ga in the Ga
+   
+    2
+   
+   O
+   
+    3
+   
+   -Ga
+   
+    2
+   
+   S
+   
+    3
+   
+   composites.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="3" col-start="1" row-end="0" row-start="0" text="Content, at%">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Element">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="970 K">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1070 K">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="1170 K">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="O">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="59.81">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="66.18">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="59.51">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="S">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.19">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.06">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.00">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Ga">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="40.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="33.76">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="40.49">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Total">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="100.00">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="100.00">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="100.00">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="The Element S at 1170 K is 0." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Wavenumbers assigned to peaks detected in Raman spectra of
+   
+    β
+   
+   -Ga
+   
+    2
+   
+   S
+   
+    3
+   
+   crystals measured at the excitation wavelength of 532 nm (0.1 W) and of the thermally annealed
+   
+    β
+   
+   -Ga
+   
+    2
+   
+   S
+   
+    3
+   
+   monocrystals for 6 h at 1070 K and 1170 K.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="1" row-start="0" text="β
+     
+     -Ga
+     
+      2
+     
+     S
+     
+      3
+     
+     (untreated)">
+   </cell>
+   <cell col-end="6" col-start="3" row-end="0" row-start="0" text="β
+     
+     -Ga
+     
+      2
+     
+     S
+     
+      3
+     
+     (thermally annealed)">
+   </cell>
+   <cell col-end="8" col-start="7" row-end="0" row-start="0" text="β
+     
+     -Ga
+     
+      2
+     
+     O
+     
+      3
+     
+     [
+     
+      51
+     
+     ]">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="3" row-end="1" row-start="1" text="1070K">
+   </cell>
+   <cell col-end="6" col-start="5" row-end="1" row-start="1" text="1170K">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="Mode">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="Frequency">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="No.">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="ν
+        
+
+         ˜
+        
+
+
+
+     , cm
+     
+      −1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="I
+      
+
+     , a. u.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="ν
+        
+
+         ˜
+        
+
+
+
+     , cm
+     
+      −1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="I
+      
+
+     , a. u.">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="ν
+        
+
+         ˜
+        
+
+
+
+     , cm
+     
+      −1">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="I
+      
+
+     , a. u.">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="[
+     
+      51
+     
+     ]">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="ν cm
+     
+      −1">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="67.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="19.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="94.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="247.3">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="94.76">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="135.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="84.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="9,9">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="114.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="273.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="115.2">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="235.0">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="B
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="113.6">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="116.6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="15.2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="145.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="323.4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="145.7">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="452.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="B
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="144.7">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="141.7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="11.3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="171.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="540.7">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="171.6">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="705.4">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="169.2">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="147.9">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="26.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="199.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="1358.4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="199.6">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="2014.0">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="200.4">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="228.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="100.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="322.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="466.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="321.3">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="441.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="318.6">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="302.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="18.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="345.9">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="585.6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="346.2">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="831.8">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="346.4">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="327.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="22.0">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="415.8">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="836.2">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="414.8">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="812.1">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="415.7">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="386.4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="30.8">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="475.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="325.6">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="475.5">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="431.3">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="B
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="473.5">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="627.7">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="378.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="629.4">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="421.5">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="B
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="628.7">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="655.6">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="683.8">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="654.6">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="625.7">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="652.5">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="766.0">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="631.5">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="766.0">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="949.0">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="A
+     
+      g">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="763.9">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text=" -Ga 2 S 3 (thermally annealed) of    , cm 1 has lowest value of 167.0." type="refuted">
+   </statement>
+   <statement id="2" text=" -Ga 2 S 3 (untreated) of    , cm 1 has highest value of 679.7." type="refuted">
+   </statement>
+   <statement id="6" text=" -Ga 2 S 3 (untreated) of I , a. u. has lowest value of 9,9." type="entailed">
+   </statement>
+   <statement id="9" text="Therefore, the surface of -Ga 2 S 3 crystals is totally converted to -Ga 2 O 3 with C 2 h 3" type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

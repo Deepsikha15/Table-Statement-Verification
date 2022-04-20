@@ -1,0 +1,1056 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Distribution of male and female patients and principle diagnoses across male and female therapists.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note
+   
+   : ADHD = Attention Deficit Hyperactivity Disorder; CP = Conduct Problems; ASD = Autism Spectrum Disorder, INT = internalizing problems.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Male therapist">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Female therapist">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Total">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="#">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="#">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="#">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Client gender:">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Boys">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="29">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="33">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="62">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Girls">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="13">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="28">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Primary diagnosis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="ADHD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="13">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="12">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="25">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="CP">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="11">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="21">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="ASD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="20">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="INT">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="18">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Else">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="3">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="6">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="INT Male therapist are 11." type="entailed">
+   </statement>
+   <statement id="3" text="Total Girls are 28." type="entailed">
+   </statement>
+   <statement id="6" text="There are 29 boys diagnosed by Male therapist." type="entailed">
+   </statement>
+   <statement id="7" text="There are 99 boys diagnosed by Male therapist." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Means (SD) of client empathy measure at T1 and T2, therapist reported outcome at T2, and correlations between T1 and T2 measurements.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note
+   
+   : * p &lt; .05, ** p &lt; .001. BES = Basic Empathy Scale (1–5); IRI = Interpersonal Reactivity Index (1–5); aff = affective empathy, cog = cognitive empathy; TRO = therapist rated outcome (1–10).
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="1" row-end="0" row-start="0" text="T1">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="5" col-start="4" row-end="0" row-start="0" text="T2">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="r
+     
+
+      t1xt2">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Girls
+     
+      n
+     
+     = 28">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Boys
+     
+      n
+     
+     = 62">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="Girls
+     
+      n
+     
+     = 28">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="Boys
+     
+      n
+     
+     = 62">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="N
+     
+     = 90">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="M (SD)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="M (SD)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="t
+     
+     (
+     
+      df
+     
+     = 88)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="M (SD)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="M (SD)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="t
+     
+     (
+     
+      df
+     
+     = 88)">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="BES_aff">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="3.29 (0.81)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="2.91 (0.76)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="−2.16*">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="3.38 (0.81)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="3.03 (0.78)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="−1.94">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="0.70**">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="BES_cog">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="3.97 (0.58)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3.91 (0.56)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="&lt;1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="4.14 (0.58)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="3.94 (0.48)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="−1.69">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="0.42**">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="IRI_aff">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="3.07 (0.57)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="2.65 (0.51)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="−3.45**">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="3.18 (0.67)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="2.79 (0.55)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="−2.89*">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="0.53**">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="IRI_cog">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="2.89 (0.53)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.82 (0.64)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="&lt;1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="3.17 (0.65)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="2.82 (0.67)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="−2.32*">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="0.63**">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="TRO">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="–">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="5.81 (1.88)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="5.60 (1.75)">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="&lt;1">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="82.82 (0.67) is the M (SD) value for IRI_cog under T1." type="refuted">
+   </statement>
+   <statement id="1" text="At T1, girls obtained significantly higher scores than boys on affective empathy assessed with the IRI and BES." type="entailed">
+   </statement>
+   <statement id="2" text="BES_aff has 3.29 (0.81) values under M (SD) for T1." type="entailed">
+   </statement>
+   <statement id="5" text="the table has been divided into two T1 , T2 , T3 and T4 measurements." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Means (SD) of therapist empathy and personality characteristics.
+  
+">
+  </caption>
+  <legend text="
+
+
+    Note
+   
+   : * p &lt; .05. IRI = Interpersonal Reactivity Index; NEO-FFI = NEO Five Factor Inventory. 1: IRI and NEO-FFI data of two male therapists were missing.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Female
+     
+      n
+     
+     = 14">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Male
+     
+      n
+     
+     = 15">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Variable">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="M (SD)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="M (SD)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="t
+     
+     (
+     
+      df
+     
+     = 27)
+     
+      1">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="IRI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Empathic concern">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="3.79 (0.61)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="3.68 (0.35)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="&lt;1">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Perspective taking">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="3.80 (0.48)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="3.86 (0.49)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="&lt;1">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="NEO_FFI">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Neuroticism">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="2.44 (0.39)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="2.09 (0.47)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="−2.17*">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Extraversion">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="3.52 (0.46)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="3.78 (0.28)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="1.46">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Conscientiousness">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="3.76 (0.45)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="3.82 (0.40)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="&lt;1">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Openness">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="3.29 (0.37)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="3.42 (0.47)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="&lt;1">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="The female M (SD) of Empathic concern is less than Male M (SD)." type="refuted">
+   </statement>
+   <statement id="3" text="The female M (SD) of Empathic concern is more than Male M (SD)." type="entailed">
+   </statement>
+   <statement id="6" text="The t ( df = 27) 1 for Empathic concern, Perspective, Conscientiousness and Openness is &gt;1." type="refuted">
+   </statement>
+   <statement id="7" text="The total n value of Female is 14 and Male is 15." type="entailed">
+   </statement>
+   <statement id="9" text="There are 3 types of variables." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Bivariate correlations among main study variables.
+  
+">
+  </caption>
+  <legend text="
+
+   Note: * p &lt; .05, ** p &lt; .001. T1 = client empathy at intake; Δ = client empathy change; BES = Basic Empathy Scale; IRI = Interpersonal Reactivity Index; aff = affective empathy; cog = cognitive empathy; IRI_PT = therapist perspective taking; IRI_EC = therapist empathic concern; NEO-N = neuroticism; NEO-E = extraversion; NEO-O = openness; NEO-C = conscientiousness; TRO = therapist reported outcome.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="2">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="4">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="5">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="6">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="7">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="8">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="0" row-start="0" text="9">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="0" row-start="0" text="10">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="0" row-start="0" text="11">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="0" row-start="0" text="12">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="0" row-start="0" text="13">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="0" row-start="0" text="14">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="0" row-start="0" text="15">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="T1_BES-aff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.25*">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.60**">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.48**">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="−0.37**">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="−0.09">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="−0.02">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="−0.07">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="1" row-start="1" text="0.28*">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="1" row-start="1" text="0.13">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="1" row-start="1" text="0.13">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="1" row-start="1" text="0.02">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="1" row-start="1" text="0.13">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="1" row-start="1" text="0.01">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="1" row-start="1" text="0.03">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="T1_BES-cog">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="–">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="−0.01">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.41**">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="−0.13">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="−0.60**">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="0.07">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="−0.18">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="2" row-start="2" text="−0.10">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="2" row-start="2" text="0.01">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="2" row-start="2" text="0.13">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="2" row-start="2" text="−0.06">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="2" row-start="2" text="0.02">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="2" row-start="2" text="−0.07">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="2" row-start="2" text="−0.26*">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="T1_IRI-aff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="–">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.46**">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="−0.18">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="−0.08">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="−0.42**">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="−0.09">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="3" row-start="3" text="0.30**">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="3" row-start="3" text="0.16">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="3" row-start="3" text="−0.09">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="3" row-start="3" text="0.14">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="3" row-start="3" text="0.06">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="3" row-start="3" text="0.11">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="3" row-start="3" text="0.14">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="T1_IRI-cog">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="–">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="−0.08">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="4" row-start="4" text="−0.15">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="4" row-start="4" text="−0.18">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="4" row-start="4" text="−0.32**">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="4" row-start="4" text="0.02">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="4" row-start="4" text="0.06">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="4" row-start="4" text="−0.05">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="4" row-start="4" text="0.16">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="4" row-start="4" text="0.07">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="4" row-start="4" text="0.05">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="4" row-start="4" text="0.01">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Δ_BES-aff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="–">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="5" row-start="5" text="0.20">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="5" row-start="5" text="0.35**">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="5" row-start="5" text="0.28**">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="5" row-start="5" text="−0.15">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="5" row-start="5" text="−0.05">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="5" row-start="5" text="−0.14">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="5" row-start="5" text="0.10">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="5" row-start="5" text="−0.01">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="5" row-start="5" text="0.07">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="5" row-start="5" text="0.12">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Δ_BES-cog">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="6" row-start="6" text="–">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="6" row-start="6" text="0.13">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="6" row-start="6" text="0.36**">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="6" row-start="6" text="−0.12">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="6" row-start="6" text="−0.05">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="6" row-start="6" text="−0.15">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="6" row-start="6" text="0.10">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="6" row-start="6" text="−0.06">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="6" row-start="6" text="0.16">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="6" row-start="6" text="0.27**">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Δ_IRI-aff">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="7" row-start="7" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="7" row-start="7" text="–">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="7" row-start="7" text="0.30**">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="7" row-start="7" text="−0.21">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="7" row-start="7" text="−0.21">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="7" row-start="7" text="0.14">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="7" row-start="7" text="−0.14">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="7" row-start="7" text="0.02">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="7" row-start="7" text="−0.04">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="7" row-start="7" text="−0.04">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Δ_IRI-cog">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="8" row-start="8" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="8" row-start="8" text="–">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="8" row-start="8" text="−0.13">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="8" row-start="8" text="0.03">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="8" row-start="8" text="0.05">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="8" row-start="8" text="−0.15">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="8" row-start="8" text="−0.08">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="8" row-start="8" text="−0.07">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="8" row-start="8" text="0.28**">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="IRI_PT">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="9" row-start="9" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="9" row-start="9" text="0.63**">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="9" row-start="9" text="0.27*">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="9" row-start="9" text="−0.21*">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="9" row-start="9" text="0.11">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="9" row-start="9" text="−0.42**">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="9" row-start="9" text="0.10">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="IRI_EC">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="10" row-start="10" text="–">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="10" row-start="10" text="0.29**">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="10" row-start="10" text="−0.38**">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="10" row-start="10" text="0.16">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="10" row-start="10" text="−0.53**">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="10" row-start="10" text="0.16">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="NEO-N">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="11" row-start="11" text="–">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="11" row-start="11" text="−0.60**">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="11" row-start="11" text="−0.15">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="11" row-start="11" text="−0.48**">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="11" row-start="11" text="−0.26*">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="NEO-E">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="12" row-start="12" text="–">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="12" row-start="12" text="0.19">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="12" row-start="12" text="0.70**">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="12" row-start="12" text="0.00">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="NEO-O">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="13" row-start="13" text="–">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="13" row-start="13" text="0.20">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="13" row-start="13" text="0.16">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="14">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="NEO-C">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="14" row-start="14" text="–">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="14" row-start="14" text="0.04">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="15">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="TRO">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="9" col-start="9" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="10" col-start="10" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="11" col-start="11" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="12" col-start="12" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="13" col-start="13" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="14" col-start="14" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="15" col-start="15" row-end="15" row-start="15" text="–">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="Bivariate correlations between all study variables are presented in Table 4 ." type="entailed">
+   </statement>
+   <statement id="2" text="There are fifteen Bivariate correlations among main study variables." type="entailed">
+   </statement>
+   <statement id="4" text="Variable T1_BES-aff has value for 14 of 1.25." type="refuted">
+   </statement>
+   <statement id="5" text="Variable T1_BES-aff has value for 2 of 0.25." type="entailed">
+   </statement>
+   <statement id="7" text="Variable T1_IRI-aff has value for 9 of 0.69." type="refuted">
+   </statement>
+   <statement id="8" text="Variable T1_IRI-cog has value for 9 of 0.02." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

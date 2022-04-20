@@ -1,0 +1,75 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Correlation (
+   
+    R
+    
+     S
+    
+
+   ) between the link criticality rankings derived from different scenarios: single (SLF), two (2LF) and three (3LF) link failures and the combination of all three (ALL)
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="SLF vs ALL">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="2LF vs ALL">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="3LF vs ALL">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Min">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.460">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.698">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.878">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Median">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.985">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.999">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.999">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Mean">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.934">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.983">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.995">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Max">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="1.000">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="1.000">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="1.000">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Mean has a range between 0.983 to 0.995." type="entailed">
+   </statement>
+   <statement id="2" text="Mean has a same value ." type="refuted">
+   </statement>
+   <statement id="4" text="Median has a same value in 2LF vs ALL and 3LF vs ALL." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

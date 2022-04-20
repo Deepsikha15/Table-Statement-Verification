@@ -1,0 +1,243 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Observation of bio-fouling on three types of ropes at different soak times.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Month">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Cotton rope">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Jute rope">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Sisal rope">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="None">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="None">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="None">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="None">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Chlorophyta">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Chlorophyta">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="None">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Chlorophyta">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Chlorophyta">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Chlorophyta">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Not available">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Chlorophyta
+     
+     Ochrophyta
+     
+     Rhodophyta">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Not available">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Chlorophyta
+     
+     Ochrophyta">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Not available">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Chlorophyta
+     
+     Ochrophyta
+     
+     Balanus">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Not available">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Chlorophyta
+     
+     Ochrophyta
+     
+     Balanus
+     
+     Mytilus edulis">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Not available">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Chlorophyta
+     
+     Ochrophyta
+     
+     Balanus
+     
+     Mytilus edulis">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Not available">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Chlorophyta
+     
+     Ochrophyta
+     
+     Balanus
+     
+     Mytilus edulis">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Not available">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Not available">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="Cotton rope is None for 1,2,3." type="entailed">
+   </statement>
+   <statement id="4" text="Jute ropes and sisal ropes exhibited attributes of rapid colonization within 2 months by microorganisms representative of green algae." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 1">
+  <caption text="
+
+   Specifications of structural parameters for three types of ropes.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Rope type">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Diameter (mm)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Lay length (mm)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Construction">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="Linear density (ktex)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Cost (dollar per meter)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Cotton 3-strand twisted rope">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="14.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="37.7">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="96-thread, S-lay
+     
+
+       a">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="35.253">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.30">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Jute">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="10.5">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="36.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="3-ply, 13-thread, twisted, Z-lay
+     
+
+       b">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="46.898">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.16">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Sisal">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="11.0">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="39.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="3-ply, 8-thread, twisted, Z-lay
+     
+
+       b">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="50.922">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.35">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="All of the ropes were fabricated by the same company (Runya Chemical Fibre Rope Company, Shandong, China)." type="entailed">
+   </statement>
+   <statement id="2" text="All the values given in the table consist of positive values." type="entailed">
+   </statement>
+   <statement id="3" text="The highest Lay length 39.5 of Sisal rope type." type="entailed">
+   </statement>
+   <statement id="5" text="The lowest Lay length 39.5 of Sisal rope type." type="refuted">
+   </statement>
+   <statement id="6" text="There are 3 types of Rope type in the given table." type="entailed">
+   </statement>
+   <statement id="7" text="There are 4 types of Rope type in the given table." type="refuted">
+   </statement>
+   <statement id="8" text="There are 5 types of specifications of structural parameters for three types of ropes.." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

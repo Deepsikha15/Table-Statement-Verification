@@ -1,0 +1,60 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Comparison between SREP and Blauzone Rheintal in strategic flood risk management planning.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="SREP">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Blauzone Rheintal">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Plan making">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Initiated by regional authority, but plan making process follows a distinctive bottom-up approach, where local authorities define their development needs in coordination with the regional water authority.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Pronounced top-down approach with inter-sectoral coordination between spatial planning and water authorities at the regional level.">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Planning outcome">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Non-formalized negotiation results are formalized in local land use planning.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Legally binding land use regulation">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Plan Implementation">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Broad local participation and engagement by local authorities and stakeholders, such as blue light organizations, tourism organizations or farmer representatives">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Broad information and consultation of municipalities and landowners minimized implementation problems">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Effect on land mobilization">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Zoning is based on negotiations; land mobilization is likely to occur subsequently.">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Land mobilization is likely to occur as a consequence of a restrictive zoning category.">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="In the given table they are not planning about the flood risk management how to avoid the risk or resolving the risk." type="refuted">
+   </statement>
+   <statement id="3" text="Plan Implementation will not gives the information to SREP as engagement by local authorities and stakeholders." type="refuted">
+   </statement>
+   <statement id="4" text="SREP and Blauzone Rheintal are same from each other in the given table." type="refuted">
+   </statement>
+   <statement id="6" text="There are 2 types of strategic one is SREP and another one isBlauzone Rheintal in the given table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

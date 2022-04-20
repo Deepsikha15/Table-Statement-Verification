@@ -1,0 +1,480 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Examples of title terms used to delineate internet-delivered psychological interventions, including the number of occurrences in titles in PubMed in November 2019.
+  
+">
+  </caption>
+  <legend text="
+
+   Note. The table contains arbitrarily selected scientific publications in order to provide examples; there is no intention to comment on particular authors or publication outlets.
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Term used">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Titles in PubMed">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Publication title">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Citation">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Avatar-assisted therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Avatar-assisted therapy: a proof-of-concept pilot study of a novel technology-based intervention to treat substance use disorders.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="Gordon et al. (2017)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Chat treatment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Effectiveness of a web-based solution-focused brief chat treatment for depressed adolescents and young adults: randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="Kramer et al. (2014)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Computer-assisted therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="15">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Computer-assisted therapy for medication-resistant auditory hallucinations: proof-of-concept study.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="Leff et al. (2013)">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Computer intervention">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="10">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Development and preliminary pilot evaluation of a brief tablet computer intervention to motivate tobacco quitline use among smokers in substance use treatment.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="Brown et al. (2017)">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Computerized therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="6">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Attitudes towards the use of computerized Cognitive Behavior Therapy (cCBT) with children and adolescents: a survey among Swedish mental health professionals.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="Vigerland et al. (2014)">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Computer-mediated psychotherapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Psychotherapy in cyberspace: A 5-dimensional model of online and computer-mediated psychotherapy.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="Suler (2000)">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Computer therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="My care manager, my computer therapy and me: The relationship triangle in computerized cognitive behavioral therapy.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="Cavanagh et al. (2018)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Cybertherapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="17">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="Cybertherapy meets Facebook, blogger, and second life: an Italian experience.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="Graffeo and La Barbera (2009)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Digital health">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="546">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Accelerating digital mental health research from early design and creation to successful implementation and sustainment">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="Mohr et al. (2017)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Digital service">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Evaluation of the practitioner online referral and treatment service (PORTS): the first 18 months of a state-wide digital service for adults with anxiety, depression, or substance use problems">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="Titov et al. (2019)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Distance counseling">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="The effectiveness of physical activity monitoring and distance counseling in an occupational setting - results from a randomized controlled trial (CoAct).">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="Reijonsaari et al. (2012)">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Distance therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="Distance therapy to improve symptoms and quality of life: complementing office-based care with telehealth.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="Kroenke (2014)">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="E-aid">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="Effects of e-aid cognitive behavioral therapy for insomnia (eCBTI) to prevent the transition from episodic insomnia to persistent insomnia: study protocol for a randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="Yang et al. (2019)">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="E-counseling">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="Effects of self-guided e-counseling on health behaviors and blood pressure: Results of a randomized trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="Liu et al. (2019)">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="E-health program">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Study protocol of a Dutch smoking cessation e-health program.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="Stanczyk et al. (2011)">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="E-mental health">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="87">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="User-centered app adaptation of a low-intensity E-mental health intervention for Syrian refugees">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="Burchert et al. (2019)">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="Etherapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="Evaluating the role of digital intervention design in treatment outcomes and adherence to eTherapy programs for eating disorders: A systematic review and meta-analysis.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="Barakat et al. (2019)">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="E-therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="27">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="e-Therapy in primary care mental health.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="Orman and O'Dea (2018)">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="E-mail therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="Internet administered guided self-help versus individualized e-mail therapy: a randomized trial of two versions of CBT for major depression.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="Vernmark et al. (2010)">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="Guided self-help">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="187">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="Do nonsuicidal severely depressed individuals with diabetes profit from internet-based guided self-help? Secondary analyses of a pragmatic randomized trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="Schlicker et al. (2019)">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="Internet-administered treatment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="The effects on depression of Internet-administered behavioral activation and physical exercise with treatment rationale and relapse prevention: study protocol for a randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="Carlbring et al. (2013)">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="Internet-based treatment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="50">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="Combining attention training with Internet-based cognitive-behavioral self-help for social anxiety: a randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="Boettcher et al. (2014)">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="Internet-delivered therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="175">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="Evaluating the efficacy of internet-delivered cognitive behavioral therapy blended with synchronous chat sessions to treat adolescent depression: randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="Topooco et al. (2019)">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="Internet intervention">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="81">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="The internet intervention patient adherence scale for guided internet-delivered behavioral interventions: development and psychometric evaluation.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="Lenhard et al. (2019)">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="Internet-supported therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="Internet-supported versus face-to-face cognitive behavior therapy for depression.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="Andersson et al. (2016)">
+   </cell>
+  </row>
+  <row row="26">
+   <cell col-end="0" col-start="0" row-end="26" row-start="26" text="Internet therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="26" row-start="26" text="11">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="26" row-start="26" text="What makes internet therapy work?">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="26" row-start="26" text="Andersson et al. (2009)">
+   </cell>
+  </row>
+  <row row="27">
+   <cell col-end="0" col-start="0" row-end="27" row-start="27" text="Internet treatment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="27" row-start="27" text="25">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="27" row-start="27" text="Three-year follow-up of insomnia and hypnotics after controlled internet treatment for insomnia.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="27" row-start="27" text="Blom et al. (2016)">
+   </cell>
+  </row>
+  <row row="28">
+   <cell col-end="0" col-start="0" row-end="28" row-start="28" text="Interapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="28" row-start="28" text="4">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="28" row-start="28" text="Efficacy and effectiveness of online cognitive behavioral treatment: a decade of interapy research.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="28" row-start="28" text="Ruwaard et al. (2011)">
+   </cell>
+  </row>
+  <row row="29">
+   <cell col-end="0" col-start="0" row-end="29" row-start="29" text="Medicine 2.0">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="29" row-start="29" text="20">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="29" row-start="29" text="Transforming patient experience: health web science meets medicine 2.0.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="29" row-start="29" text="McHattie et al. (2014)">
+   </cell>
+  </row>
+  <row row="30">
+   <cell col-end="0" col-start="0" row-end="30" row-start="30" text="Minimal-contact intervention(s)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="30" row-start="30" text="7">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="30" row-start="30" text="The efficacy of minimal contact interventions for acute tinnitus: a randomized controlled study.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="30" row-start="30" text="Nyenhuis et al. (2013)">
+   </cell>
+  </row>
+  <row row="31">
+   <cell col-end="0" col-start="0" row-end="31" row-start="31" text="Online clinical work">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="31" row-start="31" text="1">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="31" row-start="31" text="Myths and realities of online clinical work.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="31" row-start="31" text="Fenichel et al. (2002)">
+   </cell>
+  </row>
+  <row row="32">
+   <cell col-end="0" col-start="0" row-end="32" row-start="32" text="Online counseling">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="32" row-start="32" text="17">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="32" row-start="32" text="Exploring young people's perceptions of the effectiveness of text-based online counseling: mixed methods pilot study.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="32" row-start="32" text="Navarro et al. (2019)">
+   </cell>
+  </row>
+  <row row="33">
+   <cell col-end="0" col-start="0" row-end="33" row-start="33" text="Online intervention">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="33" row-start="33" text="129">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="33" row-start="33" text="Online intervention to reduce pediatric anxiety: an evidence-based review.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="33" row-start="33" text="Santilhano (2019)">
+   </cell>
+  </row>
+  <row row="34">
+   <cell col-end="0" col-start="0" row-end="34" row-start="34" text="Online program">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="34" row-start="34" text="60">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="34" row-start="34" text="Baby steps - an online program promoting the well-being of new mothers and fathers: a study protocol.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="34" row-start="34" text="Hamilton et al. (2016)">
+   </cell>
+  </row>
+  <row row="35">
+   <cell col-end="0" col-start="0" row-end="35" row-start="35" text="Online psychotherapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="35" row-start="35" text="3">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="35" row-start="35" text="Does the quality of the working alliance predict treatment outcome in online psychotherapy for traumatized patients?">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="35" row-start="35" text="Knaevelsrud and Maercker (2006)">
+   </cell>
+  </row>
+  <row row="36">
+   <cell col-end="0" col-start="0" row-end="36" row-start="36" text="Online therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="36" row-start="36" text="13">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="36" row-start="36" text="Delivering solid treatments on shaky ground: feasibility study of an online therapy for child anxiety in the aftermath of a natural disaster.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="36" row-start="36" text="Stasiak et al. (2018)">
+   </cell>
+  </row>
+  <row row="37">
+   <cell col-end="0" col-start="0" row-end="37" row-start="37" text="Online treatment">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="37" row-start="37" text="29">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="37" row-start="37" text="Psychodynamic online treatment following supportive expressive therapy (SET): therapeutic rationale, interventions and treatment process.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="37" row-start="37" text="Beutel et al. (2018)">
+   </cell>
+  </row>
+  <row row="38">
+   <cell col-end="0" col-start="0" row-end="38" row-start="38" text="Self-help through the internet">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="38" row-start="38" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="38" row-start="38" text="Psychodynamic guided self-help for adult depression through the Internet: A randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="38" row-start="38" text="Johansson et al. (2012)">
+   </cell>
+  </row>
+  <row row="39">
+   <cell col-end="0" col-start="0" row-end="39" row-start="39" text="Telecounseling">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="39" row-start="39" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="39" row-start="39" text="Telecounseling in rural areas for alcohol problems.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="39" row-start="39" text="Baca et al. (2007)">
+   </cell>
+  </row>
+  <row row="40">
+   <cell col-end="0" col-start="0" row-end="40" row-start="40" text="Telepsychiatry">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="40" row-start="40" text="349">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="40" row-start="40" text="Telepsychiatry use in U.S. mental health facilities, 2010–2017.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="40" row-start="40" text="Spivak et al. (2019)">
+   </cell>
+  </row>
+  <row row="41">
+   <cell col-end="0" col-start="0" row-end="41" row-start="41" text="Telepsychology">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="41" row-start="41" text="18">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="41" row-start="41" text="Rationale and design: telepsychology service delivery for depressed elderly veterans.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="41" row-start="41" text="Egede et al. (2009)">
+   </cell>
+  </row>
+  <row row="42">
+   <cell col-end="0" col-start="0" row-end="42" row-start="42" text="Teletherapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="42" row-start="42" text="785">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="42" row-start="42" text="Comparison of functional outcomes and treatment cost between a computer-based cognitive rehabilitation teletherapy program and a face-to-face rehabilitation program.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="42" row-start="42" text="Schoenberg et al. (2008)">
+   </cell>
+  </row>
+  <row row="43">
+   <cell col-end="0" col-start="0" row-end="43" row-start="43" text="Treatment administered through a smartphone application">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="43" row-start="43" text="2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="43" row-start="43" text="Behavioral activation vs. mindfulness-based guided self-help treatment administered through a smartphone application: a randomized controlled trial.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="43" row-start="43" text="Ly et al. (2014)">
+   </cell>
+  </row>
+  <row row="44">
+   <cell col-end="0" col-start="0" row-end="44" row-start="44" text="Virtual reality therapy">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="44" row-start="44" text="50">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="44" row-start="44" text="Attitudes towards and familiarity with virtual reality therapy among practicing cognitive behavior therapists: a cross-sectional survey study in the era of consumer VR platforms.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="44" row-start="44" text="Lindner et al. (2019)">
+   </cell>
+  </row>
+  <row row="45">
+   <cell col-end="0" col-start="0" row-end="45" row-start="45" text="Web-based intervention">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="45" row-start="45" text="250">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="45" row-start="45" text="Efficacy of a web-based intervention to increase uptake of maternal vaccines: an RCT.">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="45" row-start="45" text="O'Leary et al. (2019)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="9" text="All the Publication titles are unique." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

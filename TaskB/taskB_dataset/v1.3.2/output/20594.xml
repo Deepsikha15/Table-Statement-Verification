@@ -1,0 +1,616 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Deer population parameter values for simulating Franklin County deer population using MO
+   
+    Ov
+   
+   POP. Parameter values are derived from field-based surveys and harvest data collected by the Missouri Department of Conservation (MDC).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Parameter">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Value">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="post_harvest_density">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Initial deer density (per forested sq. mile)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="23">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="sexratio">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Male: female ratio in the population">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1:1.2">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="adultprop">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Adult proportion (≥ 25 months) in the population">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.4">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="yearlingprop">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Yearling proportion in the population">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.25">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="0.25 is the Yearling proportion in the population of Deer." type="entailed">
+   </statement>
+   <statement id="1" text="0.75 is the Yearling proportion in the population of Deer." type="refuted">
+   </statement>
+   <statement id="3" text="Deer population is counted by using MO Ov POP." type="entailed">
+   </statement>
+   <statement id="8" text="Post_harvest_density is used to find initial deer density per forested sq. mile." type="entailed">
+   </statement>
+   <statement id="11" text="Three types of NetLogo interface widgets are provided on the Graphical User Interface to set user-specified parameters: sliders, choosers and a switch ( Fig. 2 )." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 2">
+  <caption text="
+
+   Calibrated settings for MO
+   
+    Ov
+   
+   POP
+   
+    surveillance
+   
+   evaluation scenarios. These scenarios are simulated using baseline assumptions, i.e. random distribution of CWD+ individuals and random sampling.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Prevalence scenario">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Confidence level">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Sample size">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="%adult-male-harvest-tested">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="m-f-prev-ratio">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="adult-prevalence">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="0.5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.90">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="433">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.255">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="0.002">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="0.5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.95">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="554">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.325">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="0.002">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="0.5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.99">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="820">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.48">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="0.002">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="1%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.90">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="222">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.13">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="4" row-start="4" text="0.004">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="1%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.95">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="287">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.17">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="5" row-start="5" text="0.004">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="1%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.99">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="432">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.255">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="6" row-start="6" text="0.004">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="2%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.90">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="113">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.065">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="7" row-start="7" text="0.008">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="2%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.95">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="147">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.085">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="8" row-start="8" text="0.008">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="2%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.99">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="223">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.13">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="9" row-start="9" text="0.008">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.90">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="46">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.025">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="10" row-start="10" text="0.02">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.95">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="59">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.035">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="11" row-start="11" text="0.02">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="5%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.99">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="90">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.055">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="1">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="12" row-start="12" text="0.02">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The Confidence level has unique value." type="refuted">
+   </statement>
+   <statement id="5" text="The Lowest sample size value is 46." type="entailed">
+   </statement>
+   <statement id="7" text="The Prevalence scenario value starts from 0.1% to 0.5%." type="refuted">
+   </statement>
+   <statement id="8" text="The Prevalence scenario value starts from 0.5% to 5%." type="entailed">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 3">
+  <caption text="
+
+   Graphical User Interface settings for MO
+   
+    Ov
+   
+   POP
+   
+    surveillance
+   
+   baseline and alternate scenarios (Model Application).
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Scenario (baseline/alternate)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="adult-prevalence">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="m-f-prev-ratio">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="%adult-male-harvest-tested">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="%adult-female-harvest-tested">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="1">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="0.002">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="0.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="0.1">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="0.002">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="0.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="0.2">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="3">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="0.002">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="0.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="0.3">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="0.002">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="0.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="4" row-start="4" text="0.4">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="0.002">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="5" row-start="5" text="0.5">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="6">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="0.004">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="0.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="6" row-start="6" text="0.1">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="7">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="0.004">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="0.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="7" row-start="7" text="0.2">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="8">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="0.004">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="0.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="8" row-start="8" text="0.3">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="9">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="0.004">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="0.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="9" row-start="9" text="0.4">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="10">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="0.004">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="10" row-start="10" text="0.5">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="11">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="0.006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="0.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="11" row-start="11" text="0.1">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="12">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="0.006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="0.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="12" row-start="12" text="0.2">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="13">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="0.006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="13" row-start="13" text="0.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="13" row-start="13" text="0.3">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="14">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="0.006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="14" row-start="14" text="0.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="14" row-start="14" text="0.4">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="15">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="0.006">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="15" row-start="15" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="15" row-start="15" text="0.5">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="16">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="0.008">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="16" row-start="16" text="0.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="16" row-start="16" text="0.1">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="17">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="0.008">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="17" row-start="17" text="0.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="17" row-start="17" text="0.2">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="18">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="0.008">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="18" row-start="18" text="0.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="18" row-start="18" text="0.3">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="19">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="0.008">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="19" row-start="19" text="0.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="19" row-start="19" text="0.4">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="20">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="0.008">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="20" row-start="20" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="20" row-start="20" text="0.5">
+   </cell>
+  </row>
+  <row row="21">
+   <cell col-end="0" col-start="0" row-end="21" row-start="21" text="21">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="21" row-start="21" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="21" row-start="21" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="21" row-start="21" text="0.1">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="21" row-start="21" text="0.1">
+   </cell>
+  </row>
+  <row row="22">
+   <cell col-end="0" col-start="0" row-end="22" row-start="22" text="22">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="22" row-start="22" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="22" row-start="22" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="22" row-start="22" text="0.2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="22" row-start="22" text="0.2">
+   </cell>
+  </row>
+  <row row="23">
+   <cell col-end="0" col-start="0" row-end="23" row-start="23" text="23">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="23" row-start="23" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="23" row-start="23" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="23" row-start="23" text="0.3">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="23" row-start="23" text="0.3">
+   </cell>
+  </row>
+  <row row="24">
+   <cell col-end="0" col-start="0" row-end="24" row-start="24" text="24">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="24" row-start="24" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="24" row-start="24" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="24" row-start="24" text="0.4">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="24" row-start="24" text="0.4">
+   </cell>
+  </row>
+  <row row="25">
+   <cell col-end="0" col-start="0" row-end="25" row-start="25" text="25">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="25" row-start="25" text="0.01">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="25" row-start="25" text="0.5">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="25" row-start="25" text="0.5">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="25" row-start="25" text="0.5">
+   </cell>
+  </row>
+  <statements>
+   <statement id="0" text="%adult-male-harvest-tested and %adult-female-harvest-tested are ranges from 0.1 to 0.5." type="entailed">
+   </statement>
+   <statement id="1" text="%adult-male-harvest-tested and %adult-female-harvest-tested are ranges from 0.1 to 0.8." type="refuted">
+   </statement>
+   <statement id="2" text="adult-prevalence has same value for all the scenario." type="refuted">
+   </statement>
+   <statement id="5" text="Slider settings for both baseline and alternate scenarios simulated using MO Ov POPsurveillance are provided in Table 3 ." type="entailed">
+   </statement>
+   <statement id="7" text="The table contain the scenario (baseline/alternate) from 1 to 25." type="entailed">
+   </statement>
+   <statement id="8" text="The table contain the scenario (baseline/alternate) from 1 to 30." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

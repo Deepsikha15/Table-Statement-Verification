@@ -1,0 +1,118 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Sequencing information (MIxS) for Atlantic salmon blood transcriptome.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Item">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Description">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Classification">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="Animalia; Chordata; Salmoniformes; Salmonidae;
+     
+      Salmo salar">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Investigation type">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Eukaryote">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Project name">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Atlantic salmon blood transcriptome">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Geographic location
+     
+     (latitude and longitude)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="64°58′56.4”N 25°36′15.4″E">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Geographic location
+     
+     (country and/or sea, region)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Oulujoki, Finland">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Collected by">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Samuel C. Andrew, Jukka-Pekka Verta">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Collection date">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="2018-08-08">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Environment (biome)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="aquarium (ENVO:00002196)">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Environment (feature)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="fresh water aquarium (ENVO:00002198)">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Environment (material)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="fresh water (ENVO:00002011)">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Environmental package">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="Water">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Sequencing method">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="Illumina NextSeq 500, paired-end">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="Estimated Size">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="3–7 g">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="BioProject number">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="PRJNA626461">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="SRA accession numbers">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="SRR11570046, SRR11570047, SRR11570048, SRR11570049, SRR11570050, SRR11570051, SRR11570052, SRR11570053, SRR11570054, SRR11570055, SRR11570056, SRR11570057">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="The Estimated Size ranges from 3Ai7 g." type="entailed">
+   </statement>
+   <statement id="4" text="Under classification there are 5 kinds ." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,82 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Abbreviations and the corresponding explanation involving sample preparation and freezing operation.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Abbreviations">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Explanation">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="G
+     
+      X%">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="X% (w/v) hydrolyzed gelatin solution (X = 10, 15, 20, 25 or 30)">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="D">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Degassed samples (served as control)">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="B">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Samples containing NBs.">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="IF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Immersion freezing">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="CFUF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Constant-frequency ultrasound-assisted freezing">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="VFUF">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Variable-frequency ultrasound-assisted freezing">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="I/II">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="The first/second working segment of ultrasound (see operation details in
+     
+      Fig. 1
+     
+     B)">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="m kHz">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Working frequency of ultrasound (m = 28 or 40 kHz)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="CFUF means Constant-frequency ultrasound-assisted freezing." type="entailed">
+   </statement>
+   <statement id="4" text="IF means Immersion freezing explanation." type="entailed">
+   </statement>
+   <statement id="6" text="The B has a Samples containing NBs." type="entailed">
+   </statement>
+   <statement id="7" text="The m kHz means Working frequency of ultrasound (m = 28 or 40 kHz)." type="entailed">
+   </statement>
+   <statement id="8" text="There are 8 different types of Abbreviations in the given table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

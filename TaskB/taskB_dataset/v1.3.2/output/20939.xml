@@ -1,0 +1,435 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   (Academic parameters). Errors and majorants at the time step
+   
+
+
+      [
+     
+
+
+
+        t
+       
+
+
+
+        9
+       
+
+
+
+      ,
+     
+
+
+
+        t
+       
+
+
+
+        10
+       
+
+
+
+      ]
+     
+
+
+   ,
+   
+
+
+      τ
+     
+
+      =
+     
+
+      1
+     
+
+      .
+     
+
+      0
+     
+
+
+   , for
+   
+
+
+      h
+     
+
+      =
+     
+
+
+
+        1
+       
+
+
+
+        64
+       
+
+
+
+
+   , and
+   
+
+
+      I
+     
+
+      =
+     
+
+      5
+     
+
+
+   . The values are measured w.r.t. the increment in
+   
+
+
+
+       ‖
+      
+
+       p
+      
+
+       ‖
+      
+
+
+
+       p
+      
+
+
+
+       2
+      
+
+
+
+   and
+   
+
+
+
+       ‖
+      
+
+       u
+      
+
+       ‖
+      
+
+
+
+       u
+      
+
+
+
+       2
+      
+
+
+
+   .
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="i
+       
+
+        =
+       
+
+        1
+       
+
+        ,
+       
+
+        …
+       
+
+        ,
+       
+
+        I">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="‖
+        
+
+
+
+           e
+          
+
+
+
+           p
+          
+
+
+
+         ‖
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="M
+          
+
+
+          ¯
+         
+
+
+
+
+         p
+        
+
+
+
+         h">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="‖
+        
+
+
+
+           e
+          
+
+
+
+           p
+          
+
+
+
+         ‖
+        
+
+
+
+         β
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="M
+          
+
+
+          ¯
+         
+
+
+
+
+         p
+        
+
+         ,
+        
+
+
+
+           L
+          
+
+
+
+           2
+          
+
+
+
+
+
+         h">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="‖
+        
+
+
+
+           e
+          
+
+
+
+           u
+          
+
+
+
+         ‖
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="0" row-start="0" text="M
+          
+
+
+          ¯
+         
+
+
+
+
+         u
+        
+
+
+
+         h">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="0" row-start="0" text="‖
+        
+
+         div
+        
+
+
+
+           e
+          
+
+
+
+           u
+          
+
+
+
+         ‖
+        
+
+
+
+         λ
+        
+
+
+
+         2">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="0" row-start="0" text="M
+          
+
+
+          ¯
+         
+
+
+
+
+         u
+        
+
+         ,
+        
+
+         div
+        
+
+
+
+         h">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="2">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="1.87e−04">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="1.87e−04">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="4.77e−09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="8.90e−06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="1.86e−04">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="1" row-start="1" text="4.95e−04">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="1" row-start="1" text="4.45e−05">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="1" row-start="1" text="1.06e−04">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="4">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="1.87e−04">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="1.87e−04">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="2.04e−09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="8.90e−06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="1.86e−04">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="2" row-start="2" text="4.95e−04">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="2" row-start="2" text="4.45e−05">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="2" row-start="2" text="1.06e−04">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="5">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="1.87e−04">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="1.87e−04">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="2.04e−09">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="8.90e−06">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="1.86e−04">
+   </cell>
+   <cell col-end="6" col-start="6" row-end="3" row-start="3" text="4.95e−04">
+   </cell>
+   <cell col-end="7" col-start="7" row-end="3" row-start="3" text="4.45e−05">
+   </cell>
+   <cell col-end="8" col-start="8" row-end="3" row-start="3" text="1.06e−04">
+   </cell>
+  </row>
+  <statements>
+   <statement id="3" text="The highest value in the given table is 8.90e06 for  e u  2." type="refuted">
+   </statement>
+   <statement id="6" text="There are 3 i values considered in the given table." type="entailed">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,358 @@
+<document>
+ <table id="Table 3">
+  <caption text="
+
+   Manually annotated items.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Item">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Type of data">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Description">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="Category">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Thick index">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="normal or not (thick or fat)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="expert judgment">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Macroglossia index">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="normal or not">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="expert judgment">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Judgment of fissured tongue">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="with or without cracks">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="expert judgment">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Judgment of tooth marks">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="with or without marks">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="4" row-start="4" text="expert judgment">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Smooth or shiny index">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="normal or not (smooth or shiny)">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="5" row-start="5" text="expert judgment">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Constitutional types">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="9 indicators (see
+     
+      Table 4
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="6" row-start="6" text="physical factors">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Scale for osteoporosis">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="questionnaire">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="primary and specific form">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="7" row-start="7" text="physical factors">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Frailty assessment scale">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="questionnaire">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="SARC-F and FRAIL form">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="8" row-start="8" text="physical factors">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Scale for geriatric depression">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="questionnaire">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="CGS short form">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="9" row-start="9" text="mental factors">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="Opinion for clinical imaging examination">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="10 indicators (see
+     
+      Table 4
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="10" row-start="10" text="clinical observations">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="Opinion for laboratory indicators">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="20 indicators (see
+     
+      Table 4
+     
+     )">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="11" row-start="11" text="clinical observations">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="Additional information">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="free text">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="the patient's sitting height and the distance between the patient and intelligent mirror">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="12" row-start="12" text="other factors">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Scale for geriatric depression Item has unique Category i.e, Physical factors." type="refuted">
+   </statement>
+   <statement id="4" text="The Item Additional information will have same Category compare to others Items." type="refuted">
+   </statement>
+   <statement id="5" text="The Item Additional information will have unique Category compare to others Items." type="entailed">
+   </statement>
+   <statement id="6" text="The table contain 15 unique Items." type="refuted">
+   </statement>
+   <statement id="7" text="The Table contain 4 categories." type="entailed">
+   </statement>
+   <statement id="8" text="The Table contain 5 categories." type="refuted">
+   </statement>
+  </statements>
+ </table>
+ <table id="Table 4">
+  <caption text="
+
+   Indicators used in the manually annotated dataset.
+  
+">
+  </caption>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Constitutional types">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Clinical imaging examination">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="Laboratory indicators">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Yin-yang harmony (平和质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="ECG (electrocardiogram)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="Blood routine">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Qi asthenia (气虚质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="Heart ultrasound">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="Urine routine">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="Yang asthenia (阳虚质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="Head magnetic resonance">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="Stool routine">
+   </cell>
+  </row>
+  <row row="4">
+   <cell col-end="0" col-start="0" row-end="4" row-start="4" text="Yin asthenia (阴虚质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="4" row-start="4" text="Chest CT (computed tomography) scan">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="4" row-start="4" text="Liver Function">
+   </cell>
+  </row>
+  <row row="5">
+   <cell col-end="0" col-start="0" row-end="5" row-start="5" text="Phlegm-dampness (痰湿质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="5" row-start="5" text="Abdominal ultrasound exam (liver, gallbladder, spleen, and pancreas)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="5" row-start="5" text="Renal function">
+   </cell>
+  </row>
+  <row row="6">
+   <cell col-end="0" col-start="0" row-end="6" row-start="6" text="Blood stasis (血瘀质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="6" row-start="6" text="Renal ultrasound (kidneys, ureters, and bladder)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="6" row-start="6" text="Blood Lipid">
+   </cell>
+  </row>
+  <row row="7">
+   <cell col-end="0" col-start="0" row-end="7" row-start="7" text="Dampness-heat (湿热质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="7" row-start="7" text="Thyroid ultrasound">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="7" row-start="7" text="B-type natriuretic peptide">
+   </cell>
+  </row>
+  <row row="8">
+   <cell col-end="0" col-start="0" row-end="8" row-start="8" text="Qi stagnation (气郁质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="8" row-start="8" text="Color doppler ultrasonography of the abdominal aorta (portal vein, the caudal vena cava, and their main abdominal branches and tributaries)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="8" row-start="8" text="C-reactive protein">
+   </cell>
+  </row>
+  <row row="9">
+   <cell col-end="0" col-start="0" row-end="9" row-start="9" text="Special temperament (特禀质)">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="9" row-start="9" text="Venous ultrasound (lower extremity arteriovenous)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="9" row-start="9" text="Erythrocyte sedimentation rate">
+   </cell>
+  </row>
+  <row row="10">
+   <cell col-end="0" col-start="0" row-end="10" row-start="10" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="10" row-start="10" text="Carotid ultrasound">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="10" row-start="10" text="Blood electrolyte">
+   </cell>
+  </row>
+  <row row="11">
+   <cell col-end="0" col-start="0" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="11" row-start="11" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="11" row-start="11" text="Carcinoembryonic antigen">
+   </cell>
+  </row>
+  <row row="12">
+   <cell col-end="0" col-start="0" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="12" row-start="12" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="12" row-start="12" text="Thyroid function">
+   </cell>
+  </row>
+  <row row="13">
+   <cell col-end="0" col-start="0" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="13" row-start="13" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="13" row-start="13" text="25 hydroxyvitamin D">
+   </cell>
+  </row>
+  <row row="14">
+   <cell col-end="0" col-start="0" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="14" row-start="14" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="14" row-start="14" text="β
+     
+     -CTX">
+   </cell>
+  </row>
+  <row row="15">
+   <cell col-end="0" col-start="0" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="15" row-start="15" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="15" row-start="15" text="Serum osteocalcin">
+   </cell>
+  </row>
+  <row row="16">
+   <cell col-end="0" col-start="0" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="16" row-start="16" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="16" row-start="16" text="C-terminal (P1CP) propeptides of Type I collagen">
+   </cell>
+  </row>
+  <row row="17">
+   <cell col-end="0" col-start="0" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="17" row-start="17" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="17" row-start="17" text="Thyroid peroxidase antibody">
+   </cell>
+  </row>
+  <row row="18">
+   <cell col-end="0" col-start="0" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="18" row-start="18" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="18" row-start="18" text="Bone-derived alkaline phosphatase">
+   </cell>
+  </row>
+  <row row="19">
+   <cell col-end="0" col-start="0" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="19" row-start="19" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="19" row-start="19" text="Glycated haemoglobin (HbA1c)">
+   </cell>
+  </row>
+  <row row="20">
+   <cell col-end="0" col-start="0" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="20" row-start="20" text="">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="20" row-start="20" text="Procalcitonin">
+   </cell>
+  </row>
+  <statements>
+   <statement id="1" text="Constitutional types Yin-yang harmony and Blood stasis has Blood indicators." type="entailed">
+   </statement>
+   <statement id="2" text="Each constitutional types has different laboratory indicators." type="entailed">
+   </statement>
+   <statement id="3" text="Only constitutional type dampness-heat has Heart ultrasound examination." type="refuted">
+   </statement>
+   <statement id="4" text="Table 4 lists all the indicators used in the manually annotated documents." type="entailed">
+   </statement>
+   <statement id="5" text="There are nine constitutional types given." type="entailed">
+   </statement>
+   <statement id="6" text="There are Ten constitutional types given." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>

@@ -1,0 +1,96 @@
+<document>
+ <table id="Table 1">
+  <caption text="
+
+   Participant demographics.
+  
+">
+  </caption>
+  <legend text="
+
+   Data given as median (interquartile range) where appropriate. Abbreviations: forced expiratory volume in one second, FEV
+   
+    1
+   
+   ; forced vital capacity, FVC; not available, N/A. *Data only available for 2 participants
+  
+">
+  </legend>
+  <row row="0">
+   <cell col-end="0" col-start="0" row-end="0" row-start="0" text="Group">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="0" row-start="0" text="Age (years), median (IQR)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="0" row-start="0" text="% male">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="0" row-start="0" text="FEV
+     
+      1
+     
+     (% predicted), median (IQR)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="0" row-start="0" text="FVC (% predicted), median (IQR)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="0" row-start="0" text="Pack year history, median (IQR)">
+   </cell>
+  </row>
+  <row row="1">
+   <cell col-end="0" col-start="0" row-end="1" row-start="1" text="Heathy young">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="1" row-start="1" text="27 (4)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="1" row-start="1" text="50">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="1" row-start="1" text="N/A">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="1" row-start="1" text="N/A">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="1" row-start="1" text="N/A">
+   </cell>
+  </row>
+  <row row="2">
+   <cell col-end="0" col-start="0" row-end="2" row-start="2" text="Healthy elderly">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="2" row-start="2" text="N/A">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="2" row-start="2" text="50*">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="2" row-start="2" text="N/A">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="2" row-start="2" text="N/A">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="2" row-start="2" text="N/A">
+   </cell>
+  </row>
+  <row row="3">
+   <cell col-end="0" col-start="0" row-end="3" row-start="3" text="COPD">
+   </cell>
+   <cell col-end="1" col-start="1" row-end="3" row-start="3" text="77.5 (7.25)">
+   </cell>
+   <cell col-end="2" col-start="2" row-end="3" row-start="3" text="83">
+   </cell>
+   <cell col-end="3" col-start="3" row-end="3" row-start="3" text="61.5 (29)">
+   </cell>
+   <cell col-end="4" col-start="4" row-end="3" row-start="3" text="97.5 (16)">
+   </cell>
+   <cell col-end="5" col-start="5" row-end="3" row-start="3" text="40 (33)">
+   </cell>
+  </row>
+  <statements>
+   <statement id="2" text="The % male is no same for both Healthy young and Healthy elderly group." type="refuted">
+   </statement>
+   <statement id="3" text="The % male is same for both Healthy young and Healthy elderly group." type="entailed">
+   </statement>
+   <statement id="5" text="The FEV 1, FVC and Pack year history data is available for both Healthy young and Healthy elderly group." type="refuted">
+   </statement>
+   <statement id="6" text="The FEV 1, FVC and Pack year history data is N/A for both Healthy young and Healthy elderly group." type="entailed">
+   </statement>
+   <statement id="7" text="The highest % male is 83 for COPD group." type="entailed">
+   </statement>
+   <statement id="8" text="There are 3 Groups in the given table." type="entailed">
+   </statement>
+   <statement id="9" text="There are 4 Groups in the given table." type="refuted">
+   </statement>
+  </statements>
+ </table>
+</document>
